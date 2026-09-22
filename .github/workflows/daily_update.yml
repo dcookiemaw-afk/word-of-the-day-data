@@ -2,8 +2,8 @@ name: Daily Word Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
-  workflow_dispatch: # Allows you to run it manually for testing
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,14 +18,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.10' # Newer version to stop warnings
 
       - name: Install Dependencies
         run: pip install google-generativeai
 
       - name: Run Word Generator
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Links your secret to the script
         run: python generate_words.py
 
       - name: Commit and Push Changes
