@@ -9,8 +9,8 @@ if not api_key:
     print("Error: GOOGLE_API_KEY environment variable is empty or missing.")
     exit(1)
 
-# Target the official stable public Gemini 1.5 Flash endpoint directly
-url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+# Target the official stable public Gemini v1 production endpoint directly
+url = f"https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key={api_key}"
 
 languages = ["English", "Spanish", "French", "German", "Japanese", "Italian", "Chinese", "Korean"]
 
@@ -37,7 +37,7 @@ headers = {
 }
 
 try:
-    print("Sending direct request to Gemini API...")
+    print("Sending direct request to Gemini v1 API...")
     response = requests.post(url, json=payload, headers=headers)
     
     # Check if request succeeded
@@ -55,7 +55,7 @@ try:
     with open('words.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print("Successfully generated and saved words.json via direct API endpoint request!")
+    print("Successfully generated and saved words.json via direct stable API endpoint request!")
 
 except Exception as e:
     print(f"Error occurred during generation: {e}")
