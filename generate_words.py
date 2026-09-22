@@ -4,7 +4,7 @@ import json
 import re
 
 # We will use the library's preferred variable name
-api_key = os.environ.get("GOOGLE_API_KEY_WORD_OF_THE_DAY")
+api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
 
 if not api_key:
     print("Error: GOOGLE_API_KEY not found in environment variables.")
