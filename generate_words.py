@@ -1,7 +1,7 @@
 import os
-import google.generativeai as genai
 import json
 import re
+from google import genai
 
 # Read the environment variable passed by GitHub
 api_key = os.environ.get("GOOGLE_API_KEY")
@@ -10,9 +10,8 @@ if not api_key:
     print("Error: GOOGLE_API_KEY environment variable is empty or missing.")
     exit(1)
 
-# Configure the AI library
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# Configure the modern Google GenAI Client
+client = genai.Client(api_key=api_key)
 
 # Define the languages you want to support
 languages = ["English", "Spanish", "French", "German", "Japanese", "Italian", "Chinese", "Korean"]
@@ -25,10 +24,13 @@ prompt = (
 )
 
 try:
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model='gemini-1.5-flash',
+        contents=prompt
+    )
     text = response.text.strip()
     
-    # Extract JSON content
+    # Extract JSON content if any markdown wrapper exists
     json_match = re.search(r'\{.*\}', text, re.DOTALL)
     if json_match:
         text = json_match.group(0)
@@ -36,7 +38,7 @@ try:
     data = json.loads(text)
     with open('words.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print("Successfully generated and saved words.json!")
+    print("Successfully generated and saved words.json using modern Google GenAI SDK!")
 
 except Exception as e:
     print(f"Error occurred during generation: {e}")
