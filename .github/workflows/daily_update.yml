@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Word Generator
         env:
-          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Links your secret to the script
+          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }} # Updated to match your secret name
         run: python generate_words.py
 
       - name: Commit and Push Changes
