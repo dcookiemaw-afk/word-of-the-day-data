@@ -3,42 +3,82 @@
     {
       "lang": "English",
       "word": "Petrichor",
-      "translation": "The pleasant, earthy smell that accompanies the first rain after a dry spell."
+      "translation": "The earthy scent produced when rain falls on dry soil",
+      "type": "Noun",
+      "sentence1": "The air was filled with petrichor after the summer storm. (The air was filled with the scent of rain after the summer storm.)",
+      "sentence2": "She stepped outside to enjoy the sweet petrichor. (She stepped outside to enjoy the sweet scent of rain on dry earth.)"
     },
     {
       "lang": "Spanish",
-      "word": "Sobremesa",
-      "translation": "The time spent lingering around the table after a meal, engaged in conversation."
+      "word": "Querencia",
+      "translation": "A place where one feels safe and at home",
+      "type": "Noun",
+      "sentence1": "Este rincón del jardín es mi querencia. (This corner of the garden is my safe place.)",
+      "sentence2": "El escritor encontró su querencia en un pequeño pueblo costero. (The writer found his sanctuary in a small coastal town.)"
     },
     {
       "lang": "French",
-      "word": "Dépaysement",
-      "translation": "The feeling of disorientation or displacement one gets from being in a foreign country."
+      "word": "Éphémère",
+      "translation": "Ephemeral; lasting for a very short time",
+      "type": "Adjective",
+      "sentence1": "La beauté des fleurs de cerisier est éphémère. (The beauty of cherry blossoms is ephemeral.)",
+      "sentence2": "Ils ont partagé un instant d'un bonheur éphémère. (They shared a moment of fleeting happiness.)"
     },
     {
       "lang": "German",
       "word": "Waldeinsamkeit",
-      "translation": "The feeling of solitude and connectedness to nature when being alone in the woods."
+      "translation": "The feeling of being alone in the woods and connected to nature",
+      "type": "Noun",
+      "sentence1": "Ich suche oft die Waldeinsamkeit, um dem Lärm der Stadt zu entfliehen. (I often seek the solitude of the forest to escape the noise of the city.)",
+      "sentence2": "Die Waldeinsamkeit schenkte ihr inneren Frieden. (The solitude of the forest gave her inner peace.)"
     },
     {
       "lang": "Japanese",
       "word": "Komorebi (木漏れ日)",
-      "translation": "Sunlight filtering through the leaves of trees."
+      "translation": "Sunlight filtering through the trees",
+      "type": "Noun",
+      "sentence1": "森を歩いていると、美しい木漏れ日が見えた。 (While walking through the forest, I saw beautiful sunlight filtering through the trees.)",
+      "sentence2": "木漏れ日が彼女の顔を優しく照らした。 (The sunlight filtering through the trees gently illuminated her face.)"
     },
     {
       "lang": "Italian",
       "word": "Sprezzatura",
-      "translation": "A studied nonchalance; making a highly difficult task look completely effortless."
+      "translation": "A certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort",
+      "type": "Noun",
+      "sentence1": "Lui indossa quel vecchio cappotto con una naturale sprezzatura. (He wears that old coat with a natural, effortless elegance.)",
+      "sentence2": "La sua arte esprime una straordinaria sprezzatura. (His art expresses an extraordinary effortless grace.)"
     },
     {
       "lang": "Chinese",
       "word": "Yuanfen (缘分)",
-      "translation": "The binding force or fateful connection that brings people together."
+      "translation": "The binding force or fate that brings people together",
+      "type": "Noun",
+      "sentence1": "我们能在这里相遇，真是奇妙的缘分。 (Our meeting here is truly a wonderful twist of fate.)",
+      "sentence2": "有些事情只能看缘分，不能强求。 (Some things can only depend on fate; they cannot be forced.)"
     },
     {
       "lang": "Korean",
-      "word": "Nunchi (눈치)",
-      "translation": "The subtle art of estimating other people's needs, moods, and feelings to foster harmony."
+      "word": "Younseul (윤슬)",
+      "translation": "Sunlight or moonlight rippling on the water",
+      "type": "Noun",
+      "sentence1": "바다 위에 비치는 윤슬이 아름답습니다. (The sunlight rippling on the surface of the sea is beautiful.)",
+      "sentence2": "그녀는 강물에 반짝이는 윤슬을 바라보았다. (She gazed at the sparkling ripples of moonlight on the river.)"
+    },
+    {
+      "lang": "Khmer",
+      "word": "Moneasanka (មនោសញ្ចេតនា)",
+      "translation": "Deep emotional feelings or affection",
+      "type": "Noun",
+      "sentence1": "ពួកគេមានមនោសញ្ចេតនាយ៉ាងជ្រាលជ្រៅចំពោះគ្នា។ (They have deep emotional feelings for each other.)",
+      "sentence2": "សៀវភៅនេះដាស់មនោសញ្ចេតនាយ៉ាងខ្លាំង។ (This book awakens strong emotional feelings.)"
+    },
+    {
+      "lang": "Afrikaans",
+      "word": "Snoesig",
+      "translation": "Cozy, snug, or comfortable",
+      "type": "Adjective",
+      "sentence1": "Dit is heerlik snoesig voor die kaggel op 'n koue winterswand. (It is wonderfully cozy in front of the fireplace on a cold winter night.)",
+      "sentence2": "Sy het haar in 'n snoesige kombers toegedraai. (She wrapped herself in a cozy blanket.)"
     }
   ]
 }
