@@ -3,82 +3,82 @@
     {
       "lang": "English",
       "word": "Petrichor",
-      "translation": "The earthy scent produced when rain falls on dry soil",
+      "translation": "The pleasant, earthy smell of rain on dry soil.",
       "type": "Noun",
-      "sentence1": "The air was filled with petrichor after the summer storm. (The air was filled with the scent of rain after the summer storm.)",
-      "sentence2": "She stepped outside to enjoy the sweet petrichor. (She stepped outside to enjoy the sweet scent of rain on dry earth.)"
+      "sentence1": "The sudden summer shower brought out a lovely petrichor that filled the garden. (The sudden summer shower brought out a lovely smell of rain that filled the garden.)",
+      "sentence2": "After months of drought, the first rain released a deep petrichor across the valley. (After months of drought, the first rain released a deep earthy scent across the valley.)"
     },
     {
       "lang": "Spanish",
-      "word": "Querencia",
-      "translation": "A place where one feels safe and at home",
+      "word": "Sobremesa",
+      "translation": "The time spent relaxing and talking after a meal.",
       "type": "Noun",
-      "sentence1": "Este rincón del jardín es mi querencia. (This corner of the garden is my safe place.)",
-      "sentence2": "El escritor encontró su querencia en un pequeño pueblo costero. (The writer found his sanctuary in a small coastal town.)"
+      "sentence1": "Disfrutamos de una larga sobremesa con café y anécdotas. (We enjoyed a long time talking after the meal with coffee and stories.)",
+      "sentence2": "La sobremesa es mi parte favorita de las reuniones familiares. (The post-meal conversation is my favorite part of family gatherings.)"
     },
     {
       "lang": "French",
       "word": "Éphémère",
-      "translation": "Ephemeral; lasting for a very short time",
+      "translation": "Lasting for a very short time; fleeting.",
       "type": "Adjective",
-      "sentence1": "La beauté des fleurs de cerisier est éphémère. (The beauty of cherry blossoms is ephemeral.)",
-      "sentence2": "Ils ont partagé un instant d'un bonheur éphémère. (They shared a moment of fleeting happiness.)"
+      "sentence1": "La beauté d'un coucher de soleil est toujours éphémère. (The beauty of a sunset is always fleeting.)",
+      "sentence2": "Nous avons partagé un moment éphémère de paix au bord du lac. (We shared a fleeting moment of peace by the lake.)"
     },
     {
       "lang": "German",
-      "word": "Waldeinsamkeit",
-      "translation": "The feeling of being alone in the woods and connected to nature",
+      "word": "Fernweh",
+      "translation": "A longing for far-off places; wanderlust.",
       "type": "Noun",
-      "sentence1": "Ich suche oft die Waldeinsamkeit, um dem Lärm der Stadt zu entfliehen. (I often seek the solitude of the forest to escape the noise of the city.)",
-      "sentence2": "Die Waldeinsamkeit schenkte ihr inneren Frieden. (The solitude of the forest gave her inner peace.)"
+      "sentence1": "Wenn ich den alten Atlas aufschlage, packt mich sofort das Fernweh. (When I open the old atlas, I am immediately overcome by wanderlust.)",
+      "sentence2": "Sie konnte ihr Fernweh nicht länger unterdrücken und buchte ein Flugticket. (She could no longer suppress her longing for far-off places and booked a plane ticket.)"
     },
     {
       "lang": "Japanese",
-      "word": "Komorebi (木漏れ日)",
-      "translation": "Sunlight filtering through the trees",
+      "word": "Komorebi",
+      "translation": "Sunlight filtering through the leaves of trees.",
       "type": "Noun",
-      "sentence1": "森を歩いていると、美しい木漏れ日が見えた。 (While walking through the forest, I saw beautiful sunlight filtering through the trees.)",
-      "sentence2": "木漏れ日が彼女の顔を優しく照らした。 (The sunlight filtering through the trees gently illuminated her face.)"
+      "sentence1": "森の中の木漏れ日がとても美しかった。 (The sunlight filtering through the trees in the forest was very beautiful.)",
+      "sentence2": "木漏れ日を浴びながら散歩をするのが好きだ。 (I like taking walks while bathing in the sunlight filtering through the trees.)"
     },
     {
       "lang": "Italian",
-      "word": "Sprezzatura",
-      "translation": "A certain nonchalance, so as to conceal all art and make whatever one does or says appear to be without effort",
-      "type": "Noun",
-      "sentence1": "Lui indossa quel vecchio cappotto con una naturale sprezzatura. (He wears that old coat with a natural, effortless elegance.)",
-      "sentence2": "La sua arte esprime una straordinaria sprezzatura. (His art expresses an extraordinary effortless grace.)"
+      "word": "Meriggiare",
+      "translation": "To rest in the shade during the hottest hours of the day.",
+      "type": "Verb",
+      "sentence1": "Ci piace meriggiare sotto i pini durante le calde giornate estive. (We like resting in the shade under the pine trees during the hot summer days.)",
+      "sentence2": "Il gatto ha scelto di meriggiare nel punto più fresco del giardino. (The cat chose to rest in the shade in the coolest spot of the garden.)"
     },
     {
       "lang": "Chinese",
-      "word": "Yuanfen (缘分)",
-      "translation": "The binding force or fate that brings people together",
+      "word": "岁月 (Suìyuè)",
+      "translation": "Years; the passage of time; time and experience.",
       "type": "Noun",
-      "sentence1": "我们能在这里相遇，真是奇妙的缘分。 (Our meeting here is truly a wonderful twist of fate.)",
-      "sentence2": "有些事情只能看缘分，不能强求。 (Some things can only depend on fate; they cannot be forced.)"
+      "sentence1": "岁月如梭，转眼间我们都长大了。 (Time flies like a shuttle; in the blink of an eye, we have all grown up.)",
+      "sentence2": "她经历过岁月的洗礼，变得更加从容淡定。 (Having gone through the baptism of time, she has become more calm and composed.)"
     },
     {
       "lang": "Korean",
-      "word": "Younseul (윤슬)",
-      "translation": "Sunlight or moonlight rippling on the water",
+      "word": "그루잠 (Geurujam)",
+      "translation": "A short, deep sleep from which you wake up but then fall back into.",
       "type": "Noun",
-      "sentence1": "바다 위에 비치는 윤슬이 아름답습니다. (The sunlight rippling on the surface of the sea is beautiful.)",
-      "sentence2": "그녀는 강물에 반짝이는 윤슬을 바라보았다. (She gazed at the sparkling ripples of moonlight on the river.)"
+      "sentence1": "일요일 아침, 그루잠을 자는 시간만큼 행복한 것은 없다. (On Sunday mornings, there is nothing as happy as the time spent in a short, deep sleep.)",
+      "sentence2": "그루잠 끝에 꾼 꿈은 무척이나 평화로웠다. (The dream I had after falling back into a short, deep sleep was very peaceful.)"
     },
     {
       "lang": "Khmer",
-      "word": "Moneasanka (មនោសញ្ចេតនា)",
-      "translation": "Deep emotional feelings or affection",
+      "word": "សេរីភាព (Seripheap)",
+      "translation": "Freedom or liberty.",
       "type": "Noun",
-      "sentence1": "ពួកគេមានមនោសញ្ចេតនាយ៉ាងជ្រាលជ្រៅចំពោះគ្នា។ (They have deep emotional feelings for each other.)",
-      "sentence2": "សៀវភៅនេះដាស់មនោសញ្ចេតនាយ៉ាងខ្លាំង។ (This book awakens strong emotional feelings.)"
+      "sentence1": "សេរីភាពគឺជាក្តីប្រាថ្នារបស់មនុស្សគ្រប់រូប។ (Freedom is the desire of every human being.)",
+      "sentence2": "យើងចង់បានសេរីភាពក្នុងការជ្រើសរើសផ្លូវជីវិតផ្ទាល់ខ្លួន។ (We want the freedom to choose our own paths in life.)"
     },
     {
       "lang": "Afrikaans",
-      "word": "Snoesig",
-      "translation": "Cozy, snug, or comfortable",
+      "word": "Gesellig",
+      "translation": "Sociable, cozy, or friendly atmosphere.",
       "type": "Adjective",
-      "sentence1": "Dit is heerlik snoesig voor die kaggel op 'n koue winterswand. (It is wonderfully cozy in front of the fireplace on a cold winter night.)",
-      "sentence2": "Sy het haar in 'n snoesige kombers toegedraai. (She wrapped herself in a cozy blanket.)"
+      "sentence1": "Dit was 'n baie gesellige aand met goeie vriende. (It was a very cozy and sociable evening with good friends.)",
+      "sentence2": "Hulle het 'n gesellige huisie in die platteland. (They have a cozy, friendly house in the countryside.)"
     }
   ]
 }
