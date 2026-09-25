@@ -3,82 +3,82 @@
     {
       "lang": "English",
       "word": "Petrichor",
-      "translation": "The pleasant, earthy smell of rain on dry soil.",
+      "translation": "The pleasant, earthy smell after rain",
       "type": "Noun",
-      "sentence1": "The sudden summer shower brought out a lovely petrichor that filled the garden. (The sudden summer shower brought out a lovely smell of rain that filled the garden.)",
-      "sentence2": "After months of drought, the first rain released a deep petrichor across the valley. (After months of drought, the first rain released a deep earthy scent across the valley.)"
+      "sentence1": "After the summer storm, the garden was filled with a refreshing petrichor. (After the summer storm, the garden was filled with a refreshing petrichor.)",
+      "sentence2": "She closed her eyes to inhale the earthy petrichor rising from the dry pavement. (She closed her eyes to inhale the earthy petrichor rising from the dry pavement.)"
     },
     {
       "lang": "Spanish",
-      "word": "Sobremesa",
-      "translation": "The time spent relaxing and talking after a meal.",
+      "word": "Madrugada",
+      "translation": "Dawn or early morning hours",
       "type": "Noun",
-      "sentence1": "Disfrutamos de una larga sobremesa con café y anécdotas. (We enjoyed a long time talking after the meal with coffee and stories.)",
-      "sentence2": "La sobremesa es mi parte favorita de las reuniones familiares. (The post-meal conversation is my favorite part of family gatherings.)"
+      "sentence1": "Me encanta caminar por la ciudad silenciosa en plena madrugada. (I love walking through the silent city in the middle of the early dawn.)",
+      "sentence2": "Salieron de viaje a la madrugada para evitar el tráfico. (They left for their trip at dawn to avoid the traffic.)"
     },
     {
       "lang": "French",
-      "word": "Éphémère",
-      "translation": "Lasting for a very short time; fleeting.",
-      "type": "Adjective",
-      "sentence1": "La beauté d'un coucher de soleil est toujours éphémère. (The beauty of a sunset is always fleeting.)",
-      "sentence2": "Nous avons partagé un moment éphémère de paix au bord du lac. (We shared a fleeting moment of peace by the lake.)"
+      "word": "Retrouvailles",
+      "translation": "The joy of reuniting with someone after a long time",
+      "type": "Noun",
+      "sentence1": "Les retrouvailles à la gare furent pleines de larmes et de sourires. (The reunion at the station was full of tears and smiles.)",
+      "sentence2": "Il y a une émotion particulière dans ces longues retrouvailles familiales. (There is a special emotion in these long family reunions.)"
     },
     {
       "lang": "German",
       "word": "Fernweh",
-      "translation": "A longing for far-off places; wanderlust.",
+      "translation": "A longing for far-off places; homesickness for the unknown",
       "type": "Noun",
-      "sentence1": "Wenn ich den alten Atlas aufschlage, packt mich sofort das Fernweh. (When I open the old atlas, I am immediately overcome by wanderlust.)",
-      "sentence2": "Sie konnte ihr Fernweh nicht länger unterdrücken und buchte ein Flugticket. (She could no longer suppress her longing for far-off places and booked a plane ticket.)"
+      "sentence1": "Beim Anblick der alten Landkarte überkam ihn sofort das Fernweh. (Looking at the old map, wanderlust immediately overcame him.)",
+      "sentence2": "Ihr Fernweh trieb sie dazu, ein One-Way-Ticket nach Asien zu buchen. (Her wanderlust drove her to book a one-way ticket to Asia.)"
     },
     {
       "lang": "Japanese",
-      "word": "Komorebi",
-      "translation": "Sunlight filtering through the leaves of trees.",
+      "word": "木漏れ日",
+      "translation": "Sunlight filtering through the leaves of trees",
       "type": "Noun",
-      "sentence1": "森の中の木漏れ日がとても美しかった。 (The sunlight filtering through the trees in the forest was very beautiful.)",
-      "sentence2": "木漏れ日を浴びながら散歩をするのが好きだ。 (I like taking walks while bathing in the sunlight filtering through the trees.)"
+      "sentence1": "森の小道で美しい木漏れ日に癒された。 (I was healed by the beautiful sunlight filtering through the trees on the forest path.)",
+      "sentence2": "木漏れ日の下で読書をするのが一番好きです。 (I love reading books beneath the sunlight filtering through the leaves most of all.)"
     },
     {
       "lang": "Italian",
-      "word": "Meriggiare",
-      "translation": "To rest in the shade during the hottest hours of the day.",
-      "type": "Verb",
-      "sentence1": "Ci piace meriggiare sotto i pini durante le calde giornate estive. (We like resting in the shade under the pine trees during the hot summer days.)",
-      "sentence2": "Il gatto ha scelto di meriggiare nel punto più fresco del giardino. (The cat chose to rest in the shade in the coolest spot of the garden.)"
+      "word": "Culaccino",
+      "translation": "The mark left on a table by a cold, wet glass",
+      "type": "Noun",
+      "sentence1": "Per favore, usa un sottobicchiere per non lasciare il culaccino sul legno. (Please use a coaster so you don't leave the glass ring on the wood.)",
+      "sentence2": "Il tavolo di marmo era pieno di culaccini dopo la festa. (The marble table was full of glass rings after the party.)"
     },
     {
       "lang": "Chinese",
-      "word": "岁月 (Suìyuè)",
-      "translation": "Years; the passage of time; time and experience.",
+      "word": "缘分",
+      "translation": "Fateful affinity or destiny that brings people together",
       "type": "Noun",
-      "sentence1": "岁月如梭，转眼间我们都长大了。 (Time flies like a shuttle; in the blink of an eye, we have all grown up.)",
-      "sentence2": "她经历过岁月的洗礼，变得更加从容淡定。 (Having gone through the baptism of time, she has become more calm and composed.)"
+      "sentence1": "能在异国他乡遇到老同学，真是莫大的缘分。 (To be able to meet an old classmate in a foreign land is truly a wonderful destiny.)",
+      "sentence2": "他们两个人的相遇充满了缘分。 (The meeting of those two people was full of fateful affinity.)"
     },
     {
       "lang": "Korean",
-      "word": "그루잠 (Geurujam)",
-      "translation": "A short, deep sleep from which you wake up but then fall back into.",
-      "type": "Noun",
-      "sentence1": "일요일 아침, 그루잠을 자는 시간만큼 행복한 것은 없다. (On Sunday mornings, there is nothing as happy as the time spent in a short, deep sleep.)",
-      "sentence2": "그루잠 끝에 꾼 꿈은 무척이나 평화로웠다. (The dream I had after falling back into a short, deep sleep was very peaceful.)"
+      "word": "눈부시다",
+      "translation": "Dazzling, radiant, or brilliantly bright",
+      "type": "Adjective",
+      "sentence1": "아침 햇살이 너무 눈부셔서 눈을 뜰 수가 없었다. (The morning sunlight was so dazzling that I couldn't open my eyes.)",
+      "sentence2": "그녀의 환한 미소가 청춘처럼 눈부시게 빛났다. (Her bright smile shone as dazzlingly as youth.)"
     },
     {
       "lang": "Khmer",
-      "word": "សេរីភាព (Seripheap)",
-      "translation": "Freedom or liberty.",
-      "type": "Noun",
-      "sentence1": "សេរីភាពគឺជាក្តីប្រាថ្នារបស់មនុស្សគ្រប់រូប។ (Freedom is the desire of every human being.)",
-      "sentence2": "យើងចង់បានសេរីភាពក្នុងការជ្រើសរើសផ្លូវជីវិតផ្ទាល់ខ្លួន។ (We want the freedom to choose our own paths in life.)"
+      "word": "ចម្រើន",
+      "translation": "To prosper, flourish, or grow in goodness",
+      "type": "Verb",
+      "sentence1": "សូមឱ្យគ្រួសាររបស់អ្នកទទួលបាននូវសេចក្តីសុខ និងការចម្រើនรุ่งเรือง។ (May your family attain happiness and prosperity.)",
+      "sentence2": "ប្រទេសជាតិយើងកំពុងតែមានការចម្រើនលើគ្រប់វិស័យ។ (Our nation is developing and flourishing in all sectors.)"
     },
     {
       "lang": "Afrikaans",
-      "word": "Gesellig",
-      "translation": "Sociable, cozy, or friendly atmosphere.",
-      "type": "Adjective",
-      "sentence1": "Dit was 'n baie gesellige aand met goeie vriende. (It was a very cozy and sociable evening with good friends.)",
-      "sentence2": "Hulle het 'n gesellige huisie in die platteland. (They have a cozy, friendly house in the countryside.)"
+      "word": "Vergesig",
+      "translation": "A scenic view or vista that stretches into the distance",
+      "type": "Noun",
+      "sentence1": "Die bergtop bied 'n pragtige vergesig oor die hele vallei. (The mountain peak offers a magnificent view over the entire valley.)",
+      "sentence2": "Sy staar verlore in die vergesig terwyl die son sak. (She stared dreamily into the distant vista as the sun set.)"
     }
   ]
 }
