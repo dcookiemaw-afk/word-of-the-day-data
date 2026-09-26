@@ -3,82 +3,82 @@
     {
       "lang": "English",
       "word": "Petrichor",
-      "translation": "The pleasant, earthy smell after rain",
+      "translation": "The pleasant, earthy smell of rain on dry soil",
       "type": "Noun",
-      "sentence1": "After the summer storm, the garden was filled with a refreshing petrichor. (After the summer storm, the garden was filled with a refreshing petrichor.)",
-      "sentence2": "She closed her eyes to inhale the earthy petrichor rising from the dry pavement. (She closed her eyes to inhale the earthy petrichor rising from the dry pavement.)"
+      "sentence1": "The sudden summer shower released a heavy scent of petrichor throughout the garden. (The sudden summer shower released a heavy scent of petrichor throughout the garden.)",
+      "sentence2": "She walked outside just to inhale the fresh petrichor after the long drought. (She walked outside just to inhale the fresh petrichor after the long drought.)"
     },
     {
       "lang": "Spanish",
-      "word": "Madrugada",
-      "translation": "Dawn or early morning hours",
+      "word": "Sobremesa",
+      "translation": "The time spent chatting after a meal",
       "type": "Noun",
-      "sentence1": "Me encanta caminar por la ciudad silenciosa en plena madrugada. (I love walking through the silent city in the middle of the early dawn.)",
-      "sentence2": "Salieron de viaje a la madrugada para evitar el tráfico. (They left for their trip at dawn to avoid the traffic.)"
+      "sentence1": "Tuvimos una larga sobremesa después de la cena familiar. (We had a long conversation after the family dinner.)",
+      "sentence2": "La sobremesa es mi parte favorita de comer en España. (The time spent chatting after a meal is my favorite part of eating in Spain.)"
     },
     {
       "lang": "French",
-      "word": "Retrouvailles",
-      "translation": "The joy of reuniting with someone after a long time",
-      "type": "Noun",
-      "sentence1": "Les retrouvailles à la gare furent pleines de larmes et de sourires. (The reunion at the station was full of tears and smiles.)",
-      "sentence2": "Il y a une émotion particulière dans ces longues retrouvailles familiales. (There is a special emotion in these long family reunions.)"
+      "word": "Éphémère",
+      "translation": "Lasting for a very short time",
+      "type": "Adjective",
+      "sentence1": "La beauté d'un coucher de soleil est souvent éphémère. (The beauty of a sunset is often ephemeral.)",
+      "sentence2": "Nous avons partagé un moment éphémère de joie pure sur la plage. (We shared a fleeting moment of pure joy on the beach.)"
     },
     {
       "lang": "German",
       "word": "Fernweh",
-      "translation": "A longing for far-off places; homesickness for the unknown",
+      "translation": "Longing for far-off places",
       "type": "Noun",
-      "sentence1": "Beim Anblick der alten Landkarte überkam ihn sofort das Fernweh. (Looking at the old map, wanderlust immediately overcame him.)",
-      "sentence2": "Ihr Fernweh trieb sie dazu, ein One-Way-Ticket nach Asien zu buchen. (Her wanderlust drove her to book a one-way ticket to Asia.)"
+      "sentence1": "Wenn ich den Ozean sehe, packt mich immer das Fernweh. (When I see the ocean, I am always seized by a longing for far-off places.)",
+      "sentence2": "Sein tiefes Fernweh trieb ihn dazu, die Welt zu bereisen. (His deep longing for far-off places drove him to travel the world.)"
     },
     {
       "lang": "Japanese",
-      "word": "木漏れ日",
+      "word": "Komorebi",
       "translation": "Sunlight filtering through the leaves of trees",
       "type": "Noun",
-      "sentence1": "森の小道で美しい木漏れ日に癒された。 (I was healed by the beautiful sunlight filtering through the trees on the forest path.)",
-      "sentence2": "木漏れ日の下で読書をするのが一番好きです。 (I love reading books beneath the sunlight filtering through the leaves most of all.)"
+      "sentence1": "木漏れ日の中で本を読むのが好きです。 (I like reading a book in the sunlight filtering through the leaves.)",
+      "sentence2": "森の中の静かな木漏れ日はとても美しい。 (The quiet sunlight filtering through the trees in the forest is very beautiful.)"
     },
     {
       "lang": "Italian",
-      "word": "Culaccino",
-      "translation": "The mark left on a table by a cold, wet glass",
-      "type": "Noun",
-      "sentence1": "Per favore, usa un sottobicchiere per non lasciare il culaccino sul legno. (Please use a coaster so you don't leave the glass ring on the wood.)",
-      "sentence2": "Il tavolo di marmo era pieno di culaccini dopo la festa. (The marble table was full of glass rings after the party.)"
+      "word": "Meriggiare",
+      "translation": "To rest in the shade during the hottest part of the day",
+      "type": "Verb",
+      "sentence1": "Amiamo meriggiare sotto i pini durante l'estate. (We love to rest in the shade under the pine trees during the summer.)",
+      "sentence2": "Il cane cercava un posto per meriggiare lontano dal sole. (The dog was looking for a place to rest in the shade away from the sun.)"
     },
     {
       "lang": "Chinese",
-      "word": "缘分",
-      "translation": "Fateful affinity or destiny that brings people together",
-      "type": "Noun",
-      "sentence1": "能在异国他乡遇到老同学，真是莫大的缘分。 (To be able to meet an old classmate in a foreign land is truly a wonderful destiny.)",
-      "sentence2": "他们两个人的相遇充满了缘分。 (The meeting of those two people was full of fateful affinity.)"
+      "word": "朦胧",
+      "translation": "Hazy, dim, or obscure",
+      "type": "Adjective",
+      "sentence1": "月光下的景色显得格外朦胧。 (The scenery under the moonlight appears particularly hazy.)",
+      "sentence2": "她在朦胧的灯光下写了一封信。 (She wrote a letter under the dim, hazy light.)"
     },
     {
       "lang": "Korean",
-      "word": "눈부시다",
-      "translation": "Dazzling, radiant, or brilliantly bright",
-      "type": "Adjective",
-      "sentence1": "아침 햇살이 너무 눈부셔서 눈을 뜰 수가 없었다. (The morning sunlight was so dazzling that I couldn't open my eyes.)",
-      "sentence2": "그녀의 환한 미소가 청춘처럼 눈부시게 빛났다. (Her bright smile shone as dazzlingly as youth.)"
+      "word": "그루잠",
+      "translation": "A short, deep sleep from which one is awakened",
+      "type": "Noun",
+      "sentence1": "잠시 그루잠을 자고 일어났더니 몸이 한결 가벼워졌다. (I woke up after a short, deep sleep and felt much lighter.)",
+      "sentence2": "오후의 따스한 햇살 속에서 그루잠에 빠졌다. (I fell into a short, deep sleep amidst the warm afternoon sun.)"
     },
     {
       "lang": "Khmer",
-      "word": "ចម្រើន",
-      "translation": "To prosper, flourish, or grow in goodness",
-      "type": "Verb",
-      "sentence1": "សូមឱ្យគ្រួសាររបស់អ្នកទទួលបាននូវសេចក្តីសុខ និងការចម្រើនรุ่งเรือง។ (May your family attain happiness and prosperity.)",
-      "sentence2": "ប្រទេសជាតិយើងកំពុងតែមានការចម្រើនលើគ្រប់វិស័យ។ (Our nation is developing and flourishing in all sectors.)"
+      "word": "សិរី",
+      "translation": "Glory, splendor, or auspiciousness",
+      "type": "Noun",
+      "sentence1": "សូមឱ្យអ្នកទទួលបានសិរីសួស្តីក្នុងថ្ងៃនេះ។ (May you receive glory and happiness this day.)",
+      "sentence2": "នាងមានសិរីរុងរឿងដែលធ្វើឱ្យគ្រប់គ្នាសរសើរ។ (She possesses a splendor that makes everyone admire her.)"
     },
     {
       "lang": "Afrikaans",
-      "word": "Vergesig",
-      "translation": "A scenic view or vista that stretches into the distance",
-      "type": "Noun",
-      "sentence1": "Die bergtop bied 'n pragtige vergesig oor die hele vallei. (The mountain peak offers a magnificent view over the entire valley.)",
-      "sentence2": "Sy staar verlore in die vergesig terwyl die son sak. (She stared dreamily into the distant vista as the sun set.)"
+      "word": "Dwaal",
+      "translation": "To wander aimlessly or be in a daydream",
+      "type": "Verb",
+      "sentence1": "Hy hou daarvan om in die berge te dwaal. (He loves to wander aimlessly in the mountains.)",
+      "sentence2": "My gedagtes dwaal dikwels na my kinderdae. (My thoughts often wander to my childhood days.)"
     }
   ]
 }
