@@ -29,7 +29,7 @@ jobs:
       - name: Generate words.json using Gemini
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: python word.py
+        run: python generate_words.py
 
       - name: Commit and push updated words.json
         run: |
