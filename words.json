@@ -1,96 +1,94 @@
-[
-  {
-    "words": [
-      {
-        "lang": "English",
-        "word": "Petrichor",
-        "translation": "The pleasant, earthy smell after rain",
-        "type": "Noun",
-        "type_in_language": "noun",
-        "sentence1": "After the summer storm, the dry earth released a wonderful petrichor that filled the air. (After the summer storm, the dry earth released a wonderful petrichor that filled the air.)",
-        "sentence2": "She closed her eyes and deeply inhaled the familiar petrichor of the countryside. (She closed her eyes and deeply inhaled the familiar petrichor of the countryside.)"
-      },
-      {
-        "lang": "Spanish",
-        "word": "Madrugada",
-        "translation": "The early morning hours, dawn, or daybreak",
-        "type": "Noun",
-        "type_in_language": "sustantivo",
-        "sentence1": "Me gusta caminar por las calles tranquilas durante la madrugada. (I like to walk through the quiet streets during the early morning hours.)",
-        "sentence2": "El tren sale muy temprano en la madrugada. (The train leaves very early at dawn.)"
-      },
-      {
-        "lang": "French",
-        "word": "Retrouvailles",
-        "translation": "The joy of reuniting with someone after a long time",
-        "type": "Noun",
-        "type_in_language": "nom",
-        "sentence1": "Leurs retrouvailles à la gare ont été remplies d'émotion et de larmes de joie. (Their reunion at the station was filled with emotion and tears of joy.)",
-        "sentence2": "Il y a toujours une grande fête pour marquer nos retrouvailles familiales. (There is always a big celebration to mark our family reunions.)"
-      },
-      {
-        "lang": "German",
-        "word": "Fernweh",
-        "translation": "Farsickness; an ache for distant places or wanderlust",
-        "type": "Noun",
-        "type_in_language": "Substantiv",
-        "sentence1": "Beim Anblick der alten Landkarte packte ihn sofort das Fernweh. (Looking at the old map immediately filled him with a longing for distant places.)",
-        "sentence2": "Ihr Fernweh trieb sie dazu, all ihre Sachen zu packen und um die Welt zu reisen. (Her wanderlust drove her to pack all her things and travel around the world.)"
-      },
-      {
-        "lang": "Japanese",
-        "word": "Komorebi",
-        "translation": "Sunlight filtering through the leaves of trees",
-        "type": "Noun",
-        "type_in_language": "meishi",
-        "sentence1": "森の中で浴びる木漏れ日はとても心が癒されます。 (The sunlight filtering through the trees in the forest is very healing to the soul.)",
-        "sentence2": "カメラを持って、美しい木漏れ日の写真を撮りに出かけた。 (I took my camera and went out to take pictures of the beautiful sunlight filtering through the leaves.)"
-      },
-      {
-        "lang": "Italian",
-        "word": "Culaccino",
-        "translation": "The mark left on a table by a cold glass",
-        "type": "Noun",
-        "type_in_language": "sostantivo",
-        "sentence1": "Per favore, usa un sottobicchiere per non lasciare un culaccino sul tavolo di legno. (Please, use a coaster so as not to leave a glass ring on the wooden table.)",
-        "sentence2": "La tavola era piena di culaccini dopo la lunga cena tra amici. (The table was full of glass rings after the long dinner among friends.)"
-      },
-      {
-        "lang": "Chinese",
-        "word": "Yuanyuan",
-        "translation": "Destined affinity or a karmic connection between people",
-        "type": "Noun",
-        "type_in_language": "mingci",
-        "sentence1": "能够在这里再次相遇，真是前世修来的缘分。 (Being able to meet again here is truly a destined affinity cultivated from a past life.)",
-        "sentence2": "他们两个人的相识充满了奇妙的缘分。 (Their acquaintance was filled with a wonderful destined connection.)"
-      },
-      {
-        "lang": "Korean",
-        "word": "Nuni-busida",
-        "translation": "Dazzling or so bright that it hurts the eyes",
-        "type": "Adjective",
-        "type_in_language": "hyeongyongsa",
-        "sentence1": "하얀 눈이 내린 풍경이 너무 눈이 부시다. (The landscape covered in white snow is so dazzling.)",
-        "sentence2": "그녀의 환한 미소가 햇살처럼 눈이 부셨다. (Her bright smile was dazzling like sunlight.)"
-      },
-      {
-        "lang": "Khmer",
-        "word": "Sneh",
-        "translation": "Love, affection, or deep tenderness",
-        "type": "Noun",
-        "type_in_language": "kanam",
-        "sentence1": "ความรักและการให้อภัยคือหัวใจสำคัญของសេចក្តីស្នេហា។ (Love and forgiveness are the core of deep affection.)",
-        "sentence2": "ទឹកមុខរបស់គាត់បង្ហាញពីសេចក្តីស្នេហាដ៏បរិសុទ្ធចំពោះកូនៗ។ (His facial expression showed pure love for his children.)"
-      },
-      {
-        "lang": "Afrikaans",
-        "word": "Vergesig",
-        "translation": "A panoramic view or vista that stretches into the distance",
-        "type": "Noun",
-        "type_in_language": "selfstandige naamwoord",
-        "sentence1": "Van bo op die berg het ons 'n pragtige vergesig oor die hele vallei gehad. (From the top of the mountain, we had a beautiful panoramic view of the entire valley.)",
-        "sentence2": "Die huis is gebou sodat elke kamer 'n wonderlike vergesig bied. (The house was built so that every room offers a wonderful vista.)"
-      }
-    ]
-  }
-]
+{
+  "words": [
+    {
+      "lang": "English",
+      "word": "Serendipity",
+      "translation": "Finding valuable things by chance",
+      "type": "Noun",
+      "type_in_language": "noun",
+      "sentence1": "Finding my old childhood friend at the airport was pure serendipity (Finding my old childhood friend at the airport was pure chance and luck).",
+      "sentence2": "Science is often driven by happy moments of serendipity (Science is often driven by fortunate accidental discoveries)."
+    },
+    {
+      "lang": "Spanish",
+      "word": "Eternidad",
+      "translation": "Eternity",
+      "type": "Noun",
+      "type_in_language": "sustantivo",
+      "sentence1": "Te amaré por la eternidad (I will love you for eternity).",
+      "sentence2": "Pareció una eternidad esperar la respuesta (It seemed like an eternity waiting for the answer)."
+    },
+    {
+      "lang": "French",
+      "word": "Papillon",
+      "translation": "Butterfly",
+      "type": "Noun",
+      "type_in_language": "nom",
+      "sentence1": "Un beau papillon s'est posé sur la fleur (A beautiful butterfly landed on the flower).",
+      "sentence2": "J'ai des papillons dans le ventre (I have butterflies in my stomach / I am nervous)."
+    },
+    {
+      "lang": "German",
+      "word": "Wanderslust",
+      "translation": "Strong desire to travel",
+      "type": "Noun",
+      "type_in_language": "Nomen",
+      "sentence1": "Sein Wanderslust brachte ihn in die entlegensten Winkel der Welt (His wanderlust took him to the most remote corners of the world).",
+      "sentence2": "Im Frühling packt mich immer die Wanderslust (In spring, I am always overcome with wanderlust)."
+    },
+    {
+      "lang": "Japanese",
+      "word": "Komorebi",
+      "translation": "Sunlight filtering through trees",
+      "type": "Noun",
+      "type_in_language": "meishi",
+      "sentence1": "Mori no naka de utsukushii komorebi o mita (I saw beautiful sunlight filtering through the trees in the forest).",
+      "sentence2": "Komorebi ga kirei na shashin o totta (I took a picture where the sunlight filtering through the leaves was beautiful)."
+    },
+    {
+      "lang": "Italian",
+      "word": "Meraviglia",
+      "translation": "Wonder / Marvel",
+      "type": "Noun",
+      "type_in_language": "nome",
+      "sentence1": "Il Colosseo è una vera meraviglia del mondo (The Colosseum is a true marvel of the world).",
+      "sentence2": "Guardavo il mare con meraviglia (I looked at the sea with wonder)."
+    },
+    {
+      "lang": "Chinese",
+      "word": "Yuanfen",
+      "translation": "Fardestined affinity / Fate",
+      "type": "Noun",
+      "type_in_language": "mingci",
+      "sentence1": "Wo men zai zhe li xiang yu zhen shi you yuanfen (Meeting each other here is truly fate).",
+      "sentence2": "You shi hou yuanfen hui rang liang ge ren zou zai yi qi (Sometimes fate brings two people together)."
+    },
+    {
+      "lang": "Korean",
+      "word": "Geurium",
+      "translation": "Yearning / Longing for someone or something",
+      "type": "Noun",
+      "type_in_language": "myeongsa",
+      "sentence1": "Gohyange 대한 geuriumi maeumeul apeuge handa (The yearning for my hometown makes my heart ache).",
+      "sentence2": "Geuriumeun sigan i 지나도 줄어들지 않는다 (The longing does not diminish even as time passes)."
+    },
+    {
+      "lang": "Khmer",
+      "word": "Sneh",
+      "translation": "Love / Affection",
+      "type": "Noun",
+      "type_in_language": "kanam",
+      "sentence1": "Knhom mean sneh champoh kromuon nih (I have affection for this family).",
+      "sentence2": "Sneh chea krea phka knong chivit (Love is the foundation of life)."
+    },
+    {
+      "lang": "Afrikaans",
+      "word": "Verlangen",
+      "translation": "Longing / Yearning",
+      "type": "Noun",
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Sy het 'n groot verlangen na haar ouers (She has a deep longing for her parents).",
+      "sentence2": "Die verlangen na vrede is universeel (The longing for peace is universal)."
+    }
+  ]
+}
