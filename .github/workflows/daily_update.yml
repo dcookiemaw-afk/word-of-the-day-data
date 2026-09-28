@@ -1,37 +1,39 @@
-name: Daily Word Update
+name: Daily Word Generator
 
 on:
   schedule:
+    # Runs automatically at 00:00 UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+  workflow_dispatch: # Allows manual run button in GitHub Actions tab
 
 jobs:
   update-words:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Check out repository
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # Newer version to stop warnings
+          python-version: '3.10'
 
-      - name: Install Dependencies
-        run: pip install requests
-
-      - name: Run Word Generator
-        env:
-          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }} # Updated to match your secret name
-        run: python generate_words.py
-
-      - name: Commit and Push Changes
+      - name: Install dependencies
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Generate words.json using Gemini
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: python word.py
+
+      - name: Commit and push updated words.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add words.json
-          git commit -m "Daily update: $(date +'%Y-%m-%d')" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update daily words list" && git push)
