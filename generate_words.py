@@ -2,7 +2,7 @@ import os
 import json
 import requests
 
-api_key = os.environ.get("GOOGLE_API_KEY")
+api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
 
 if not api_key:
     print("Error: GOOGLE_API_KEY environment variable is empty or missing.")
