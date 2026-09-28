@@ -16,9 +16,11 @@ languages = [
 prompt = (
     f"Generate a JSON object with a key 'words' containing a list of objects. "
     f"Each object must have 'lang', 'word', 'translation', 'type', 'type_in_language', 'sentence1', and 'sentence2'.\n"
+    f"CRITICAL RULE FOR SCRIPTS & WRITING:\n"
+    f"- For ALL languages (including Khmer, Chinese, Japanese, Korean, Russian, Hindi, Arabic, etc.), write 'word', 'sentence1', and 'sentence2' using Latin/English script phonetics (Romanization/transliteration) so an English speaker can easily read and pronounce them.\n"
     f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
     f"- 'type_in_language': Part of speech in the target language written in Latin/English script phonetics (e.g., 'byvoeglike naamwoord' for Afrikaans, 'kuna neam' for Khmer, 'adjetivo' for Spanish)\n"
-    f"- 'sentence1' & 'sentence2': Interesting example sentences showing how the word is used in that language, followed by its English translation in parentheses.\n"
+    f"- 'sentence1' & 'sentence2': Example sentences written in English script phonetics showing how the word is used in that language, followed by its English translation in parentheses.\n"
     f"Provide one beautiful word for each of these languages: {', '.join(languages)}.\n"
     f"Return ONLY raw JSON text matching this schema. Do not wrap in markdown code blocks."
 )
