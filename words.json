@@ -2,93 +2,93 @@
   "words": [
     {
       "lang": "English",
-      "word": "Serendipity",
-      "translation": "Finding good things by chance",
+      "word": "Petrichor",
+      "translation": "The pleasant, earthy smell after rain.",
       "type": "Noun",
       "type_in_language": "noun",
-      "sentence1": "Meeting her was pure serendipity.",
-      "sentence2": "Serendipity often leads to the best adventures."
-    },
-    {
-      "lang": "Afrikaans",
-      "word": "Pragtig",
-      "translation": "Beautiful / Splendid",
-      "type": "Adjective",
-      "type_in_language": "byvoeglike naamwoord",
-      "sentence1": "Dis 'n pragtige dag vir 'n staptog. (It's a beautiful day for a hike.)",
-      "sentence2": "Sy het 'n pragtige glimlag. (She has a beautiful smile.)"
-    },
-    {
-      "lang": "Khmer",
-      "word": "Sro-noh",
-      "translation": "Nostalgic / Melancholic yearning",
-      "type": "Adjective",
-      "type_in_language": "kuna neam",
-      "sentence1": "Knyom man arom sro-noh pel mer roop-theat chas. (I feel nostalgic when looking at old photos.)",
-      "sentence2": "Pheng sro-noh nis tveu aoy knyom neuk pteah. (This nostalgic song makes me miss home.)"
+      "sentence1": "The sudden downpour released the petrichor that filled the afternoon air. (The sudden downpour released the earthy smell that filled the afternoon air.)",
+      "sentence2": "I find the scent of petrichor incredibly grounding during a summer storm. (I find the scent of petrichor incredibly grounding during a summer storm.)"
     },
     {
       "lang": "Spanish",
-      "word": "Esperanza",
-      "translation": "Hope",
+      "word": "Sobremesa",
+      "translation": "The time spent chatting with people after a meal.",
       "type": "Noun",
       "type_in_language": "sustantivo",
-      "sentence1": "Nunca pierdas la esperanza. (Never lose hope.)",
-      "sentence2": "La esperanza nos da fuerza cada día. (Hope gives us strength every day.)"
+      "sentence1": "Disfrutamos de una larga sobremesa después de la cena. (We enjoyed a long time of post-meal conversation after dinner.)",
+      "sentence2": "La sobremesa es mi parte favorita de las reuniones familiares. (The post-meal chat is my favorite part of family gatherings.)"
     },
     {
       "lang": "French",
-      "word": "Magnifique",
-      "translation": "Magnificent / Wonderful",
+      "word": "Éphémère",
+      "translation": "Lasting for a very short time.",
       "type": "Adjective",
       "type_in_language": "adjectif",
-      "sentence1": "C'est un paysage magnifique. (It is a magnificent landscape.)",
-      "sentence2": "Elle a fait un travail magnifique. (She did a wonderful job.)"
+      "sentence1": "La beauté d'une fleur est souvent éphémère. (The beauty of a flower is often fleeting.)",
+      "sentence2": "Nous avons partagé un moment éphémère de paix au bord du lac. (We shared a fleeting moment of peace by the lake.)"
     },
     {
       "lang": "German",
-      "word": "Wunderbar",
-      "translation": "Wonderful / Marvellous",
-      "type": "Adjective",
-      "type_in_language": "Adjektiv",
-      "sentence1": "Wir hatten ein wunderbares Wochenende. (We had a wonderful weekend.)",
-      "sentence2": "Das ist eine wunderbare Idee. (That is a wonderful idea.)"
+      "word": "Fernweh",
+      "translation": "An ache for distant places; being homesick for places you have never been.",
+      "type": "Noun",
+      "type_in_language": "nomen",
+      "sentence1": "Das Fernweh packte mich, als ich die Fotos der Reise sah. (Wanderlust seized me when I saw the travel photos.)",
+      "sentence2": "Manchmal leide ich unter starkem Fernweh in meinem Büro. (Sometimes I suffer from a strong longing for distant places in my office.)"
     },
     {
       "lang": "Japanese",
       "word": "Komorebi",
-      "translation": "Sunlight filtering through trees",
+      "translation": "Sunlight filtering through the leaves of trees.",
       "type": "Noun",
       "type_in_language": "meishi",
-      "sentence1": "Mori no nakade komorebi wo tanoshimu. (Enjoying sunlight filtering through trees in the forest.)",
-      "sentence2": "Komorebi ga kirei desu. (The sunlight through trees is beautiful.)"
+      "sentence1": "森の中で木漏れ日がとても美しかった。 (The sunlight filtering through the trees in the forest was very beautiful.)",
+      "sentence2": "木漏れ日を浴びながら散歩をするのが好きです。 (I like to take a walk while bathed in sunlight filtering through the trees.)"
     },
     {
       "lang": "Italian",
-      "word": "Speranza",
-      "translation": "Hope",
+      "word": "Passeggiata",
+      "translation": "A leisurely stroll or walk.",
       "type": "Noun",
       "type_in_language": "sostantivo",
-      "sentence1": "La speranza è l'ultima a morire. (Hope is the last to die.)",
-      "sentence2": "Abbiamo grande speranza. (We have great hope.)"
+      "sentence1": "Facciamo una passeggiata nel parco prima di cena. (Let's take a stroll in the park before dinner.)",
+      "sentence2": "La sua passeggiata serale è un rito che non salta mai. (His evening walk is a ritual he never misses.)"
     },
     {
       "lang": "Chinese",
-      "word": "Xìngfú",
-      "translation": "Happiness / Feeling blessed",
+      "word": "Yuanfen",
+      "translation": "A fateful coincidence or a connection between two people.",
       "type": "Noun",
       "type_in_language": "mingci",
-      "sentence1": "Zhù nǐ xìngfú. (Wishing you happiness.)",
-      "sentence2": "Yǒu nǐ Zài zhēn xìngfú. (Having you here is true happiness.)"
+      "sentence1": "我们能相遇真的是缘分。 (It is truly fate that we were able to meet.)",
+      "sentence2": "缘分让两个陌生人在异国他乡相识。 (Fate brought two strangers together in a foreign land.)"
     },
     {
       "lang": "Korean",
-      "word": "Haengbok",
-      "translation": "Happiness",
+      "word": "Nunchi",
+      "translation": "The ability to gauge others' moods and act accordingly.",
       "type": "Noun",
       "type_in_language": "myeongsa",
-      "sentence1": "Haengbok-han haru bonaeseo. (Have a happy day.)",
-      "sentence2": "Soso-han haengbok-i jungyo-haeyo. (Small happiness is important.)"
+      "sentence1": "그는 눈치가 빨라서 상황을 금방 파악한다. (He has quick social intuition and grasps the situation immediately.)",
+      "sentence2": "눈치 없이 행동하지 마세요. (Don't act without considering the social atmosphere/others' feelings.)"
+    },
+    {
+      "lang": "Khmer",
+      "word": "Srananh",
+      "translation": "Deep, sincere love or affection.",
+      "type": "Verb",
+      "type_in_language": "kriya",
+      "sentence1": "ខ្ញុំស្រលាញ់អ្នកដោយអស់ពីចិត្ត។ (I love you with all my heart.)",
+      "sentence2": "ក្តីស្រលាញ់គឺជាកម្លាំងចិត្តដ៏អស្ចារ្យ។ (Love is an amazing source of motivation.)"
+    },
+    {
+      "lang": "Afrikaans",
+      "word": "Geselligheid",
+      "translation": "Sociability, conviviality, or a cozy social gathering.",
+      "type": "Noun",
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Die geselligheid om die kampvuur was heerlik. (The conviviality around the campfire was delightful.)",
+      "sentence2": "Hy hou van die geselligheid van 'n groot familie. (He loves the sociability of a large family.)"
     }
   ]
 }
