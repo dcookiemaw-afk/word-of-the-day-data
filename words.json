@@ -1,94 +1,96 @@
-{
-  "words": [
-    {
-      "lang": "English",
-      "word": "Petrichor",
-      "translation": "The pleasant, earthy smell after rain.",
-      "type": "Noun",
-      "type_in_language": "noun",
-      "sentence1": "The sudden downpour released the petrichor that filled the afternoon air. (The sudden downpour released the earthy smell that filled the afternoon air.)",
-      "sentence2": "I find the scent of petrichor incredibly grounding during a summer storm. (I find the scent of petrichor incredibly grounding during a summer storm.)"
-    },
-    {
-      "lang": "Spanish",
-      "word": "Sobremesa",
-      "translation": "The time spent chatting with people after a meal.",
-      "type": "Noun",
-      "type_in_language": "sustantivo",
-      "sentence1": "Disfrutamos de una larga sobremesa después de la cena. (We enjoyed a long time of post-meal conversation after dinner.)",
-      "sentence2": "La sobremesa es mi parte favorita de las reuniones familiares. (The post-meal chat is my favorite part of family gatherings.)"
-    },
-    {
-      "lang": "French",
-      "word": "Éphémère",
-      "translation": "Lasting for a very short time.",
-      "type": "Adjective",
-      "type_in_language": "adjectif",
-      "sentence1": "La beauté d'une fleur est souvent éphémère. (The beauty of a flower is often fleeting.)",
-      "sentence2": "Nous avons partagé un moment éphémère de paix au bord du lac. (We shared a fleeting moment of peace by the lake.)"
-    },
-    {
-      "lang": "German",
-      "word": "Fernweh",
-      "translation": "An ache for distant places; being homesick for places you have never been.",
-      "type": "Noun",
-      "type_in_language": "nomen",
-      "sentence1": "Das Fernweh packte mich, als ich die Fotos der Reise sah. (Wanderlust seized me when I saw the travel photos.)",
-      "sentence2": "Manchmal leide ich unter starkem Fernweh in meinem Büro. (Sometimes I suffer from a strong longing for distant places in my office.)"
-    },
-    {
-      "lang": "Japanese",
-      "word": "Komorebi",
-      "translation": "Sunlight filtering through the leaves of trees.",
-      "type": "Noun",
-      "type_in_language": "meishi",
-      "sentence1": "森の中で木漏れ日がとても美しかった。 (The sunlight filtering through the trees in the forest was very beautiful.)",
-      "sentence2": "木漏れ日を浴びながら散歩をするのが好きです。 (I like to take a walk while bathed in sunlight filtering through the trees.)"
-    },
-    {
-      "lang": "Italian",
-      "word": "Passeggiata",
-      "translation": "A leisurely stroll or walk.",
-      "type": "Noun",
-      "type_in_language": "sostantivo",
-      "sentence1": "Facciamo una passeggiata nel parco prima di cena. (Let's take a stroll in the park before dinner.)",
-      "sentence2": "La sua passeggiata serale è un rito che non salta mai. (His evening walk is a ritual he never misses.)"
-    },
-    {
-      "lang": "Chinese",
-      "word": "Yuanfen",
-      "translation": "A fateful coincidence or a connection between two people.",
-      "type": "Noun",
-      "type_in_language": "mingci",
-      "sentence1": "我们能相遇真的是缘分。 (It is truly fate that we were able to meet.)",
-      "sentence2": "缘分让两个陌生人在异国他乡相识。 (Fate brought two strangers together in a foreign land.)"
-    },
-    {
-      "lang": "Korean",
-      "word": "Nunchi",
-      "translation": "The ability to gauge others' moods and act accordingly.",
-      "type": "Noun",
-      "type_in_language": "myeongsa",
-      "sentence1": "그는 눈치가 빨라서 상황을 금방 파악한다. (He has quick social intuition and grasps the situation immediately.)",
-      "sentence2": "눈치 없이 행동하지 마세요. (Don't act without considering the social atmosphere/others' feelings.)"
-    },
-    {
-      "lang": "Khmer",
-      "word": "Srananh",
-      "translation": "Deep, sincere love or affection.",
-      "type": "Verb",
-      "type_in_language": "kriya",
-      "sentence1": "ខ្ញុំស្រលាញ់អ្នកដោយអស់ពីចិត្ត។ (I love you with all my heart.)",
-      "sentence2": "ក្តីស្រលាញ់គឺជាកម្លាំងចិត្តដ៏អស្ចារ្យ។ (Love is an amazing source of motivation.)"
-    },
-    {
-      "lang": "Afrikaans",
-      "word": "Geselligheid",
-      "translation": "Sociability, conviviality, or a cozy social gathering.",
-      "type": "Noun",
-      "type_in_language": "selfstandige naamwoord",
-      "sentence1": "Die geselligheid om die kampvuur was heerlik. (The conviviality around the campfire was delightful.)",
-      "sentence2": "Hy hou van die geselligheid van 'n groot familie. (He loves the sociability of a large family.)"
-    }
-  ]
-}
+[
+  {
+    "words": [
+      {
+        "lang": "English",
+        "word": "Petrichor",
+        "translation": "The pleasant, earthy smell after rain",
+        "type": "Noun",
+        "type_in_language": "noun",
+        "sentence1": "After the summer storm, the dry earth released a wonderful petrichor that filled the air. (After the summer storm, the dry earth released a wonderful petrichor that filled the air.)",
+        "sentence2": "She closed her eyes and deeply inhaled the familiar petrichor of the countryside. (She closed her eyes and deeply inhaled the familiar petrichor of the countryside.)"
+      },
+      {
+        "lang": "Spanish",
+        "word": "Madrugada",
+        "translation": "The early morning hours, dawn, or daybreak",
+        "type": "Noun",
+        "type_in_language": "sustantivo",
+        "sentence1": "Me gusta caminar por las calles tranquilas durante la madrugada. (I like to walk through the quiet streets during the early morning hours.)",
+        "sentence2": "El tren sale muy temprano en la madrugada. (The train leaves very early at dawn.)"
+      },
+      {
+        "lang": "French",
+        "word": "Retrouvailles",
+        "translation": "The joy of reuniting with someone after a long time",
+        "type": "Noun",
+        "type_in_language": "nom",
+        "sentence1": "Leurs retrouvailles à la gare ont été remplies d'émotion et de larmes de joie. (Their reunion at the station was filled with emotion and tears of joy.)",
+        "sentence2": "Il y a toujours une grande fête pour marquer nos retrouvailles familiales. (There is always a big celebration to mark our family reunions.)"
+      },
+      {
+        "lang": "German",
+        "word": "Fernweh",
+        "translation": "Farsickness; an ache for distant places or wanderlust",
+        "type": "Noun",
+        "type_in_language": "Substantiv",
+        "sentence1": "Beim Anblick der alten Landkarte packte ihn sofort das Fernweh. (Looking at the old map immediately filled him with a longing for distant places.)",
+        "sentence2": "Ihr Fernweh trieb sie dazu, all ihre Sachen zu packen und um die Welt zu reisen. (Her wanderlust drove her to pack all her things and travel around the world.)"
+      },
+      {
+        "lang": "Japanese",
+        "word": "Komorebi",
+        "translation": "Sunlight filtering through the leaves of trees",
+        "type": "Noun",
+        "type_in_language": "meishi",
+        "sentence1": "森の中で浴びる木漏れ日はとても心が癒されます。 (The sunlight filtering through the trees in the forest is very healing to the soul.)",
+        "sentence2": "カメラを持って、美しい木漏れ日の写真を撮りに出かけた。 (I took my camera and went out to take pictures of the beautiful sunlight filtering through the leaves.)"
+      },
+      {
+        "lang": "Italian",
+        "word": "Culaccino",
+        "translation": "The mark left on a table by a cold glass",
+        "type": "Noun",
+        "type_in_language": "sostantivo",
+        "sentence1": "Per favore, usa un sottobicchiere per non lasciare un culaccino sul tavolo di legno. (Please, use a coaster so as not to leave a glass ring on the wooden table.)",
+        "sentence2": "La tavola era piena di culaccini dopo la lunga cena tra amici. (The table was full of glass rings after the long dinner among friends.)"
+      },
+      {
+        "lang": "Chinese",
+        "word": "Yuanyuan",
+        "translation": "Destined affinity or a karmic connection between people",
+        "type": "Noun",
+        "type_in_language": "mingci",
+        "sentence1": "能够在这里再次相遇，真是前世修来的缘分。 (Being able to meet again here is truly a destined affinity cultivated from a past life.)",
+        "sentence2": "他们两个人的相识充满了奇妙的缘分。 (Their acquaintance was filled with a wonderful destined connection.)"
+      },
+      {
+        "lang": "Korean",
+        "word": "Nuni-busida",
+        "translation": "Dazzling or so bright that it hurts the eyes",
+        "type": "Adjective",
+        "type_in_language": "hyeongyongsa",
+        "sentence1": "하얀 눈이 내린 풍경이 너무 눈이 부시다. (The landscape covered in white snow is so dazzling.)",
+        "sentence2": "그녀의 환한 미소가 햇살처럼 눈이 부셨다. (Her bright smile was dazzling like sunlight.)"
+      },
+      {
+        "lang": "Khmer",
+        "word": "Sneh",
+        "translation": "Love, affection, or deep tenderness",
+        "type": "Noun",
+        "type_in_language": "kanam",
+        "sentence1": "ความรักและการให้อภัยคือหัวใจสำคัญของសេចក្តីស្នេហា។ (Love and forgiveness are the core of deep affection.)",
+        "sentence2": "ទឹកមុខរបស់គាត់បង្ហាញពីសេចក្តីស្នេហាដ៏បរិសុទ្ធចំពោះកូនៗ។ (His facial expression showed pure love for his children.)"
+      },
+      {
+        "lang": "Afrikaans",
+        "word": "Vergesig",
+        "translation": "A panoramic view or vista that stretches into the distance",
+        "type": "Noun",
+        "type_in_language": "selfstandige naamwoord",
+        "sentence1": "Van bo op die berg het ons 'n pragtige vergesig oor die hele vallei gehad. (From the top of the mountain, we had a beautiful panoramic view of the entire valley.)",
+        "sentence2": "Die huis is gebou sodat elke kamer 'n wonderlike vergesig bied. (The house was built so that every room offers a wonderful vista.)"
+      }
+    ]
+  }
+]
