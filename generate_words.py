@@ -5,10 +5,10 @@ import requests
 api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
 
 if not api_key:
-    print("Error: GOOGLE_API_KEY environment variable is empty or missing.")
+    print("Error: GEMINI_API_KEY_WORD_OF_THE_DAY environment variable is empty or missing.")
     exit(1)
 
-# Add any languages you want to support!
+# List of languages to generate daily words for
 languages = [
     "English", "Spanish", "French", "German", "Japanese", 
     "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
