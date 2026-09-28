@@ -5,10 +5,9 @@ import requests
 api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
 
 if not api_key:
-    print("Error: GEMINI_API_KEY_WORD_OF_THE_DAY environment variable is empty or missing.")
+    print("Error: GEMINI_API_KEY_WORD_OF_THE_DAY environment variable is empty or missing.", flush=True)
     exit(1)
 
-# List of languages to generate daily words for
 languages = [
     "English", "Spanish", "French", "German", "Japanese", 
     "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
@@ -24,30 +23,14 @@ prompt = (
     f"Return ONLY raw JSON text matching this schema. Do not wrap in markdown code blocks."
 )
 
-def discover_and_generate():
-    list_url = f"https://generativelanguage.googleapis.com/v1/models?key={api_key}"
-    try:
-        print("Discovering available models on your account...")
-        list_response = requests.get(list_url)
-        if list_response.status_code != 200:
-            print(f"Failed to list models: {list_response.text}")
-            return False
-            
-        models_data = list_response.json()
-        available_models = [
-            m["name"] for m in models_data.get("models", [])
-            if "generateContent" in m.get("supportedGenerationMethods", [])
-        ]
-        print(f"Authorized models found on your account: {available_models}")
-        
-    except Exception as e:
-        print(f"Error during model discovery phase: {e}")
-        available_models = ["models/gemini-2.0-flash-lite", "models/gemini-2.0-flash", "models/gemini-1.5-flash"]
+models_to_try = [
+    "models/gemini-2.0-flash",
+    "models/gemini-2.0-flash-lite"
+]
 
-    for model_path in available_models:
-        clean_model = model_path if model_path.startswith("models/") else f"models/{model_path}"
-        print(f"Attempting production generation with: {clean_model}...")
-        
+def generate():
+    for clean_model in models_to_try:
+        print(f"Attempting generation with model: {clean_model}...", flush=True)
         url = f"https://generativelanguage.googleapis.com/v1/{clean_model}:generateContent?key={api_key}"
         payload = {
             "contents": [{"parts": [{"text": prompt}]}],
@@ -55,7 +38,7 @@ def discover_and_generate():
         }
         
         try:
-            response = requests.post(url, json=payload, headers={"Content-Type": "application/json"})
+            response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=30)
             if response.status_code == 200:
                 response_json = response.json()
                 raw_text = response_json['candidates'][0]['content']['parts'][0]['text'].strip()
@@ -64,18 +47,18 @@ def discover_and_generate():
                 data = json.loads(raw_text)
                 with open('words.json', 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
-                print(f"Success! Generated words.json using model: {clean_model}")
+                print(f"Success! Generated words.json using model: {clean_model}", flush=True)
                 return True
             else:
-                print(f"Model {clean_model} rejected request with code {response.status_code}: {response.text}")
+                print(f"Model {clean_model} returned code {response.status_code}: {response.text}", flush=True)
         except Exception as err:
-            print(f"Skipping model {clean_model} due to parsing error: {err}")
+            print(f"Skipping model {clean_model} due to error: {err}", flush=True)
             
     return False
 
 if __name__ == "__main__":
-    if discover_and_generate():
-        print("Workflow completed successfully!")
+    if generate():
+        print("Workflow completed successfully!", flush=True)
     else:
-        print("CRITICAL: All available Gemini endpoints rejected the API configuration.")
+        print("CRITICAL: All available Gemini endpoints failed.", flush=True)
         exit(1)
