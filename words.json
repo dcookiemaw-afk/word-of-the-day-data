@@ -2,83 +2,93 @@
   "words": [
     {
       "lang": "English",
-      "word": "Petrichor",
-      "translation": "The pleasant, earthy smell of rain on dry ground",
+      "word": "Serendipity",
+      "translation": "Finding good things by chance",
       "type": "Noun",
-      "sentence1": "The sudden summer shower brought out the distinctive petrichor from the parched earth (Die plötzliche Sommerregen brachte den unverwechselbaren Geruch des Regens auf trockenem Boden hervor).",
-      "sentence2": "She stood on the porch, enjoying the soothing petrichor after the long drought (Sie stand auf der Veranda und genoss den beruhigenden Duft der feuchten Erde nach der langen Dürre)."
+      "type_in_language": "noun",
+      "sentence1": "Meeting her was pure serendipity.",
+      "sentence2": "Serendipity often leads to the best adventures."
+    },
+    {
+      "lang": "Afrikaans",
+      "word": "Pragtig",
+      "translation": "Beautiful / Splendid",
+      "type": "Adjective",
+      "type_in_language": "byvoeglike naamwoord",
+      "sentence1": "Dis 'n pragtige dag vir 'n staptog. (It's a beautiful day for a hike.)",
+      "sentence2": "Sy het 'n pragtige glimlag. (She has a beautiful smile.)"
+    },
+    {
+      "lang": "Khmer",
+      "word": "Sro-noh",
+      "translation": "Nostalgic / Melancholic yearning",
+      "type": "Adjective",
+      "type_in_language": "kuna neam",
+      "sentence1": "Knyom man arom sro-noh pel mer roop-theat chas. (I feel nostalgic when looking at old photos.)",
+      "sentence2": "Pheng sro-noh nis tveu aoy knyom neuk pteah. (This nostalgic song makes me miss home.)"
     },
     {
       "lang": "Spanish",
-      "word": "Sobremesa",
-      "translation": "The time spent chatting after a meal",
+      "word": "Esperanza",
+      "translation": "Hope",
       "type": "Noun",
-      "sentence1": "Después de la cena, disfrutamos de una larga sobremesa con café y risas (After dinner, we enjoyed a long conversation over coffee and laughter).",
-      "sentence2": "La sobremesa es una parte esencial de la cultura española para conectar con amigos (The post-meal chat is an essential part of Spanish culture for connecting with friends)."
+      "type_in_language": "sustantivo",
+      "sentence1": "Nunca pierdas la esperanza. (Never lose hope.)",
+      "sentence2": "La esperanza nos da fuerza cada día. (Hope gives us strength every day.)"
     },
     {
       "lang": "French",
-      "word": "Éphémère",
-      "translation": "Lasting for a very short time",
+      "word": "Magnifique",
+      "translation": "Magnificent / Wonderful",
       "type": "Adjective",
-      "sentence1": "La beauté d'un coucher de soleil est souvent éphémère (The beauty of a sunset is often ephemeral).",
-      "sentence2": "Il a capturé la joie éphémère de ce moment dans une photographie (He captured the fleeting joy of that moment in a photograph)."
+      "type_in_language": "adjectif",
+      "sentence1": "C'est un paysage magnifique. (It is a magnificent landscape.)",
+      "sentence2": "Elle a fait un travail magnifique. (She did a wonderful job.)"
     },
     {
       "lang": "German",
-      "word": "Fernweh",
-      "translation": "An ache for distant places; longing for travel",
-      "type": "Noun",
-      "sentence1": "Das ständige Fernweh treibt ihn dazu, immer neue Länder zu bereisen (The constant wanderlust drives him to travel to new countries).",
-      "sentence2": "Wenn der Herbst kommt, spürt sie ein starkes Fernweh in ihrem Herzen (When autumn comes, she feels a strong longing for distant lands in her heart)."
+      "word": "Wunderbar",
+      "translation": "Wonderful / Marvellous",
+      "type": "Adjective",
+      "type_in_language": "Adjektiv",
+      "sentence1": "Wir hatten ein wunderbares Wochenende. (We had a wonderful weekend.)",
+      "sentence2": "Das ist eine wunderbare Idee. (That is a wonderful idea.)"
     },
     {
       "lang": "Japanese",
       "word": "Komorebi",
       "translation": "Sunlight filtering through trees",
       "type": "Noun",
-      "sentence1": "森の中で木漏れ日が美しく揺れていた (The sunlight filtering through the trees was swaying beautifully in the forest).",
-      "sentence2": "木漏れ日を浴びながら散歩をするのが一番の楽しみです (Walking while bathed in sunlight filtering through the trees is my greatest joy)."
+      "type_in_language": "meishi",
+      "sentence1": "Mori no nakade komorebi wo tanoshimu. (Enjoying sunlight filtering through trees in the forest.)",
+      "sentence2": "Komorebi ga kirei desu. (The sunlight through trees is beautiful.)"
     },
     {
       "lang": "Italian",
-      "word": "Meriggiare",
-      "translation": "To rest in the shade during the hottest part of the day",
-      "type": "Verb",
-      "sentence1": "È tradizione meriggiare sotto gli ulivi durante il caldo pomeriggio estivo (It is traditional to rest in the shade under the olive trees during the hot summer afternoon).",
-      "sentence2": "Preferisco meriggiare in giardino quando il sole è troppo forte (I prefer to rest in the shade in the garden when the sun is too strong)."
+      "word": "Speranza",
+      "translation": "Hope",
+      "type": "Noun",
+      "type_in_language": "sostantivo",
+      "sentence1": "La speranza è l'ultima a morire. (Hope is the last to die.)",
+      "sentence2": "Abbiamo grande speranza. (We have great hope.)"
     },
     {
       "lang": "Chinese",
-      "word": "缘分 (Yuánfèn)",
-      "translation": "Karmic destiny or fate in relationships",
+      "word": "Xìngfú",
+      "translation": "Happiness / Feeling blessed",
       "type": "Noun",
-      "sentence1": "我们能在这里相遇真是缘分 (It is truly fate that we could meet here).",
-      "sentence2": "有时候分开也是一种缘分 (Sometimes, separating is also a form of destiny)."
+      "type_in_language": "mingci",
+      "sentence1": "Zhù nǐ xìngfú. (Wishing you happiness.)",
+      "sentence2": "Yǒu nǐ Zài zhēn xìngfú. (Having you here is true happiness.)"
     },
     {
       "lang": "Korean",
-      "word": "나들이 (Nadeuri)",
-      "translation": "A short outing or picnic",
+      "word": "Haengbok",
+      "translation": "Happiness",
       "type": "Noun",
-      "sentence1": "날씨가 좋아서 공원으로 가벼운 나들이를 다녀왔어요 (The weather was nice, so I went for a light outing to the park).",
-      "sentence2": "주말에 가족과 함께 가까운 곳으로 나들이를 계획하고 있습니다 (I am planning a short outing to a nearby place with my family this weekend)."
-    },
-    {
-      "lang": "Khmer",
-      "word": "រំភើប (Rum-peur)",
-      "translation": "To be excited, moved, or emotionally stirred",
-      "type": "Adjective/Verb",
-      "sentence1": "ខ្ញុំមានអារម្មណ៍រំភើបណាស់នៅពេលដែលឃើញការសម្តែងនោះ (I felt very excited/moved when I saw that performance).",
-      "sentence2": "នាងរំភើបចិត្តរហូតដល់ស្រក់ទឹកភ្នែក (She was so moved that she shed tears)."
-    },
-    {
-      "lang": "Afrikaans",
-      "word": "Eiesoortig",
-      "translation": "Unique; one of a kind; characteristic",
-      "type": "Adjective",
-      "sentence1": "Sy het 'n eiesoortige manier om probleme op te los (She has a unique way of solving problems).",
-      "sentence2": "Die landskap in die Karoo is werklik eiesoortig (The landscape in the Karoo is truly unique)."
+      "type_in_language": "myeongsa",
+      "sentence1": "Haengbok-han haru bonaeseo. (Have a happy day.)",
+      "sentence2": "Soso-han haengbok-i jungyo-haeyo. (Small happiness is important.)"
     }
   ]
 }
