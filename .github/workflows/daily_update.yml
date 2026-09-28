@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate words.json using Gemini
         env:
-          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }}
+          GEMINI_API_KEY_WORD_OF_THE_DAY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }}
         run: python generate_words.py
 
       - name: Commit and push updated words.json
