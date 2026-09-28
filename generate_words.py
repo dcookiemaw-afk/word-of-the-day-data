@@ -2,20 +2,23 @@ import os
 import json
 import requests
 
-# Read the environment variable passed by GitHub
 api_key = os.environ.get("GOOGLE_API_KEY")
 
 if not api_key:
     print("Error: GOOGLE_API_KEY environment variable is empty or missing.")
     exit(1)
 
-# Added Khmer and Afrikaans into the list!
-languages = ["English", "Spanish", "French", "German", "Japanese", "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"]
+# Add any languages you want to support!
+languages = [
+    "English", "Spanish", "French", "German", "Japanese", 
+    "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
+]
 
 prompt = (
     f"Generate a JSON object with a key 'words' containing a list of objects. "
-    f"Each object must have 'lang', 'word', 'translation', 'type', 'sentence1', and 'sentence2'.\n"
-    f"- 'type': Part of speech (e.g., Noun, Verb, Adjective)\n"
+    f"Each object must have 'lang', 'word', 'translation', 'type', 'type_in_language', 'sentence1', and 'sentence2'.\n"
+    f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
+    f"- 'type_in_language': Part of speech in the target language written in Latin/English script phonetics (e.g., 'byvoeglike naamwoord' for Afrikaans, 'kuna neam' for Khmer, 'adjetivo' for Spanish)\n"
     f"- 'sentence1' & 'sentence2': Interesting example sentences showing how the word is used in that language, followed by its English translation in parentheses.\n"
     f"Provide one beautiful word for each of these languages: {', '.join(languages)}.\n"
     f"Return ONLY raw JSON text matching this schema. Do not wrap in markdown code blocks."
