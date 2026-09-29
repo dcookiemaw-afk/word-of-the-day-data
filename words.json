@@ -1,92 +1,94 @@
-[
-  {
-    "lang": "English",
-    "word": "Serendipity",
-    "translation": "Finding valuable things by chance",
-    "type": "Noun",
-    "type_in_language": "Noun",
-    "sentence1": "Finding my old childhood friend at the airport was pure serendipity. (Finding my old childhood friend at the airport was pure serendipity.)",
-    "sentence2": "A happy serendipity led them to discover the hidden cafe. (A happy serendipity led them to discover the hidden cafe.)"
-  },
-  {
-    "lang": "Spanish",
-    "word": "Madrugada",
-    "translation": "Dawn or early morning",
-    "type": "Noun",
-    "type_in_language": "Sustantivo",
-    "sentence1": "Me gusta caminar por la ciudad en la madrugada. (I like to walk through the city in the early morning.)",
-    "sentence2": "El tren sale muy temprano en la madrugada. (The train leaves very early at dawn.)"
-  },
-  {
-    "lang": "French",
-    "word": "Retrouvailles",
-    "translation": "The joy of reuniting with someone after a long time",
-    "type": "Noun",
-    "type_in_language": "Nom",
-    "sentence1": "Les retrouvees a l'aeropostale etaient pleines d'emotion. (The reunion at the airport was full of emotion.)",
-    "sentence2": "Il y a toujours de la joie pendant les retrouvailles familiales. (There is always joy during family reunions.)"
-  },
-  {
-    "lang": "German",
-    "word": "Fernweh",
-    "translation": "Farsickness or longing for distant places",
-    "type": "Noun",
-    "type_in_language": "Nomen",
-    "sentence1": "Wenn ich die Karte sehe, bekomme ich großes Fernweh. (When I see the map, I get a strong longing for far-off places.)",
-    "sentence2": "Sein Fernweh trieb ihn dazu, um die Welt zu reisen. (His wanderlust drove him to travel around the world.)"
-  },
-  {
-    "lang": "Japanese",
-    "word": "Komorebi",
-    "translation": "Sunlight filtering through trees",
-    "type": "Noun",
-    "type_in_language": "Meishi",
-    "sentence1": "Mori no naka de utsukushii komorebi o mita. (I saw beautiful sunlight filtering through the trees in the forest.)",
-    "sentence2": "Komorebi ga kirei na kisetsu desu. (It is a season when sunlight through the leaves is beautiful.)"
-  },
-  {
-    "lang": "Italian",
-    "word": "Meraki",
-    "translation": "Doing something with soul, creativity, or love",
-    "type": "Adjective",
-    "type_in_language": "Aggettivo",
-    "sentence1": "Ha dipinto questo quadro con tanto meraki. (He painted this picture with so much soul and creativity.)",
-    "sentence2": "Ogni piatto e cucinato con meraki in questo ristorante. (Every dish is cooked with love and passion in this restaurant.)"
-  },
-  {
-    "lang": "Chinese",
-    "word": "Yuanfen",
-    "translation": "Destiny or fate bringing people together",
-    "type": "Noun",
-    "type_in_language": "Mingci",
-    "sentence1": "Wo men zai yi guo xiang feng zhen shi you yuanfen. (Meeting each other in a foreign country is truly destiny.)",
-    "sentence2": "Yuanfen rang wo men zai zhe li xiang yu. (Fate brought us together here.)"
-  },
-  {
-    "lang": "Korean",
-    "word": "Geurium",
-    "translation": "A deep yearning or longing for someone or something",
-    "type": "Noun",
-    "type_in_language": "Myeongsa",
-    "sentence1": "Maeum soge gadeukhan geuriumi issda. (There is a deep longing filled in my heart.)",
-    "sentence2": "Gohyange 대한 geuriumeul dalraeoryeo noryeokhaetda. (I tried to soothe my yearning for my hometown.)"
-  },
-  {
-    "lang": "Khmer",
-    "word": "Sneh",
-    "translation": "Love or affection",
-    "type": "Noun",
-    "type_in_language": "Kuna Neam",
-    "sentence1": "Knhom mean sneh champoh kromuon kromsa. (I have deep love for my family.)",
-    "sentence2": "Knea yul pit pi sneh robos knea. (They truly understand each other's affection.)"
-  },
-  {
-    "lang": "Afrikaans",
-    "word": "Stilte",
-    "translation": "Silence or stillness",
-    "type": "Noun",
-    "type_in_language": "Selfstandige naamwoord",
-    "sentence1": "Die stilte van die nag was kalmerend. (The silence of the night was calming.)",
-    "sentence2": "Ons het geniet van die stilte op die plaas. (We enjoyed the stillness on the farm.)"
-  }
-]
+{
+  "words": [
+    {
+      "lang": "English",
+      "word": "mellifluous",
+      "translation": "sweet-sounding or musical",
+      "type": "Adjective",
+      "type_in_language": "adjective",
+      "sentence1": "Her mellifluous voice calmed the crying baby. (Her sweet-sounding voice calmed the crying baby.)",
+      "sentence2": "He spoke with a mellifluous tone that captivated the audience. (He spoke with a musical tone that captivated the audience.)"
+    },
+    {
+      "lang": "Spanish",
+      "word": "sol",
+      "translation": "sun",
+      "type": "Noun",
+      "type_in_language": "sustantivo",
+      "sentence1": "El sol brilla en el cielo hoy. (The sun shines in the sky today.)",
+      "sentence2": "Me gusta tomar el sol en la playa. (I like to sunbathe on the beach.)"
+    },
+    {
+      "lang": "French",
+      "word": "papillon",
+      "translation": "butterfly",
+      "type": "Noun",
+      "type_in_language": "nom",
+      "sentence1": "Un beau papillon s'est pose sur la fleur. (A beautiful butterfly landed on the flower.)",
+      "sentence2": "Les couleurs de ce papillon sont incroyables. (The colors of this butterfly are incredible.)"
+    },
+    {
+      "lang": "German",
+      "word": "sehnsucht",
+      "translation": "deep longing or yearning",
+      "type": "Noun",
+      "type_in_language": "nomen",
+      "sentence1": "Er spürte eine große Sehnsucht nach seiner Heimat. (He felt a great longing for his homeland.)",
+      "sentence2": "Dieses Lied voller Sehnsucht berührt mein Herz. (This song full of yearning touches my heart.)"
+    },
+    {
+      "lang": "Japanese",
+      "word": "komorebi",
+      "translation": "sunlight filtering through trees",
+      "type": "Noun",
+      "type_in_language": "meishi",
+      "sentence1": "Mori no naka de kirei na komorebi o mita. (I saw beautiful sunlight filtering through the trees in the forest.)",
+      "sentence2": "Komorebi ga kirei na kisetsu desu. (It is a season when sunlight filtering through trees is beautiful.)"
+    },
+    {
+      "lang": "Italian",
+      "word": "meraviglioso",
+      "translation": "marvellous",
+      "type": "Adjective",
+      "type_in_language": "aggettivo",
+      "sentence1": "Abbiamo fatto un viaggio meraviglioso in Italia. (We took a marvellous trip to Italy.)",
+      "sentence2": "Il panorama da questa montagna e meraviglioso. (The view from this mountain is marvellous.)"
+    },
+    {
+      "lang": "Chinese",
+      "word": "yuanfen",
+      "translation": "destined affinity or fate",
+      "type": "Noun",
+      "type_in_language": "mingci",
+      "sentence1": "Wo men zai zhe li xiang yu zhen shi yuanfen. (Meeting each other here is truly destined affinity.)",
+      "sentence2": "Yuanfen rang wo men cheng wei hao peng you. (Fate made us become good friends.)"
+    },
+    {
+      "lang": "Korean",
+      "word": "geurimja",
+      "translation": "shadow",
+      "type": "Noun",
+      "type_in_language": "myeongsa",
+      "sentence1": "Namoo wi ro gin geurimja ga saeng gyeot da. (A long shadow formed over the tree.)",
+      "sentence2": "Dal bit a rae na ui geurimja ga bo yeot da. (My shadow was visible under the moonlight.)"
+    },
+    {
+      "lang": "Khmer",
+      "word": "reassey",
+      "translation": "success or prosperity",
+      "type": "Noun",
+      "type_in_language": "noun",
+      "sentence1": "Som mouy kar reassey knong kar ngar robos anak. (Wishing you success in your work.)",
+      "sentence2": "Preah reach niyum nouv kar reassey chou bop phab. (May prosperity always find you.)"
+    },
+    {
+      "lang": "Afrikaans",
+      "word": "fluister",
+      "translation": "whisper",
+      "type": "Verb",
+      "type_in_language": "werkwoord",
+      "sentence1": "Sy het sag in sy oor gefluister. (She whispered softly in his ear.)",
+      "sentence2": "Die wind fluister deur die bome in die nag. (The wind whispers through the trees at night.)"
+    }
+  ]
+}
