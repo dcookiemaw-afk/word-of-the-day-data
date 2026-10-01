@@ -3,38 +3,38 @@
     {
       "lang": "English",
       "word": "mellifluous",
-      "translation": "sweet-sounding, flowing with honey",
+      "translation": "sweet-sounding or musical",
       "type": "Adjective",
       "type_in_language": "adjective",
       "sentence1": "Her mellifluous voice calmed the crying baby. (Her sweet-sounding voice calmed the crying baby.)",
-      "sentence2": "The cello produced a mellifluous tone that filled the room. (The cello produced a sweet-sounding tone that filled the room.)"
+      "sentence2": "He spoke with a mellifluous tone that captivated the audience. (He spoke with a musical tone that captivated the audience.)"
     },
     {
       "lang": "Spanish",
-      "word": "melancolia",
-      "translation": "melancholy, gentle sadness",
-      "type": "Noun",
-      "type_in_language": "sustantivo",
-      "sentence1": "Una dulce melancolia invadio su alma al ver el viejo album. (A sweet melancholy invaded his soul upon seeing the old album.)",
-      "sentence2": "La musica de violin evoca una profunda melancolia. (The violin music evokes a deep melancholy.)"
+      "word": "infinito",
+      "translation": "infinite",
+      "type": "Adjective",
+      "type_in_language": "adjetivo",
+      "sentence1": "El universo es infinito y lleno de misterios. (The universe is infinite and full of mysteries.)",
+      "sentence2": "Siento un amor infinito por mis padres. (I feel an infinite love for my parents.)"
     },
     {
       "lang": "French",
-      "word": "paradis",
-      "translation": "paradise",
+      "word": "papillon",
+      "translation": "butterfly",
       "type": "Noun",
       "type_in_language": "nom",
-      "sentence1": "Cette plage isolee ressemble au paradis. (This isolated beach looks like paradise.)",
-      "sentence2": "Leurs vacances dans les montagnes etaient un vrai paradis. (Their vacation in the mountains was a true paradise.)"
+      "sentence1": "Un beau papillon s'est pose sur la fleur. (A beautiful butterfly landed on the flower.)",
+      "sentence2": "Les enfants courent apres le papillon dans le jardin. (The children run after the butterfly in the garden.)"
     },
     {
       "lang": "German",
-      "word": "sehnsucht",
-      "translation": "deep longing, yearining for a far away place",
+      "word": "fernweh",
+      "translation": "wanderlust / longing for far-off places",
       "type": "Noun",
       "type_in_language": "substantiv",
-      "sentence1": "Er spürte eine grosse Sehnsucht nach seiner Heimat. (He felt a great longing for his homeland.)",
-      "sentence2": "Ihre Lieder voller Sehnsucht beruhrten alle Herzen. (Her songs full of yearning touched all hearts.)"
+      "sentence1": "Jedes Jahr im Sommer packt mich das Fernweh. (Every year in summer, wanderlust grips me.)",
+      "sentence2": "Mit Fotos von Straenden stille ich mein Fernweh. (With photos of beaches, I soothe my longing for far-off places.)"
     },
     {
       "lang": "Japanese",
@@ -43,52 +43,52 @@
       "type": "Noun",
       "type_in_language": "meishi",
       "sentence1": "Mori no naka de utsukushii komorebi o mita. (I saw beautiful sunlight filtering through trees in the forest.)",
-      "sentence2": "Komorebi no naka o aruku no ga suki desu. (I like walking in the sunlight filtering through trees.)"
+      "sentence2": "Komorebi ga kirei na kisetsu desu ne. (It is a season with beautiful sunlight filtering through trees, isn't it?)"
     },
     {
       "lang": "Italian",
-      "word": "meraviglia",
-      "translation": "wonder, marvel",
-      "type": "Noun",
-      "type_in_language": "sostantivo",
-      "sentence1": "Il Colosseo e una vera meraviglia del mondo. (The Colosseum is a true wonder of the world.)",
-      "sentence2": "I suoi occhi brillavano di meraviglia. (His eyes shone with wonder.)"
+      "word": "meraviglioso",
+      "translation": "marvellous / wonderful",
+      "type": "Adjective",
+      "type_in_language": "aggettivo",
+      "sentence1": "Roma e una citta meravigliosa. (Rome is a marvellous city.)",
+      "sentence2": "Abbiamo passato una giornata meravigliosa al mare. (We spent a wonderful day at the sea.)"
     },
     {
       "lang": "Chinese",
-      "word": "tianmi",
-      "translation": "sweet",
-      "type": "Adjective",
-      "type_in_language": "xingrongci",
-      "sentence1": "Ta de xiao rong zhen tianmi. (Her smile is really sweet.)",
-      "sentence2": "Women you yi ge tianmi de huiyi. (We have a sweet memory.)"
+      "word": "yuanfen",
+      "translation": "destined affinity / fateful coincidence",
+      "type": "Noun",
+      "type_in_language": "mingci",
+      "sentence1": "Wo men zai zhe li xiang yu zhen shi you yuanfen. (Meeting each other here is truly a fateful coincidence.)",
+      "sentence2": "You shi hou yuanfen hui ba liang ge ren dai dao yi qi. (Sometimes destined affinity brings two people together.)"
     },
     {
       "lang": "Korean",
-      "word": "geuriwohada",
-      "translation": "to yearn for, to miss dearly",
-      "type": "Verb",
-      "type_in_language": "dongsa",
-      "sentence1": "Naneun goroen hyanggiwa chueokdeureul geuriwohamnida. (I yearn for the scents and memories of olden days.)",
-      "sentence2": "Gajokdeureul geuriwohaneun maeumeun nunmulgyeopda. (The heart yearning for family is tearful.)"
+      "word": "geurimja",
+      "translation": "shadow",
+      "type": "Noun",
+      "type_in_language": "myeongsa",
+      "sentence1": "Namuui geurimja wieseo swigo isseo. (I am resting on the shadow of the tree.)",
+      "sentence2": "Dalbit arae naui geurimjaika gileojinda. (Under the moonlight, my shadow becomes long.)"
     },
     {
       "lang": "Khmer",
-      "word": "sorsor",
-      "translation": "gentle whisper of the wind",
+      "word": "sneh",
+      "translation": "love / affection",
       "type": "Noun",
-      "type_in_language": "kuna nam",
-      "sentence1": "Samleng sorsor robor galich dael photh sneh. (The gentle whisper of the breeze carries love.)",
-      "sentence2": "Knhom sdap samleng sorsor khmer nov pel yob. (I listen to the gentle whisper of the Khmer wind at night.)"
+      "type_in_language": "kuna neam",
+      "sentence1": "Knhom mean sneh chamoh kous knong chet. (I have pure love in my heart.)",
+      "sentence2": "Ke chab sneh pi mda yuvak. (He received love from his parents.)"
     },
     {
       "lang": "Afrikaans",
-      "word": "fluistering",
-      "translation": "whispering",
+      "word": "plesier",
+      "translation": "pleasure",
       "type": "Noun",
       "type_in_language": "selfstandige naamwoord",
-      "sentence1": "Die fluistering van die wind was soos musiek. (The whispering of the wind was like music.)",
-      "sentence2": "Ek het net 'n sagte fluistering gehoor. (I only heard a soft whispering.)"
+      "sentence1": "Dit is vir my 'n groot plesier om jou te ontmoet. (It is a great pleasure for me to meet you.)",
+      "sentence2": "Lees is een van my grootste plesier. (Reading is one of my greatest pleasures.)"
     }
   ]
 }
