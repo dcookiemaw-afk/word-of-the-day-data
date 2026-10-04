@@ -1,94 +1,92 @@
-{
-  "words": [
-    {
-      "language": "English",
-      "word": "Auraforge",
-      "type": "Verb",
-      "type_in_language": "Verb",
-      "definition": "To actively sculpt and strengthen one's inner spirit and resilience through daily acts of determination.",
-      "sentence1": "She learned to auraforge her mindset every morning before facing her daunting challenges. (She learned to sculpt her inner spirit and resilience every morning before facing her daunting challenges.)",
-      "sentence2": "True leaders auraforge their courage in the quiet moments of self-doubt. (True leaders sculpt their courage in the quiet moments of self-doubt.)"
-    },
-    {
-      "language": "Spanish",
-      "word": "Almaslumbrar",
-      "type": "Verb",
-      "type_in_language": "Verbo",
-      "definition": "To suddenly illuminate someone's inner soul with a spark of profound inspiration.",
-      "sentence2": "Su discurso logro almaslumbrar a todos los jovenes presentes en la sala. (His speech managed to suddenly illuminate the souls of all the young people present in the room.)",
-      "sentence1": "Un simple gesto de bondad puede almaslumbrar el corazon mas triste. (A simple gesture of kindness can illuminate the saddest heart.)"
-    },
-    {
-      "language": "French",
-      "word": "Audacesprit",
-      "type": "Noun",
-      "type_in_language": "Nom",
-      "definition": "A fierce, elegant state of mind where fear transforms instantly into creative momentum.",
-      "sentence1": "Il faut un audacesprit remarquable pour reinventer son avenir sans regrets. (It takes a remarkable fierce mindset to reinvent one's future without regrets.)",
-      "sentence2": "Elle marchait sur scene avec un audacesprit qui captivait toute l'assistance. (She walked on stage with a bold spirit that captivated the entire audience.)"
-    },
-    {
-      "language": "German",
-      "word": "Mutschmiede",
-      "type": "Noun",
-      "type_in_language": "Substantiv",
-      "definition": "A metaphorical forge where raw doubts are hammered into unyielding courage.",
-      "sentence1": "Sein Herz glich einer Mutschmiede, in der jeder Ruckschlag neuen Stahl formte. (His heart resembled a courage-forge where every setback shaped new steel.)",
-      "sentence2": "In dieser dunklen Stunde wurde die Gemeinschaft zu einer echten Mutschmiede. (In this dark hour, the community became a true forge of courage.)"
-    },
-    {
-      "language": "Japanese",
-      "word": "Shinbaku",
-      "type": "Noun",
-      "type_in_language": "Meishi",
-      "definition": "The sudden, powerful heartbeat of awakening courage just before taking a monumental leap of faith.",
-      "sentence1": "Ketsudan no shunkan, kare wa mune no oku de shinbaku wo kanjita. (At the moment of decision, he felt the thunderous heartbeat of courage deep in his chest.)",
-      "sentence2": "Sono shinbaku koso ga, kanojo wo atarashii chosen e to ugokashita. (That very pulse of brave awakening was what moved her toward a new challenge.)"
-    },
-    {
-      "language": "Italian",
-      "word": "Vigorvento",
-      "type": "Noun",
-      "type_in_language": "Nome",
-      "definition": "A sudden gust of spiritual wind that lifts one's spirit and drives away hesitation.",
-      "sentence1": "Un improvviso vigorvento attraverso la stanza quando lei reco la notizia trionfante. (A sudden gust of vigor swept through the room when she brought the triumphant news.)",
-      "sentence2": "Ascolta il vigorvento della tua anima prima di prendere qualsiasi decisione. (Listen to the inspiring breeze of your soul before making any decision.)"
-    },
-    {
-      "language": "Chinese",
-      "word": "Xinxi",
-      "type": "Noun",
-      "type_in_language": "Mingci",
-      "definition": "The brilliant dawn-like light of inspiration that breaks through the dark night of despair.",
-      "sentence1": "Ta zai juewang de heian zhong kanle yimiao xinyi de guangmang. (She saw a ray of inspiring dawn-light in the pitch black of despair.)",
-      "sentence2": "zhege chuangxin de linggan shi ta chuangzao li de xinyi. (This innovative inspiration is the dawn-light of her creative power.)"
-    },
-    {
-      "language": "Korean",
-      "word": "Damreum",
-      "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "definition": "The quiet, beautiful weight of inner resolve that makes a person unshakeable in times of adversity.",
-      "sentence1": "Geuui nunbiteseo gipeun damreumi neukkyeojyeotda. (A profound, serene courage could be felt in the gaze of his eyes.)",
-      "sentence2": "uriga gyeondyeonaen sigandeun uriui damreumeul deo dandanage mandeureotda. (The times we endured made our inner resolve even firmer.)"
-    },
-    {
-      "language": "Khmer",
-      "word": "Sahasa",
-      "type": "Noun",
-      "type_in_language": "Noun",
-      "definition": "A radiant, luminous bravery that illuminates the path for others during uncertain times.",
-      "sentence1": "Tveaksamin nung karapou phka nileay samdaek nouv phkar sahaka samrab pka chivith. (The gentle breeze and blooming flowers speak of a radiant courage for the flower of life.)",
-      "sentence2": "Knhom trovkara sahaka daei merlkeun tngai thmei ban chhas. (I need a luminous bravery in order to clearly see the new day.)"
-    },
-    {
-      "language": "Afrikaans",
-      "word": "Moedskyn",
-      "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "definition": "The radiant glow of hope and courage that shines from within during the darkest hours.",
-      "sentence1": "Haar lglim het 'n ware moedskyn in die donker kamer versprei. (Her smile spread a true glow of courage in the dark room.)",
-      "sentence2": "Ons moet altyd die moedskyn van ons drome lewendig hou. (We must always keep the radiant glow of our dreams alive.)"
-    }
-  ]
-}
+[
+  {
+    "language": "English",
+    "word": "Petrichor",
+    "type": "Noun",
+    "type_in_language": "Noun",
+    "definition": "The pleasant, earthy scent that frequently accompanies the first rain after a long period of warm, dry weather.",
+    "sentence1": "The sudden summer storm released a rich petrichor across the parched valley. (The sudden summer storm released a rich petrichor across the parched valley.)",
+    "sentence2": "She paused on her morning walk to breathe in the soothing petrichor rising from the damp earth. (She paused on her morning walk to breathe in the soothing petrichor rising from the damp earth.)"
+  },
+  {
+    "language": "Spanish",
+    "word": "Matutino",
+    "type": "Adjective",
+    "type_in_language": "Adjetivo",
+    "definition": "Pertaining to the early morning mist and sunrise over the dewy meadows.",
+    "sentence1": "El brillo matutino iluminaba las hojas cubiertas de rocío en el bosque. (The morning glow illuminated the dew-covered leaves in the forest.)",
+    "sentence2": "Disfrutamos de la brisa fresca del ambiente matutino antes de que saliera el sol. (We enjoyed the fresh breeze of the morning atmosphere before the sun came out.)"
+  },
+  {
+    "language": "French",
+    "word": "Bruine",
+    "type": "Noun",
+    "type_in_language": "Nom",
+    "definition": "A gentle, atmospheric autumn mist or very fine drizzle that soft-focuses the landscape.",
+    "sentence1": "Une douce bruine automnale enveloppait les vieux arbres du parc parisien. (A gentle autumn drizzle enveloped the old trees of the Parisian park.)",
+    "sentence2": "Le paysage semblait mystérieux sous la fine bruine de novembre. (The landscape seemed mysterious under the fine November drizzle.)"
+  },
+  {
+    "language": "German",
+    "word": "Waldeinsamkeit",
+    "type": "Noun",
+    "type_in_language": "Substantiv",
+    "definition": "The profound feeling of being alone in the woods and connected to nature.",
+    "sentence1": "Er fand tiefe Ruhe und Waldeinsamkeit auf dem schattigen Pfad. (He found deep peace and forest solitude on the shady path.)",
+    "sentence2": "Die magische Waldeinsamkeit half ihr, den Stress des Alltags zu vergessen. (The magical forest solitude helped her to forget the stress of everyday life.)"
+  },
+  {
+    "language": "Japanese",
+    "word": "Komorebi",
+    "type": "Noun",
+    "type_in_language": "Meishi",
+    "definition": "The sunlight filtering through the leaves of trees, creating a dappled pattern.",
+    "sentence1": "Mori no naka o aruku to, utsukushii komorebi ga ashimoto o terashite ita. (When walking in the forest, beautiful sunlight filtering through leaves illuminated my feet.)",
+    "sentence2": "Komorebi no naka de odayaka na kaze ga fite iru. (A calm breeze is blowing amidst the sunlight filtering through the trees.)"
+  },
+  {
+    "language": "Italian",
+    "word": "Fioritura",
+    "type": "Noun",
+    "type_in_language": "Nome",
+    "definition": "The peak springtime season when mountain wildflowers burst into vibrant color.",
+    "sentence1": "La splendida fioritura primaverile ha trasformato la valle in un tappeto di colori. (The magnificent spring bloom transformed the valley into a carpet of colors.)",
+    "sentence2": "Fotografi da tutto il mondo visitano le colline durante la fioritura di maggio. (Photographers from all over the world visit the hills during the May bloom.)"
+  },
+  {
+    "language": "Chinese",
+    "word": "Qingxiang",
+    "type": "Noun",
+    "type_in_language": "Mingci",
+    "definition": "The subtle, refreshing fragrance of blooming blossoms carried on a spring breeze.",
+    "sentence1": "Chuntian de zaoqi, yuanzi li chongman le muxu de qingxiang. (In the early spring morning, the courtyard was filled with the subtle fragrance of jasmine.)",
+    "sentence2": "Zai lingchen de fengzhong, women wen dao le caodi de qingxiang. (In the dawn breeze, we smelled the fresh fragrance of the grassland.)"
+  },
+  {
+    "language": "Korean",
+    "word": "Noreum",
+    "type": "Noun",
+    "type_in_language": "Myeongsa",
+    "definition": "The golden glow and lingering warmth of the sun setting over an autumn horizon.",
+    "sentence1": "Ga eul jeonyeok noeureum i san deul eul bu reu geh mul deul li go it da. (The autumn evening sunset glow is warmly dyeing the mountains.)",
+    "sentence2": "Geu neun chang ga e an ja sin bi han noeureum eul ba ra boat da. (She sat by the window and gazed at the mysterious sunset glow.)"
+  },
+  {
+    "language": "Khmer",
+    "word": "Prorlop",
+    "type": "Noun",
+    "type_in_language": "Namn",
+    "definition": "The peaceful twilight hour as evening mist settles over the tropical countryside.",
+    "sentence1": "Pel prorlop, thngai lich sabaey nas nov leuk phnom. (During twilight, the sunset is very peaceful over the mountain.)",
+    "sentence2": "Prey phnom nov pel prorlop mean klang phseng phat. (The forest at twilight has a cool breeze blowing.)"
+  },
+  {
+    "language": "Afrikaans",
+    "word": "Koue",
+    "type": "Noun",
+    "type_in_language": "Selstandige naamwoord",
+    "definition": "The crisp, invigorating chill in the air right before the onset of a winter frost.",
+    "sentence1": "Die skerp koue van die winteroggend laat die gras blink met ryp. (The sharp chill of the winter morning makes the grass glisten with frost.)",
+    "sentence2": "Ons het heerlik gekuier om die vuur terwyl die koue buite toesak. (We enjoyed gathering around the fire while the chill settled outside.)"
+  }
+]
