@@ -1,92 +1,94 @@
-[
-  {
-    "language": "English",
-    "word": "Petrichor",
-    "type": "Noun",
-    "type_in_language": "Noun",
-    "definition": "The pleasant, earthy scent that frequently accompanies the first rain after a long period of warm, dry weather.",
-    "sentence1": "The sudden summer storm released a rich petrichor across the parched valley. (The sudden summer storm released a rich petrichor across the parched valley.)",
-    "sentence2": "She paused on her morning walk to breathe in the soothing petrichor rising from the damp earth. (She paused on her morning walk to breathe in the soothing petrichor rising from the damp earth.)"
-  },
-  {
-    "language": "Spanish",
-    "word": "Matutino",
-    "type": "Adjective",
-    "type_in_language": "Adjetivo",
-    "definition": "Pertaining to the early morning mist and sunrise over the dewy meadows.",
-    "sentence1": "El brillo matutino iluminaba las hojas cubiertas de rocío en el bosque. (The morning glow illuminated the dew-covered leaves in the forest.)",
-    "sentence2": "Disfrutamos de la brisa fresca del ambiente matutino antes de que saliera el sol. (We enjoyed the fresh breeze of the morning atmosphere before the sun came out.)"
-  },
-  {
-    "language": "French",
-    "word": "Bruine",
-    "type": "Noun",
-    "type_in_language": "Nom",
-    "definition": "A gentle, atmospheric autumn mist or very fine drizzle that soft-focuses the landscape.",
-    "sentence1": "Une douce bruine automnale enveloppait les vieux arbres du parc parisien. (A gentle autumn drizzle enveloped the old trees of the Parisian park.)",
-    "sentence2": "Le paysage semblait mystérieux sous la fine bruine de novembre. (The landscape seemed mysterious under the fine November drizzle.)"
-  },
-  {
-    "language": "German",
-    "word": "Waldeinsamkeit",
-    "type": "Noun",
-    "type_in_language": "Substantiv",
-    "definition": "The profound feeling of being alone in the woods and connected to nature.",
-    "sentence1": "Er fand tiefe Ruhe und Waldeinsamkeit auf dem schattigen Pfad. (He found deep peace and forest solitude on the shady path.)",
-    "sentence2": "Die magische Waldeinsamkeit half ihr, den Stress des Alltags zu vergessen. (The magical forest solitude helped her to forget the stress of everyday life.)"
-  },
-  {
-    "language": "Japanese",
-    "word": "Komorebi",
-    "type": "Noun",
-    "type_in_language": "Meishi",
-    "definition": "The sunlight filtering through the leaves of trees, creating a dappled pattern.",
-    "sentence1": "Mori no naka o aruku to, utsukushii komorebi ga ashimoto o terashite ita. (When walking in the forest, beautiful sunlight filtering through leaves illuminated my feet.)",
-    "sentence2": "Komorebi no naka de odayaka na kaze ga fite iru. (A calm breeze is blowing amidst the sunlight filtering through the trees.)"
-  },
-  {
-    "language": "Italian",
-    "word": "Fioritura",
-    "type": "Noun",
-    "type_in_language": "Nome",
-    "definition": "The peak springtime season when mountain wildflowers burst into vibrant color.",
-    "sentence1": "La splendida fioritura primaverile ha trasformato la valle in un tappeto di colori. (The magnificent spring bloom transformed the valley into a carpet of colors.)",
-    "sentence2": "Fotografi da tutto il mondo visitano le colline durante la fioritura di maggio. (Photographers from all over the world visit the hills during the May bloom.)"
-  },
-  {
-    "language": "Chinese",
-    "word": "Qingxiang",
-    "type": "Noun",
-    "type_in_language": "Mingci",
-    "definition": "The subtle, refreshing fragrance of blooming blossoms carried on a spring breeze.",
-    "sentence1": "Chuntian de zaoqi, yuanzi li chongman le muxu de qingxiang. (In the early spring morning, the courtyard was filled with the subtle fragrance of jasmine.)",
-    "sentence2": "Zai lingchen de fengzhong, women wen dao le caodi de qingxiang. (In the dawn breeze, we smelled the fresh fragrance of the grassland.)"
-  },
-  {
-    "language": "Korean",
-    "word": "Noreum",
-    "type": "Noun",
-    "type_in_language": "Myeongsa",
-    "definition": "The golden glow and lingering warmth of the sun setting over an autumn horizon.",
-    "sentence1": "Ga eul jeonyeok noeureum i san deul eul bu reu geh mul deul li go it da. (The autumn evening sunset glow is warmly dyeing the mountains.)",
-    "sentence2": "Geu neun chang ga e an ja sin bi han noeureum eul ba ra boat da. (She sat by the window and gazed at the mysterious sunset glow.)"
-  },
-  {
-    "language": "Khmer",
-    "word": "Prorlop",
-    "type": "Noun",
-    "type_in_language": "Namn",
-    "definition": "The peaceful twilight hour as evening mist settles over the tropical countryside.",
-    "sentence1": "Pel prorlop, thngai lich sabaey nas nov leuk phnom. (During twilight, the sunset is very peaceful over the mountain.)",
-    "sentence2": "Prey phnom nov pel prorlop mean klang phseng phat. (The forest at twilight has a cool breeze blowing.)"
-  },
-  {
-    "language": "Afrikaans",
-    "word": "Koue",
-    "type": "Noun",
-    "type_in_language": "Selstandige naamwoord",
-    "definition": "The crisp, invigorating chill in the air right before the onset of a winter frost.",
-    "sentence1": "Die skerp koue van die winteroggend laat die gras blink met ryp. (The sharp chill of the winter morning makes the grass glisten with frost.)",
-    "sentence2": "Ons het heerlik gekuier om die vuur terwyl die koue buite toesak. (We enjoyed gathering around the fire while the chill settled outside.)"
-  }
-]
+{
+  "words": [
+    {
+      "language": "English",
+      "word": "Epiphron",
+      "type": "Noun",
+      "type_in_language": "Noun",
+      "meaning": "Prudent and thoughtful insight born from deep reflection.",
+      "sentence1": "He sought an epiphrón to guide his difficult decision.",
+      "sentence2": "True leadership requires an inherent epiphrón in times of crisis."
+    },
+    {
+      "language": "Spanish",
+      "word": "Sosiego",
+      "type": "Noun",
+      "type_in_language": "Sustantivo",
+      "meaning": "A state of profound inner peace and philosophical tranquility.",
+      "sentence1": "En medio del caos, encontro el sosiego mirando las estrellas. (In the midst of chaos, he found profound tranquility by looking at the stars.)",
+      "sentence2": "El verdadero conocimiento florece solo cuando hay sosiego en la mente. (True knowledge flourishes only when there is serenity in the mind.)"
+    },
+    {
+      "language": "French",
+      "word": "Clarté",
+      "type": "Noun",
+      "type_in_language": "Nom",
+      "meaning": "The luminous state of mental clarity that illuminates complex philosophical truths.",
+      "sentence1": "Cette ancienne doctrine apporte une clarté remarquable sur la condition humaine. (This ancient doctrine brings remarkable clarity to the human condition.)",
+      "sentence2": "Il cherchait la clarté spirituelle loin du bruit du monde moderne. (He sought spiritual clarity far from the noise of the modern world.)"
+    },
+    {
+      "language": "German",
+      "word": "Tiefsinn",
+      "type": "Noun",
+      "type_in_language": "Nomen",
+      "meaning": "Profound pensiveness and depth of philosophical thought.",
+      "sentence1": "Sein Tiefsinn zeigte sich in jedem Wort, das er sprach. (His depth of thought was evident in every word he spoke.)",
+      "sentence2": "Wir brauchen mehr Tiefsinn in unseren täglichen Gesprächen. (We need more profound thoughtfulness in our daily conversations.)"
+    },
+    {
+      "language": "Japanese",
+      "word": "Yugen",
+      "type": "Noun",
+      "type_in_language": "Meishi",
+      "meaning": "An awareness of the universe that triggers emotional responses too deep and mysterious for words.",
+      "sentence1": "Sono keshiki ni wa fukai yugen ga kanjirareta. (A deep sense of mysterious grace was felt in that landscape.)",
+      "sentence2": "Kare no shisou wa yugen no seishin ni michiteiru. (His philosophy is filled with the spirit of profound mystery.)"
+    },
+    {
+      "language": "Italian",
+      "word": "Intuizione",
+      "type": "Noun",
+      "type_in_language": "Nome",
+      "meaning": "Immediate apprehension of truth without the need for conscious reasoning.",
+      "sentence1": "La sua intuizione filosofica anticipò i tempi di molti secoli. (His philosophical intuition anticipated the times by many centuries.)",
+      "sentence2": "Ascolta la tua intuizione quando cerchi la saggezza interiore. (Listen to your intuition when seeking inner wisdom.)"
+    },
+    {
+      "language": "Chinese",
+      "word": "Zhihui",
+      "type": "Noun",
+      "type_in_language": "Mingci",
+      "meaning": "Transcendent wisdom that integrates moral integrity with universal understanding.",
+      "sentence1": "Guren de zhexue jia baohan zhe shenke de zhihui. (Ancient philosophers contained profound wisdom.)",
+      "sentence2": "Zhihui shi chuanyue kongjian de mingdeng. (Wisdom is a beacon shining through space and time.)"
+    },
+    {
+      "language": "Korean",
+      "word": "Haean",
+      "type": "Noun",
+      "type_in_language": "Myeongsa",
+      "meaning": "Insightful perception that penetrates to the core of complex matters.",
+      "sentence1": "Geuui haeandeun uri gyohunui gichabi doeeotda. (His insightful wisdom became the foundation of our teachings.)",
+      "sentence2": "Jinshilul chajki wihae haeani pilsujeogida. (Insight is essential in order to find the truth.)"
+    },
+    {
+      "language": "Khmer",
+      "word": "Panya",
+      "type": "Noun",
+      "type_in_language": "Namnuos",
+      "meaning": "Higher intellect, transcendent wisdom, and spiritual discernment.",
+      "sentence1": "Kaeun kar srachchum panya nung saksia samroub jivit. (Cultivating higher wisdom brings clarity to life.)",
+      "sentence2": "Panya chea kluon samang nou knongchett bruburis. (Wisdom is the true essence residing in the mind of the wise.)"
+    },
+    {
+      "language": "Afrikaans",
+      "word": "Insig",
+      "type_in_language": "Selfstandige naamwoord",
+      "type": "Noun",
+      "meaning": "Penetrating mental vision and philosophical understanding of existence.",
+      "sentence1": "Hierdie boek bied diep insig in die menslike natuur. (This book offers deep insight into human nature.)",
+      "sentence2": "Ware wysheid begin met selfrefleksie en ware insig. (True wisdom begins with self-reflection and true insight.)"
+    }
+  ]
+}
