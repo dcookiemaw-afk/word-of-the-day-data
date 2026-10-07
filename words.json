@@ -2,93 +2,103 @@
   "words": [
     {
       "language": "English",
-      "word": "Coeurviva",
+      "word": "Petrichor",
+      "phonetic": "PET-ri-kur",
       "type": "Noun",
       "type_in_language": "Noun",
-      "definition": "The invisible, electric pulse of shared laughter that instantly bonds two strangers into lifelong companions.",
-      "sentence1": "As their eyes met across the crowded room, a sudden coeurviva sparked between them. (As their eyes met across the crowded room, a sudden pulse of shared connection sparked between them.)",
-      "sentence2": "True friendship is sustained by these rare moments of quiet coeurviva. (True friendship is sustained by these rare moments of quiet mutual resonance.)"
+      "meaning": "The pleasant, earthy scent that frequently accompanies the first rain after a long period of warm, dry weather.",
+      "sentence1": "As the summer drought broke, a rich petrichor rose from the thirsty earth. (As the summer drought broke, a rich petrichor rose from the thirsty earth.)",
+      "sentence2": "She closed her eyes to deeply inhale the soothing petrichor outside her window. (She closed her eyes to deeply inhale the soothing petrichor outside her window.)"
     },
     {
       "language": "Spanish",
-      "word": "Almasens",
-      "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "definition": "The serene warmth felt when two souls recognize they are walking the exact same emotional path.",
-      "sentence1": "Bajo las estrellas, compartieron un profundo almasens que duró toda la noche. (Under the stars, they shared a deep soulful connection that lasted all night.)",
-      "sentence2": "Su mirada reflejaba un almasens inquebrantable. (Her gaze reflected an unbreakable emotional kinship.)"
+      "word": "Matutino",
+      "phonetic": "ma-tu-TEE-no",
+      "type": "Adjective",
+      "type_in_language": "Adjetivo",
+      "meaning": "Relating to the crisp, luminous freshness of early morning nature.",
+      "sentence1": "El viento matutino acaricio las hojas cubiertas de rocio en el jardin. (The morning wind caressed the dew-covered leaves in the garden.)",
+      "sentence2": "Disfrutamos de un paseo matutino bajo los arboles dorados del bosque. (We enjoyed a morning walk beneath the golden trees of the forest.)"
     },
     {
       "language": "French",
-      "word": "Lumensource",
+      "word": "Brume",
+      "phonetic": "BRUM",
       "type": "Noun",
       "type_in_language": "Nom",
-      "definition": "A cherished companion who naturally brightens your darkest days simply by being in your presence.",
-      "sentence1": "Elle est devenue ma lumensource lors des hivers les plus difficiles. (She became my luminous connection during the hardest winters.)",
-      "sentence2": "Trouver une telle lumensource est le plus beau cadeau de la vie. (Finding such a radiant bond is life's most beautiful gift.)"
+      "meaning": "A soft, delicate mist wrapping the autumn landscape at dawn.",
+      "sentence1": "Une douce brume enveloppait la vallee endormie au lever du jour. (A soft mist enveloped the sleeping valley at daybreak.)",
+      "sentence2": "A travers la brume, les premiers rayons du soleil dore percetaien. (Through the mist, the first rays of golden sun were piercing.)"
     },
     {
       "language": "German",
-      "word": "Herzverflecht",
+      "word": "Wolkenspiel",
+      "phonetic": "VOL-ken-shpeel",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "definition": "The intricate, beautiful intertwining of two distinct life stories into a single supportive network.",
-      "sentence2": "Unsere jahrelange Zusammenarbeit hat ein starkes Herzverflecht geschaffen. (Our years of collaboration have created a strong interwoven bond.)",
-      "sentence1": "Dieses Herzverflecht zwischen uns kann niemals getrennt werden. (This interwoven heart-connection between us can never be severed.)"
+      "type_in_language": "Nomen",
+      "meaning": "The mesmerizing interplay and shifting patterns of clouds across the seasonal sky.",
+      "sentence1": "Das Wolkenspiel am herbstlichen Himmel faszinierte alle Wanderer. (The play of clouds in the autumn sky fascinated all the hikers.)",
+      "sentence2": "Wir beobachteten das stetige Wolkenspiel ueber den Berggipfeln. (We watched the continuous play of clouds over the mountain peaks.)"
     },
     {
       "language": "Japanese",
-      "word": "Kizunagusa",
+      "word": "Kogarashi",
+      "phonetic": "ko-ga-ra-shi",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "definition": "A poetic term for the resilient grass that grows between stepping stones, symbolizing the bonds that keep people together through rough terrain.",
-      "sentence1": "Futari no aida ni wa fukai kizunagusa ga sodatteiru. (Between the two of them, a deep resilient bond is growing.)",
-      "sentence2": "Sono yujou wa masani kizunagusa no you ni tsuyoi. (That friendship is truly as strong as resilient grass bonds.)"
+      "meaning": "The chilling wind that heralds the arrival of late autumn and early winter.",
+      "sentence1": "Kogarashi ga fukinuke, kyonen no ha ga odoru yoni maiagatta. (The cold seasonal wind blew through, and last year's leaves swirled up as if dancing.)",
+      "sentence2": "Kogarashi o kanji nagara, kanojo wa fuyu no kooto o gyutto shibotta. (Feeling the chill of the early winter wind, she tightened her winter coat.)"
     },
     {
       "language": "Italian",
-      "word": "Affinitonda",
+      "word": "Rugiada",
+      "phonetic": "ru-JAH-da",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "definition": "A continuous, rolling wave of mutual understanding that ripples effortlessly through a lifelong friendship.",
-      "sentence1": "La loro conversazione fluiva con una perfetta affinitonda. (Their conversation flowed with a perfect rolling harmony.)",
-      "sentence2": "Sentiamo un'affinitonda che va oltre le parole. (We feel a resonance that goes beyond words.)"
+      "type_in_language": "Nome",
+      "meaning": "Glistening morning dew resting gently on vernal blossoms.",
+      "sentence1": "La rugiada mattutina faceva brillare i petali dei fiori primaverili. (The morning dew made the petals of the spring flowers shine.)",
+      "sentence2": "I fili d'erba erano coperti da una fresca rugiada argentea. (The blades of grass were covered with fresh silvery dew.)"
     },
     {
       "language": "Chinese",
-      "word": "Xinguangwang",
-      "type_in_language": "Mingci",
+      "word": "Fengguang",
+      "phonetic": "fung-gwahng",
       "type": "Noun",
-      "definition": "A constellation-like network of hearts that pulse in unison across great distances.",
-      "sentence1": "Ta men zhi jian you zhe yongheng de xinguangwang. (Between them exists an eternal heart-light connection.)",
-      "sentence2": "Zhege xinguangwang rang yuanfang de pengyou xiangju zai xinli. (This network of hearts brings distant friends together in the mind.)"
+      "type_in_language": "Mingci",
+      "meaning": "The vibrant, picturesque natural scenery that changes magnificently across the four seasons.",
+      "sentence1": "Chuntian de fengguang shifen miren, zhen shi taodi de hao shijie. (The spring scenery is extremely enchanting, truly a great time for an outing.)",
+      "sentence2": "Qiu gaishuang de fengguang rang ren liuliu wangfan, bu shi zai jian. (The crisp autumn scenery makes people forget to return, wishing to stay forever.)"
     },
     {
       "language": "Korean",
-      "word": "Maumgyeol",
+      "word": "Noreul",
+      "phonetic": "no-reul",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "definition": "The delicate texture and gentle ripples of empathy formed when two people share their innermost thoughts.",
-      "sentence1": "Urineun gipeun maumgyeol-euro yeon-gyeol-dwae isseoyo. (We are connected by deep ripples of empathetic heart-waves.)",
-      "sentence2": "Geu ui iyagineun naui maumgyeol-eul ullyeossda. (His story resonated deeply with the fabric of my heart.)"
+      "meaning": "The radiant, amber glow of sunset reflecting across autumn fields.",
+      "sentence1": "Eunbit deulpan wie bukeureoun noreul bitkkari muldeureotda. (A shy sunset glow dyed across the silvery fields.)",
+      "sentence2": "Gayeo-un noreul kkeuteuro saramdureun jibeuro balgeoreumeul omgyeotda. (With the fading autumn sunset glow at the end, people moved their steps toward home.)"
     },
     {
       "language": "Khmer",
-      "word": "Snehvong",
+      "word": "Plear Phka",
+      "phonetic": "play phkah",
       "type": "Noun",
-      "type_in_language": "Nam",
-      "definition": "An eternal, spiraling bond of friendship that deepens with every single turn of life's journey.",
-      "sentence1": "Tnak_ngakkhmer roborus puokkea mean snehvong la-or nas. (Their Cambodian-inspired friendship bond is exceptionally beautiful.)",
-      "sentence2": "Snehvong nih trov ban ksat sra-lah knong jivit puokkea. (This spiraling bond of connection was etched deeply in their lives.)"
+      "type_in_language": "Kuna Nam",
+      "meaning": "The sweet, ephemeral dew drops gathered inside freshly bloomed seasonal flowers.",
+      "sentence1": "Plear phka pich ban janh-jany phka srey knong pich preuksa. (The flower dew glittered brightly on the blossom petals in the morning forest.)",
+      "sentence2": "Knea ban luy chenh Plear phka dermbi thver osul thmey. (They collected flower dew to make a new natural fragrance.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Sielsweef",
-      "type_in_language": "Selfstandige naamwoord",
+      "word": "Herfsblaar",
+      "phonetic": "herfs-blahr",
       "type": "Noun",
-      "definition": "The weightless feeling of absolute safety and belonging experienced in the company of a true kindred spirit.",
-      "sentence1": "Om by jou te wees voel soos 'n ware sielsweef. (Being with you feels like a true soaring of souls in connection.)",
-      "sentence2": "Ons vriendskap is gebou op daardie stille sielsweef. (Our friendship is built upon that quiet soul-floating harmony.)"
+      "type_in_language": "Selfstandige naamwoord",
+      "meaning": "A golden-hued leaf gently descending during the crisp transition of autumn.",
+      "sentence1": "Enkele gouden herfsblaar het saggies op die nat grond neergedwarrel. (A single golden autumn leaf drifted softly down onto the wet ground.)",
+      "sentence2": "Sy het 'n mooi herfsblaar opgetel en dit in haar dagboek gedruk. (She picked up a beautiful autumn leaf and pressed it in her diary.)"
     }
   ]
 }
