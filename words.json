@@ -1,94 +1,92 @@
-{
-  "words": [
-    {
-      "language": "English",
-      "word": "Vellichor",
-      "type": "Noun",
-      "type_in_language": "Noun",
-      "definition": "The strange tangibility of old bookstores, which are filled with the souls of thousands of years gone by.",
-      "sentence1": "She walked into the dusty antiquarian shop and was immediately enveloped by a deep sense of vellichor. (She walked into the dusty antiquarian shop and was immediately enveloped by a deep sense of vellichor.)",
-      "sentence2": "The quiet afternoon spent flipping through vintage pages offered him a comforting vellichor. (The quiet afternoon spent flipping through vintage pages offered him a comforting vellichor.)"
-    },
-    {
-      "language": "Spanish",
-      "word": "Estrenar",
-      "type": "Verb",
-      "type_in_language": "Verbo",
-      "definition": "The pure joy and excitement of wearing or using something for the very first time.",
-      "sentence1": "Manana voy a estrenar mis zapatos nuevos en la fiesta. (Tomorrow I am going to wear my new shoes for the very first time at the party.)",
-      "sentence2": "Hay una emocion unica al estrenar un libro que acabas de comprar. (There is a unique emotion in using a book you just bought for the very first time.)"
-    },
-    {
-      "language": "French",
-      "word": "Trouvaille",
-      "type": "Noun",
-      "type_in_language": "Nom",
-      "definition": "A lucky, unexpected find that brings a sudden rush of delight and fulfillment.",
-      "sentence1": "Cette petite montre ancienne achetee au marche aux puces etait une vraie trouvaille. (This little antique watch bought at the flea market was a real lucky find.)",
-      "sentence2": "Sa decouverte dans la petite librairie fut une trouvaille emouvante. (Her discovery in the small bookstore was a touching lucky find.)"
-    },
-    {
-      "language": "German",
-      "word": "Waldeinsamkeit",
-      "type": "Noun",
-      "type_in_language": "Nomen",
-      "definition": "The profound feeling of peaceful solitude and connectedness when being alone in the deep woods.",
-      "sentence1": "Er spuerte eine tiefe Waldeinsamkeit, als er tief in den herbstlichen Wald ging. (He felt a deep solitude in the woods as he walked deep into the autumn forest.)",
-      "sentence2": "Die reine Waldeinsamkeit half ihr, den Stress der Stadt komplett zu vergessen. (The pure forest solitude helped her to completely forget the stress of the city.)"
-    },
-    {
-      "language": "Japanese",
-      "word": "Yugen",
-      "type": "Noun",
-      "type_in_language": "Meishi",
-      "definition": "An awareness of the universe that triggers emotional responses too deep and mysterious for words.",
-      "sentence1": "Kiri no naka no yama o mite, fukai yugen o kanjita. (Looking at the mountains in the mist, I felt a deep, profound grace and mystery.)",
-      "sentence2": "Sono keshiki wa mune o utsu yugen ni michite ita. (That scenery was filled with a profound and mysterious beauty that touched the heart.)"
-    },
-    {
-      "language": "Italian",
-      "word": "Culaccino",
-      "type": "Noun",
-      "type_in_language": "Nome",
-      "definition": "The mark left on a table by a cold glass, evoking the lingering warmth of a shared conversation.",
-      "sentence1": "Sul tavolo in legno era rimasto il culaccino del bicchiere di vino. (On the wooden table remained the condensation ring from the glass of wine.)",
-      "sentence2": "Guardando quel culaccino, ricordo le risate della sera prima. (Looking at that glass ring, I remember the laughter from the night before.)"
-    },
-    {
-      "language": "Chinese",
-      "word": "Yiyou",
-      "type": "Adjective",
-      "type_in_language": "Xingrongci",
-      "definition": "A bittersweet, nostalgic longing for a distant place or a past era that feels almost tangible.",
-      "sentence1": "Zai zhege gui de zaochen, ta xinli chongman le yiyou de ganqing. (On this quiet morning, her heart was filled with a poignant, nostalgic longing.)",
-      "sentence2": "Lao zhaopian zongshi rang ren xianru yiyou de siwei zhong. (Old photographs always make people sink into a bittersweet longing.)"
-    },
-    {
-      "language": "Korean",
-      "word": "Sonmok",
-      "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "definition": "The sudden, exhilarating realization of personal growth after overcoming a quiet inner storm.",
-      "sentence1": "Geu sigan dwieneun maeumui sonmok-eul neukkyeotda. (After that time, I felt the quiet, blooming clarity of emotional growth.)",
-      "sentence2": "Gyeouul kkeut-eseo geunyeoneun jasin-ui sonmok-eul maraetda. (At the end of winter, she whispered about her newfound inner strength.)"
-    },
-    {
-      "language": "Khmer",
-      "word": "Snamru",
-      "type": "Noun",
-      "type_in_language": "Kuna",
-      "definition": "The lingering, sweet resonance of a kind word that echoes in your heart long after it was spoken.",
-      "sentence1": "Samngk roar chheah ban dael chol joul knong chiet ke klang nas. (The kind words left a sweet resonance that entered deep into the soul.)",
-      "sentence2": "Komnoh chea snamru moak pi kngea del ban chreuh chreab. (That memory is a lingering sweet echo from a dear friend.)"
-    },
-    {
-      "language": "Afrikaans",
-      "word": "Stiltegenot",
-      "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "definition": "The profound, warm comfort found in sharing complete silence with someone you deeply trust.",
-      "sentence1": "Hulle het saam gesit en geniet die stiltegenot op die stoep. (They sat together and enjoyed the comforting bliss of silence on the porch.)",
-      "sentence2": "Daardie oomblik van stiltegenot was meer werd as duisend woorde. (That moment of quiet shared bliss was worth more than a thousand words.)"
-    }
-  ]
-}
+[
+  {
+    "language": "English",
+    "word": "Vellichor",
+    "type": "Noun",
+    "type_in_language": "Noun",
+    "meaning": "The strange tangibility of old bookstores, which are filled with the scents of aged paper, worn bindings, and quiet histories.",
+    "sentence1": "As she stepped into the dusty antiquarian shop, a deep sense of vellichor washed over her soul. (As she stepped into the dusty antiquarian shop, a deep sense of vellichor washed over her soul.)",
+    "sentence2": "He spent hours breathing in the vellichor of the forgotten library. (He spent hours breathing in the vellichor of the forgotten library.)"
+  },
+  {
+    "language": "Spanish",
+    "word": "Señorío",
+    "type": "Noun",
+    "type_in_language": "Sustantivo",
+    "meaning": "A quiet, profound sense of inner dignity and emotional mastery during unexpected turmoil.",
+    "sentence1": "A pesar de la tormenta, mantuvo un señorío admirable. (Despite the storm, he maintained an admirable dignity.)",
+    "sentence2": "Su mirada reflejaba un señorío sereno y profundo. (His gaze reflected a serene and profound composure.)"
+  },
+  {
+    "language": "French",
+    "word": "Émoi",
+    "type": "Noun",
+    "type_in_language": "Nom",
+    "meaning": "A gentle flutter of emotional agitation or sudden sentimental awakening.",
+    "sentence1": "Un doux émoi s'empara de son cœur en lisant la lettre. (A sweet flutter took hold of her heart upon reading the letter.)",
+    "sentence2": "Il tenta de dissimuler son émoi devant elle. (He tried to hide his emotional stirring in front of her.)"
+  },
+  {
+    "language": "German",
+    "word": "Sehnsuchtsvoll",
+    "type": "Adjective",
+    "type_in_language": "Adjektiv",
+    "meaning": "Filled with a bittersweet, aching yearning for a distant time, place, or person.",
+    "sentence1": "Sie blickte sehnsuchtsvoll in den abendlichen Himmel. (She looked longingly into the evening sky.)",
+    "sentence2": "Ein sehnsuchtsvoll Lied erfüllte den Raum. (A wistfully yearning song filled the room.)"
+  },
+  {
+    "language": "Japanese",
+    "word": "Yugen",
+    "type": "Noun",
+    "type_in_language": "Meishi",
+    "meaning": "An awareness of the universe that triggers emotional responses too deep and mysterious for words.",
+    "sentence1": "Kiri no naka de fukai yugen o kanjita. (I felt a deep sense of mysterious grace amidst the fog.)",
+    "sentence2": "Sono keshiki wa yugen ni michite ita. (That scenery was filled with profound, ineffable beauty.)"
+  },
+  {
+    "language": "Italian",
+    "word": "Sussulto",
+    "type": "Noun",
+    "type_in_language": "Sostantivo",
+    "meaning": "A sudden, breathless leap of the heart caused by an unexpected wave of tenderness or surprise.",
+    "sentence1": "Un piccolo sussulto le attraversò il petto quando lo vide. (A small leap crossed her chest when she saw him.)",
+    "sentence2": "La notizia provocò un sussulto di gioia in tutta la stanza. (The news provoked a surge of joy across the whole room.)"
+  },
+  {
+    "language": "Chinese",
+    "word": "Chuangran",
+    "type": "Adjective",
+    "type_in_language": "Xingrongci",
+    "meaning": "A poignant emotional resonance felt when witnessing something fragile yet enduring.",
+    "sentence1": "Ta de gushi rang ren gan dao chuangran. (His story made people feel a poignant melancholy.)",
+    "sentence2": "Zhe fu hua dai you yizhong chuangran de mei. (This painting carries a kind of emotionally touching beauty.)"
+  },
+  {
+    "language": "Korean",
+    "word": "Aetata",
+    "type": "Verb",
+    "type_in_language": "Dongsa",
+    "meaning": "To feel an anxious, burning heartache out of deep care or suspense for someone.",
+    "sentence1": "Geuui sosige maeumi aetatasda. (My heart burned with anxious longing over his news.)",
+    "sentence2": "Aetatan simjeongeuro bameul jisewossda. (I spent the night awake with a heart full of anxious ache.)"
+  },
+  {
+    "language": "Khmer",
+    "word": "Annal",
+    "type": "Noun",
+    "type_in_language": "Kuna Neam",
+    "meaning": "A profound, tender weight of nostalgia and gentle worry held within the memory of loved ones.",
+    "sentence1": "Knhom mean aroml mean annal jamneou mnusseh del jol chet. (I have a feeling of tender care and memory for those I love.)",
+    "sentence2": "Chet knhom teaktoah knong kar smarah annal noh. (My heart softened within that quiet wave of sentimental recollection.)"
+  },
+  {
+    "language": "Afrikaans",
+    "word": "Sielsbegeerte",
+    "type": "Noun",
+    "type_in_language": "Byvoeglike Naamwoord",
+    "meaning": "An intense, soulful longing or yearning that resonates deeply within one's spirit.",
+    "sentence1": "Sy het 'n sielsbegeerte na die stil natuur gehad. (She had a soulful yearning for the quiet nature.)",
+    "sentence2": "Die musiek het sy diepste sielsbegeerte wakker gemaak. (The music awakened his deepest soulful longing.)"
+  }
+]
