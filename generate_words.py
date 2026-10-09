@@ -15,36 +15,25 @@ languages = [
     "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
 ]
 
-# Load recent word history to prevent ANY repetition
-history_file = 'history.json'
-recent_words = []
+history_file = 'exclusion_history.json'
+exclusions_by_lang = {}
 
+# Read 100% from exclusion_history.json
 if os.path.exists(history_file):
     try:
         with open(history_file, 'r', encoding='utf-8') as f:
-            recent_words = json.load(f)
+            exclusions_by_lang = json.load(f)
     except Exception as e:
-        print(f"Notice: Could not load history file: {e}", flush=True)
+        print(f"Notice: Loading existing exclusion history: {e}", flush=True)
 
-if os.path.exists('words.json'):
-    try:
-        with open('words.json', 'r', encoding='utf-8') as f:
-            old_data = json.load(f)
-            for w in old_data.get('words', []):
-                word_text = w.get('word') or w.get('text')
-                if word_text and word_text not in recent_words:
-                    recent_words.append(word_text)
-    except Exception:
-        pass
+# Build language-specific exclusion prompt section
+exclusion_prompt_lines = []
+for lang in languages:
+    excluded_words = exclusions_by_lang.get(lang, [])
+    if excluded_words:
+        exclusion_prompt_lines.append(f"- {lang}: DO NOT use {', '.join(excluded_words[-50:])}")
 
-# Add known clichés to exclusion list
-cliches = ["Vellichor", "Petrichor", "Serendipity", "Sonder", "Ethereal", "Aurora", "Limerence", "Ephemeral", "Auraforge", "Epiphron"]
-for c in cliches:
-    if c not in recent_words:
-        recent_words.append(c)
-
-# Keep last 150 words in exclusion history
-exclusion_list = recent_words[-150:]
+exclusion_text = "\n".join(exclusion_prompt_lines)
 
 today_str = datetime.date.today().strftime("%B %d, %Y")
 topics = ["nature & seasons", "emotions & feelings", "art & beauty", "wisdom & philosophy", "daily life & wonder", "courage & inspiration", "friendship & connection", "space & universe", "starlight & dreams", "harvest & joy"]
@@ -53,8 +42,8 @@ today_topic = random.choice(topics)
 prompt = (
     f"Today is {today_str}. Generate a JSON object with a key 'words' containing a list of objects. "
     f"Provide a brand new, unique, and beautiful word inspired by '{today_topic}' for each of these exact languages: {', '.join(languages)}.\n"
-    f"STRICT EXCLUSION RULE:\n"
-    f"- DO NOT use any of these previously used or cliché words: {', '.join(exclusion_list)}.\n"
+    f"STRICT PER-LANGUAGE EXCLUSION RULES (DO NOT REPEAT ANY OF THESE WORDS):\n"
+    f"{exclusion_text}\n"
     f"CRITICAL RULE FOR SCRIPTS & WRITING:\n"
     f"- For ALL languages in the list ({', '.join(languages)}), write 'word', 'sentence1', and 'sentence2' using Latin/English script phonetics (Romanization/transliteration) so an English speaker can easily read and pronounce them.\n"
     f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
@@ -94,14 +83,18 @@ def generate():
                 with open('words.json', 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
                 
-                # Update history.json
+                # Update exclusion_history.json automatically
                 for item in new_words_list:
+                    l = item.get('lang') or item.get('language')
                     wt = item.get('word') or item.get('text')
-                    if wt and wt not in recent_words:
-                        recent_words.append(wt)
+                    if l and wt:
+                        if l not in exclusions_by_lang:
+                            exclusions_by_lang[l] = []
+                        if wt not in exclusions_by_lang[l]:
+                            exclusions_by_lang[l].append(wt)
                         
                 with open(history_file, 'w', encoding='utf-8') as f:
-                    json.dump(recent_words[-200:], f, ensure_ascii=False, indent=2)
+                    json.dump(exclusions_by_lang, f, ensure_ascii=False, indent=2)
 
                 print(f"Success! Generated fresh words.json using model: {clean_model}", flush=True)
                 return True
