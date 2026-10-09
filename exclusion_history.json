@@ -1,11 +1,11 @@
 {
-  "English": ["Vellichor", "Petrichor", "Serendipity", "Sonder", "Ethereal", "Aurora", "Limerence", "Ephemeral", "Auraforge", "Epiphron"],
-  "Afrikaans": ["Pragtig", "Moedskyn", "Geluksaligheid"],
-  "Spanish": ["Esperanza", "Almaslumbrar", "Querencia"],
-  "French": ["Magnifique", "Audacesprit", "Flâneur"],
-  "German": ["Wunderbar", "Mutschmiede", "Fernweh"],
-  "Japanese": ["Komorebi", "Shinbaku", "Kintsugi"],
-  "Italian": ["Speranza", "Vigorvento", "Sprezzatura"],
+  "English": ["Vellichor", "Petrichor"],
+  "Afrikaans": ["Pragtig", "Moedskyn"],
+  "Spanish": ["Esperanza", "Almaslumbrar"],
+  "French": ["Magnifique", "Audacesprit"],
+  "German": ["Wunderbar", "Mutschmiede"],
+  "Japanese": ["Komorebi", "Shinbaku"],
+  "Italian": ["Speranza", "Vigorvento"],
   "Chinese": ["Xìngfú", "Xinxi"],
   "Korean": ["Haengbok", "Damreum"],
   "Khmer": ["Sro-noh", "Sahasa"]
