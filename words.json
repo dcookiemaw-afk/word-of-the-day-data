@@ -1,92 +1,94 @@
-[
-  {
-    "language": "English",
-    "word": "Vellichor",
-    "type": "Noun",
-    "type_in_language": "Noun",
-    "meaning": "The strange tangibility of old bookstores, which are filled with the scents of aged paper, worn bindings, and quiet histories.",
-    "sentence1": "As she stepped into the dusty antiquarian shop, a deep sense of vellichor washed over her soul. (As she stepped into the dusty antiquarian shop, a deep sense of vellichor washed over her soul.)",
-    "sentence2": "He spent hours breathing in the vellichor of the forgotten library. (He spent hours breathing in the vellichor of the forgotten library.)"
-  },
-  {
-    "language": "Spanish",
-    "word": "Señorío",
-    "type": "Noun",
-    "type_in_language": "Sustantivo",
-    "meaning": "A quiet, profound sense of inner dignity and emotional mastery during unexpected turmoil.",
-    "sentence1": "A pesar de la tormenta, mantuvo un señorío admirable. (Despite the storm, he maintained an admirable dignity.)",
-    "sentence2": "Su mirada reflejaba un señorío sereno y profundo. (His gaze reflected a serene and profound composure.)"
-  },
-  {
-    "language": "French",
-    "word": "Émoi",
-    "type": "Noun",
-    "type_in_language": "Nom",
-    "meaning": "A gentle flutter of emotional agitation or sudden sentimental awakening.",
-    "sentence1": "Un doux émoi s'empara de son cœur en lisant la lettre. (A sweet flutter took hold of her heart upon reading the letter.)",
-    "sentence2": "Il tenta de dissimuler son émoi devant elle. (He tried to hide his emotional stirring in front of her.)"
-  },
-  {
-    "language": "German",
-    "word": "Sehnsuchtsvoll",
-    "type": "Adjective",
-    "type_in_language": "Adjektiv",
-    "meaning": "Filled with a bittersweet, aching yearning for a distant time, place, or person.",
-    "sentence1": "Sie blickte sehnsuchtsvoll in den abendlichen Himmel. (She looked longingly into the evening sky.)",
-    "sentence2": "Ein sehnsuchtsvoll Lied erfüllte den Raum. (A wistfully yearning song filled the room.)"
-  },
-  {
-    "language": "Japanese",
-    "word": "Yugen",
-    "type": "Noun",
-    "type_in_language": "Meishi",
-    "meaning": "An awareness of the universe that triggers emotional responses too deep and mysterious for words.",
-    "sentence1": "Kiri no naka de fukai yugen o kanjita. (I felt a deep sense of mysterious grace amidst the fog.)",
-    "sentence2": "Sono keshiki wa yugen ni michite ita. (That scenery was filled with profound, ineffable beauty.)"
-  },
-  {
-    "language": "Italian",
-    "word": "Sussulto",
-    "type": "Noun",
-    "type_in_language": "Sostantivo",
-    "meaning": "A sudden, breathless leap of the heart caused by an unexpected wave of tenderness or surprise.",
-    "sentence1": "Un piccolo sussulto le attraversò il petto quando lo vide. (A small leap crossed her chest when she saw him.)",
-    "sentence2": "La notizia provocò un sussulto di gioia in tutta la stanza. (The news provoked a surge of joy across the whole room.)"
-  },
-  {
-    "language": "Chinese",
-    "word": "Chuangran",
-    "type": "Adjective",
-    "type_in_language": "Xingrongci",
-    "meaning": "A poignant emotional resonance felt when witnessing something fragile yet enduring.",
-    "sentence1": "Ta de gushi rang ren gan dao chuangran. (His story made people feel a poignant melancholy.)",
-    "sentence2": "Zhe fu hua dai you yizhong chuangran de mei. (This painting carries a kind of emotionally touching beauty.)"
-  },
-  {
-    "language": "Korean",
-    "word": "Aetata",
-    "type": "Verb",
-    "type_in_language": "Dongsa",
-    "meaning": "To feel an anxious, burning heartache out of deep care or suspense for someone.",
-    "sentence1": "Geuui sosige maeumi aetatasda. (My heart burned with anxious longing over his news.)",
-    "sentence2": "Aetatan simjeongeuro bameul jisewossda. (I spent the night awake with a heart full of anxious ache.)"
-  },
-  {
-    "language": "Khmer",
-    "word": "Annal",
-    "type": "Noun",
-    "type_in_language": "Kuna Neam",
-    "meaning": "A profound, tender weight of nostalgia and gentle worry held within the memory of loved ones.",
-    "sentence1": "Knhom mean aroml mean annal jamneou mnusseh del jol chet. (I have a feeling of tender care and memory for those I love.)",
-    "sentence2": "Chet knhom teaktoah knong kar smarah annal noh. (My heart softened within that quiet wave of sentimental recollection.)"
-  },
-  {
-    "language": "Afrikaans",
-    "word": "Sielsbegeerte",
-    "type": "Noun",
-    "type_in_language": "Byvoeglike Naamwoord",
-    "meaning": "An intense, soulful longing or yearning that resonates deeply within one's spirit.",
-    "sentence1": "Sy het 'n sielsbegeerte na die stil natuur gehad. (She had a soulful yearning for the quiet nature.)",
-    "sentence2": "Die musiek het sy diepste sielsbegeerte wakker gemaak. (The music awakened his deepest soulful longing.)"
-  }
-]
+{
+  "words": [
+    {
+      "language": "English",
+      "word": "Pictolume",
+      "type": "Noun",
+      "type_in_language": "Noun",
+      "meaning": "The gentle, ambient luminescence that seems to radiate from a masterpiece of visual art",
+      "sentence1": "The quiet studio was illuminated by the golden pictolume of her latest canvas. (The quiet studio was illuminated by the golden painted glow of her latest canvas.)",
+      "sentence2": "Connoisseurs gathered around the frame, mesmerized by its sublime pictolume. (Connoisseurs gathered around the frame, mesmerized by its sublime artistic radiance.)"
+    },
+    {
+      "language": "Spanish",
+      "word": "Pincelluz",
+      "type": "Noun",
+      "type_in_language": "Sustantivo",
+      "meaning": "A brushstroke of pure light that brings transcendent beauty to a canvas",
+      "sentence1": "El maestro agrego un delicado pincelluz sobre el rostro del retrato. (The master added a delicate stroke of light onto the portrait's face.)",
+      "sentence2": "Cada pincelluz en esta obra refleja una serenidad infinita. (Every stroke of light in this artwork reflects infinite serenity.)"
+    },
+    {
+      "language": "French",
+      "word": "Peinturame",
+      "type": "Noun",
+      "type_in_language": "Nom",
+      "meaning": "The deep, poetic soul captured within a fine piece of visual or sculpted art",
+      "sentence1": "Cette fresque ancienne possede une peinturame d'une elegance rare. (This ancient fresco possesses a painted soul of rare elegance.)",
+      "sentence2": "L'artiste a infuse toute sa joie dans la peinturame de sa nouvelle toile. (The artist infused all his joy into the artistic soul of his new canvas.)"
+    },
+    {
+      "language": "German",
+      "word": "Kunstleuchten",
+      "type": "Noun",
+      "type_in_language": "Substantiv",
+      "meaning": "The profound aesthetic radiance emitted by an evocative artistic creation",
+      "sentence1": "Das Kunstleuchten der Skulptur zog jeden Betrachter magisch an. (The artistic radiance of the sculpture magically attracted every viewer.)",
+      "sentence2": "Im Daemmerlicht entfaltete das Gemaelde ein geheimnisvolles Kunstleuchten. (In the twilight, the painting unfolded a mysterious artistic radiance.)"
+    },
+    {
+      "language": "Japanese",
+      "word": "Bigaensho",
+      "type": "Noun",
+      "type_in_language": "Meishi",
+      "meaning": "The blooming aura of exquisite harmony and aesthetic elegance in an artwork",
+      "sentence1": "Sono byoubu kara wa fukai bigaensho ga tadayotteiru. (A profound blooming aura of artistic grace drifts from that folding screen.)",
+      "sentence2": "Gaka wa kyanbasu ni shizen no bigaensho wo utsushidashita. (The painter captured nature's blooming artistic grace onto the canvas.)"
+    },
+    {
+      "language": "Italian",
+      "word": "Bellezzarte",
+      "type": "Noun",
+      "type_in_language": "Sostantivo",
+      "meaning": "The sublime intersection where natural charm is elevated into timeless artistic perfection",
+      "sentence1": "Passeggiare tra i portici di Firenze rivela una continua bellezzarte. (Strolling among the arcades of Florence reveals a continuous artistic beauty.)",
+      "sentence2": "La scultura marmorea esprimeva la quintessenza della bellezzarte rinascimentale. (The marble sculpture expressed the quintessence of Renaissance artistic beauty.)"
+    },
+    {
+      "language": "Chinese",
+      "word": "Meiyiyun",
+      "type": "Noun",
+      "type_in_language": "Mingci",
+      "meaning": "The enchanting rhythm and lingering aesthetic charm found in fine art",
+      "sentence1": "Zhe fu shanshuihua liutang zhe kongling de meiyiyun. (This landscape painting flows with an ethereal artistic charm.)",
+      "sentence2": "Guanzhong bei ta wudao zhong de meiyiyun shengsheng d Open. (The audience was deeply moved by the aesthetic artistic charm in her dance.)"
+    },
+    {
+      "language": "Korean",
+      "word": "Mibitgyeol",
+      "type": "Noun",
+      "type_in_language": "Myeongsa",
+      "meaning": "The gentle, undulating texture of visual beauty and artistic grace",
+      "sentence1": "Baekja-ui pyomyeon-eseo goyohan mibitgyeol-i neukkyeojinda. (A tranquil wave of artistic beauty is felt on the surface of the white porcelain.)",
+      "sentence2": "Geu hwapok-eun nunbusin mibitgyeol-lo gadeuk cha itda. (That canvas is brimming with a dazzling wave of aesthetic beauty.)"
+    },
+    {
+      "language": "Khmer",
+      "word": "Silpaprich",
+      "type": "Noun",
+      "type_in_language": "Neam",
+      "meaning": "The shimmering spark of pure elegance and artistic brilliance",
+      "sentence1": "Kompoul chamlak nih ban banyhchheanh silpaprich yang pitbrakad. (This summit sculpture radiated an authentic artistic sparkle.)",
+      "sentence2": "Tukchet robos kot ban reykray doysa silpaprich ney teptkosol. (His heart rejoiced because of the artistic brilliance of fine talent.)"
+    },
+    {
+      "language": "Afrikaans",
+      "word": "Kunsglans",
+      "type": "Noun",
+      "type_in_language": "Selfstandige naamwoord",
+      "meaning": "The captivating luster and refined brilliance produced by masterful craftsmanship",
+      "sentence1": "Die kunsglans van die nuwe muurskildering het almal betower. (The artistic luster of the new mural enchanted everyone.)",
+      "sentence2": "Sy soek altyd na daardie ongerepte kunsglans in elke skepping. (She always searches for that pristine artistic luster in every creation.)"
+    }
+  ]
+}

@@ -1,12 +1,52 @@
 {
-  "English": ["Vellichor", "Petrichor"],
-  "Afrikaans": ["Pragtig", "Moedskyn"],
-  "Spanish": ["Esperanza", "Almaslumbrar"],
-  "French": ["Magnifique", "Audacesprit"],
-  "German": ["Wunderbar", "Mutschmiede"],
-  "Japanese": ["Komorebi", "Shinbaku"],
-  "Italian": ["Speranza", "Vigorvento"],
-  "Chinese": ["Xìngfú", "Xinxi"],
-  "Korean": ["Haengbok", "Damreum"],
-  "Khmer": ["Sro-noh", "Sahasa"]
+  "English": [
+    "Vellichor",
+    "Petrichor",
+    "Pictolume"
+  ],
+  "Afrikaans": [
+    "Pragtig",
+    "Moedskyn",
+    "Kunsglans"
+  ],
+  "Spanish": [
+    "Esperanza",
+    "Almaslumbrar",
+    "Pincelluz"
+  ],
+  "French": [
+    "Magnifique",
+    "Audacesprit",
+    "Peinturame"
+  ],
+  "German": [
+    "Wunderbar",
+    "Mutschmiede",
+    "Kunstleuchten"
+  ],
+  "Japanese": [
+    "Komorebi",
+    "Shinbaku",
+    "Bigaensho"
+  ],
+  "Italian": [
+    "Speranza",
+    "Vigorvento",
+    "Bellezzarte"
+  ],
+  "Chinese": [
+    "Xìngfú",
+    "Xinxi",
+    "Meiyiyun"
+  ],
+  "Korean": [
+    "Haengbok",
+    "Damreum",
+    "Mibitgyeol"
+  ],
+  "Khmer": [
+    "Sro-noh",
+    "Sahasa",
+    "Silpaprich"
+  ]
 }
