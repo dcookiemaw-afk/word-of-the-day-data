@@ -2,51 +2,61 @@
   "English": [
     "Vellichor",
     "Petrichor",
-    "Pictolume"
+    "Pictolume",
+    "Bravascent"
   ],
   "Afrikaans": [
     "Pragtig",
     "Moedskyn",
-    "Kunsglans"
+    "Kunsglans",
+    "Moedvonk"
   ],
   "Spanish": [
     "Esperanza",
     "Almaslumbrar",
-    "Pincelluz"
+    "Pincelluz",
+    "Corazumbre"
   ],
   "French": [
     "Magnifique",
     "Audacesprit",
-    "Peinturame"
+    "Peinturame",
+    "Elancour"
   ],
   "German": [
     "Wunderbar",
     "Mutschmiede",
-    "Kunstleuchten"
+    "Kunstleuchten",
+    "Kuehnstrebung"
   ],
   "Japanese": [
     "Komorebi",
     "Shinbaku",
-    "Bigaensho"
+    "Bigaensho",
+    "Yuubirameki"
   ],
   "Italian": [
     "Speranza",
     "Vigorvento",
-    "Bellezzarte"
+    "Bellezzarte",
+    "Ardispirito"
   ],
   "Chinese": [
     "Xìngfú",
     "Xinxi",
-    "Meiyiyun"
+    "Meiyiyun",
+    "Yonglizhao"
   ],
   "Korean": [
     "Haengbok",
     "Damreum",
-    "Mibitgyeol"
+    "Mibitgyeol",
+    "Yonggitsum"
   ],
   "Khmer": [
     "Sro-noh",
     "Sahasa",
-    "Silpaprich"
+    "Silpaprich",
+    "Thleungbandal"
   ]
 }
