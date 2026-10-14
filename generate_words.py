@@ -3,6 +3,7 @@ import json
 import requests
 import datetime
 import random
+import time
 
 api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
 
@@ -59,7 +60,6 @@ models_to_try = [
 
 def generate():
     for clean_model in models_to_try:
-        print(f"Attempting generation for {today_str} (Topic: {today_topic}) with model: {clean_model}...", flush=True)
         url = f"https://generativelanguage.googleapis.com/v1/{clean_model}:generateContent?key={api_key}"
         payload = {
             "contents": [{"parts": [{"text": prompt}]}],
@@ -69,39 +69,59 @@ def generate():
             }
         }
         
-        try:
-            response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=30)
-            if response.status_code == 200:
-                response_json = response.json()
-                raw_text = response_json['candidates'][0]['content']['parts'][0]['text'].strip()
-                
-                # Validate schema
-                data = json.loads(raw_text)
-                new_words_list = data.get('words', [])
-                
-                # Save words.json
-                with open('words.json', 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
-                
-                # Update exclusion_history.json automatically
-                for item in new_words_list:
-                    l = item.get('lang') or item.get('language')
-                    wt = item.get('word') or item.get('text')
-                    if l and wt:
-                        if l not in exclusions_by_lang:
-                            exclusions_by_lang[l] = []
-                        if wt not in exclusions_by_lang[l]:
-                            exclusions_by_lang[l].append(wt)
-                        
-                with open(history_file, 'w', encoding='utf-8') as f:
-                    json.dump(exclusions_by_lang, f, ensure_ascii=False, indent=2)
+        # Try each model up to 3 times to prevent timeouts
+        for attempt in range(1, 4):
+            print(f"Attempting generation for {today_str} (Topic: {today_topic}) with model: {clean_model} (Attempt {attempt}/3)...", flush=True)
+            try:
+                response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=90)
+                if response.status_code == 200:
+                    response_json = response.json()
+                    raw_text = response_json['candidates'][0]['content']['parts'][0]['text'].strip()
+                    
+                    # Remove markdown wrappers if model added them
+                    if raw_text.startswith("```"):
+                        raw_text = raw_text.split("```")[1]
+                        if raw_text.startswith("json"):
+                            raw_text = raw_text[4:].strip()
+                        raw_text = raw_text.strip("`").strip()
 
-                print(f"Success! Generated fresh words.json using model: {clean_model}", flush=True)
-                return True
-            else:
-                print(f"Model {clean_model} returned code {response.status_code}: {response.text}", flush=True)
-        except Exception as err:
-            print(f"Skipping model {clean_model} due to error: {err}", flush=True)
+                    # FIX: Safely handle both JSON object and JSON list responses
+                    parsed_data = json.loads(raw_text)
+                    if isinstance(parsed_data, list):
+                        data = {"words": parsed_data}
+                        new_words_list = parsed_data
+                    elif isinstance(parsed_data, dict):
+                        data = parsed_data
+                        new_words_list = data.get('words', [])
+                    else:
+                        raise ValueError("Parsed JSON is neither a list nor a dictionary.")
+                    
+                    # Save words.json
+                    with open('words.json', 'w', encoding='utf-8') as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                    
+                    # Update exclusion_history.json automatically
+                    for item in new_words_list:
+                        l = item.get('lang') or item.get('language')
+                        wt = item.get('word') or item.get('text')
+                        if l and wt:
+                            if l not in exclusions_by_lang:
+                                exclusions_by_lang[l] = []
+                            if wt not in exclusions_by_lang[l]:
+                                exclusions_by_lang[l].append(wt)
+                            
+                    with open(history_file, 'w', encoding='utf-8') as f:
+                        json.dump(exclusions_by_lang, f, ensure_ascii=False, indent=2)
+
+                    print(f"Success! Generated fresh words.json using model: {clean_model}", flush=True)
+                    return True
+                else:
+                    print(f"Model {clean_model} returned code {response.status_code}: {response.text}", flush=True)
+                    break # Don't retry auth/client errors (like 400/403)
+            except Exception as err:
+                print(f"Skipping attempt {attempt} for model {clean_model} due to error: {err}", flush=True)
+                if attempt < 3:
+                    time.sleep(10 * attempt) # Backoff delay before retry
             
     return False
 
