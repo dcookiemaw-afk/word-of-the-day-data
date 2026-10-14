@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Bravascent",
-      "meaning": "The rising dawn of inner courage that sparks bold and visionary creative inspiration.",
+      "word": "Philosophy",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "In the quiet depth of uncertainty, she felt a sudden bravascent guiding her hand across the blank canvas. (In the quiet depth of uncertainty, she felt a sudden dawn of inner courage guiding her hand across the blank canvas.)",
-      "sentence2": "His rousing speech awakened a spirit of bravascent across the entire auditorium. (His rousing speech awakened a spirit of courageous inspiration across the entire auditorium.)"
+      "definition": "The study of the fundamental nature of knowledge, reality, and existence.",
+      "sentence1": "His personal philosophy was to treat every challenge as an opportunity to learn. (His personal philosophy was to treat every challenge as an opportunity to learn.)",
+      "sentence2": "Ancient Greek philosophy laid the groundwork for modern scientific inquiry. (Ancient Greek philosophy laid the groundwork for modern scientific inquiry.)"
     },
     {
       "language": "Spanish",
-      "word": "Corazumbre",
-      "meaning": "A radiant flame of inner valor that illuminates creative thought and banishes apprehension.",
+      "word": "Sabiduria",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "sentence1": "Frente a la inmensa muralla, sintio una repentina corazumbre que renovo sus energias. (Facing the immense wall, she felt a sudden radiant valor that renewed her energies.)",
-      "sentence2": "Esa melodia apasionada desperto una profunda corazumbre en los artistas del pueblo. (That passionate melody awakened a deep courageous inspiration in the town's artists.)"
+      "type_in_language": "sustantivo",
+      "definition": "The quality of having experience, knowledge, and good judgment.",
+      "sentence1": "La sabiduria de los mayores debe ser respetada siempre. (The wisdom of the elders must always be respected.)",
+      "sentence2": "Busco la sabiduria en los libros antiguos y en la vida diaria. (I seek wisdom in ancient books and in daily life.)"
     },
     {
       "language": "French",
-      "word": "Elancour",
-      "meaning": "A sudden, electrifying surge of daring that stirs the heart to inventive and intrepid action.",
+      "word": "Sagesse",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "sentence1": "Face au grand vide, elle ressentit un elancour supreme qui dissipa toute hesitation. (Faced with the great void, she felt a supreme surge of daring that dispelled all hesitation.)",
-      "sentence2": "Cet elancour lumineux a conduit les pionniers vers de nouveaux sommets de creation. (This luminous surge of courageous inspiration led the pioneers to new heights of creation.)"
+      "type_in_language": "nom",
+      "definition": "The quality of being wise.",
+      "sentence1": "La sagesse vient avec l'experience et le temps. (Wisdom comes with experience and time.)",
+      "sentence2": "Il a repondu avec une grande sagesse a cette question difficile. (He answered with great wisdom to that difficult question.)"
     },
     {
       "language": "German",
-      "word": "Kuehnstrebung",
-      "meaning": "The spirited inner impulse to reach beyond boundaries through courageous conviction.",
+      "word": "Weisheit",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Mit unerschuetterlicher Kuehnstrebung betrat die junge Forscherin das unentdeckte Land. (With unwavering courageous drive, the young researcher stepped into the undiscovered land.)",
-      "sentence2": "Ihre eindringlichen Worte entfachten eine Welle der Kuehnstrebung unter den Zuhoerern. (Her poignant words ignited a wave of courageous inspiration among the listeners.)"
+      "definition": "The quality of having experience, knowledge, and good judgment; the soundness of an action or decision.",
+      "sentence1": "Alte sprichwoerter enthalten oft viel Weisheit. (Old proverbs often contain a lot of wisdom.)",
+      "sentence2": "Die Suche nach Weisheit ist eine lebenslange Aufgabe. (The search for wisdom is a lifelong task.)"
     },
     {
       "language": "Japanese",
-      "word": "Yuubirameki",
-      "meaning": "A sudden flash of brave insight that dissolves fear and inspires artistic or noble resolve.",
+      "word": "Chie",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "sentence1": "Fukai zetsubou no naka de, kanojo wa yuubirameki o kanjite shizuka ni tachiagatta. (In the depths of despair, she felt a brave flash of insight and quietly stood up.)",
-      "sentence2": "Sono takumi no kotoba ga, wakamono-tachi no mune ni tsuyoi yuubirameki o tomoshita. (The artisan's words lit a powerful spark of courageous inspiration in the hearts of the youth.)"
+      "type_in_language": "meishi",
+      "definition": "Wisdom, intelligence, or resourcefulness.",
+      "sentence1": "Kare wa konnan o norikoeru tame no chie o motte iru. (He possesses the wisdom to overcome difficulties.)",
+      "sentence2": "Senjin no chie wa ima mo ikite iru. (The wisdom of our ancestors is still alive today.)"
     },
     {
       "language": "Italian",
-      "word": "Ardispirito",
-      "meaning": "An ardent and luminous bravery that kindles the imagination toward heroic endeavors.",
+      "word": "Sapienza",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "sentence1": "Nel mezzo della tempesta, il suo ardispirito illumino il cammino di tutti i compagni. (In the midst of the storm, his ardent bravery illuminated the path for all companions.)",
-      "sentence2": "Ogni pennellata sulla grande tela era intrisa di un vibrante ardispirito. (Every stroke on the large canvas was infused with a vibrant courageous inspiration.)"
+      "type_in_language": "sostantivo",
+      "definition": "Wisdom, deep knowledge, or learning.",
+      "sentence1": "La sapienza popolare si tramanda di generazione in generazione. (Popular wisdom is handed down from generation to generation.)",
+      "sentence2": "Ha affrontato il problema con grande sapienza e calma. (He faced the problem with great wisdom and calm.)"
     },
     {
       "language": "Chinese",
-      "word": "Yonglizhao",
-      "meaning": "The luminous awakening of the mind where resolute courage and creative inspiration merge.",
+      "word": "Zhihui",
       "type": "Noun",
-      "type_in_language": "Mingci",
-      "sentence1": "Zai weinan zhi ji, ta xinzhong shengqi le yonglizhao, zhaoliang le qianfang de lianchuang. (In the moment of peril, a courageous inspiring radiance arose in her heart, illuminating the path ahead.)",
-      "sentence2": "Zhe shou haofang de shi chongman le yonglizhao, jiwei le zhiqu yuan-da de renmen. (This magnificent poem is brimming with inspiring courage, motivating people with grand ambitions.)"
+      "type_in_language": "mingci",
+      "definition": "Wisdom, intelligence, or knowledge.",
+      "sentence1": "Lishi gei women liuxiaole bujin de zhihui. (History has left us with endless wisdom.)",
+      "sentence2": "Wo men xuyao zhihui lai jiejue zhege fuza de wenti. (We need wisdom to solve this complex problem.)"
     },
     {
       "language": "Korean",
-      "word": "Yonggitsum",
-      "meaning": "A deep, liberating breath of bravery that uplifts the spirit and sparks imaginative daring.",
+      "word": "Jiheye",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "sentence1": "Duryeoum ape seon geunyeoneun kkeutnae yonggitsum-eul naeswimyeo mude-ro na-agatta. (Standing before fear, she at last exhaled a breath of brave inspiration and stepped onto the stage.)",
-      "sentence2": "Geu geurim-eun man-eun saramdeul-ui gaseum-e ttatteuthan yonggitsum-eul buleonoeotta. (That painting breathed a warm, inspiring courage into the hearts of many people.)"
+      "type_in_language": "myeongsa",
+      "definition": "Wisdom, insight, or intelligence.",
+      "sentence1": "Gyeheum eun saram ege jiheye eul julsu isseumnida. (Experience can give a person wisdom.)",
+      "sentence2": "Urineun seonjodeului jiheye eul baewoya hamnida. (We must learn the wisdom of our ancestors.)"
     },
     {
       "language": "Khmer",
-      "word": "Thleungbandal",
-      "meaning": "A noble resilience of spirit that evokes transformative thoughts and imaginative strength.",
+      "word": "Phaem",
       "type": "Noun",
-      "type_in_language": "Neam",
-      "sentence1": "Now pel chuob kar-lom-bak, neang mean thleungbandal knong chet daem-bey bangkurt sna-day thmey. (In times of difficulty, she possessed an inspiring courage in her heart to create a new masterpiece.)",
-      "sentence2": "Vak-chak thleungbandal robos lok kruu ban chuoy sors thveur kar teang klang-kla. (The teacher's inspiring courage helped students undertake their work with great strength.)"
+      "type_in_language": "noun",
+      "definition": "Wisdom, intellect, or cleverness.",
+      "sentence1": "Neak prachanh mean phaem chreun knong kar kit. (Wise people have much wisdom in their thinking.)",
+      "sentence2": "Kar saul chea mnus sa-at trov kar phaem. (Living a clean life requires wisdom.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Moedvonk",
-      "meaning": "A vital spark of valor that kindles renewed visionary passion within the human heart.",
+      "word": "Wysheid",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Tydens die donkerste oomblik het 'n moedvonk in haar binneste ontvlam om die uitdaging aan te gryp. (During the darkest moment, a spark of brave inspiration ignited within her to seize the challenge.)",
-      "sentence2": "Sy woorde het 'n onstuitbare moedvonk onder die jong kunstenaars laat opstaan. (His words raised an unstoppable spark of courageous inspiration among the young artists.)"
+      "type_in_language": "selfstandige naamwoord",
+      "definition": "Wisdom, the quality of having experience and good judgment.",
+      "sentence1": "Ouer lede van die gemeenskap bring groot wysheid. (Older members of the community bring great wisdom.)",
+      "sentence2": "Dit verg wysheid om die regte besluit te neem. (It takes wisdom to make the right decision.)"
     }
   ]
 }
