@@ -42,7 +42,8 @@ today_topic = random.choice(topics)
 
 prompt = (
     f"Today is {today_str}. Generate a JSON object with a key 'words' containing a list of objects. "
-    f"Provide a brand new, unique, and beautiful word inspired by '{today_topic}' for each of these exact languages: {', '.join(languages)}.\n"
+    f"Provide a REAL, AUTHENTIC, EXISTING dictionary word inspired by '{today_topic}' for each of these exact languages: {', '.join(languages)}. "
+    f"CRITICAL: Do NOT invent, make up, or portmanteau words. Every word must be a genuine, recognized term found in standard dictionaries for that language.\n"
     f"STRICT PER-LANGUAGE EXCLUSION RULES (DO NOT REPEAT ANY OF THESE WORDS):\n"
     f"{exclusion_text}\n"
     f"CRITICAL RULE FOR SCRIPTS & WRITING:\n"
