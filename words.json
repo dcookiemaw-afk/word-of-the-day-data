@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Philosophy",
+      "word": "Euphoria",
       "type": "Noun",
       "type_in_language": "Noun",
-      "definition": "The study of the fundamental nature of knowledge, reality, and existence.",
-      "sentence1": "His personal philosophy was to treat every challenge as an opportunity to learn. (His personal philosophy was to treat every challenge as an opportunity to learn.)",
-      "sentence2": "Ancient Greek philosophy laid the groundwork for modern scientific inquiry. (Ancient Greek philosophy laid the groundwork for modern scientific inquiry.)"
+      "meaning": "An overwhelming state of intense happiness, elation, and well-being.",
+      "sentence1": "She was filled with an uncontrollable euphoria after crossing the marathon finish line. (She was filled with an uncontrollable euphoria after crossing the marathon finish line.)",
+      "sentence2": "The sudden rush of euphoria left him beaming with joy for hours. (The sudden rush of euphoria left him beaming with joy for hours.)"
     },
     {
       "language": "Spanish",
-      "word": "Sabiduria",
+      "word": "Anhelo",
       "type": "Noun",
-      "type_in_language": "sustantivo",
-      "definition": "The quality of having experience, knowledge, and good judgment.",
-      "sentence1": "La sabiduria de los mayores debe ser respetada siempre. (The wisdom of the elders must always be respected.)",
-      "sentence2": "Busco la sabiduria en los libros antiguos y en la vida diaria. (I seek wisdom in ancient books and in daily life.)"
+      "type_in_language": "Sustantivo",
+      "meaning": "A deep and poignant yearning, desire, or longing.",
+      "sentence1": "Sentia un profundo anhelo de volver a su tierra natal tras tantos anos. (He felt a deep yearning to return to his homeland after so many years.)",
+      "sentence2": "Su mirada silenciosa reflejaba el anhelo de volver a ver a sus viejos amigos. (Her silent gaze reflected the longing to see her old friends again.)"
     },
     {
       "language": "French",
-      "word": "Sagesse",
+      "word": "Frisson",
       "type": "Noun",
-      "type_in_language": "nom",
-      "definition": "The quality of being wise.",
-      "sentence1": "La sagesse vient avec l'experience et le temps. (Wisdom comes with experience and time.)",
-      "sentence2": "Il a repondu avec une grande sagesse a cette question difficile. (He answered with great wisdom to that difficult question.)"
+      "type_in_language": "Nom",
+      "meaning": "A sudden tremor or shiver caused by strong emotion, excitement, or awe.",
+      "sentence1": "Un frisson d'excitation la traversa des les premieres notes de la symphonie. (A shiver of excitement ran through her from the very first notes of the symphony.)",
+      "sentence2": "Il ressentit un leger frisson en entendant cette voix familiere dans l'obscurite. (He felt a slight thrill hearing that familiar voice in the dark.)"
     },
     {
       "language": "German",
-      "word": "Weisheit",
+      "word": "Geborgenheit",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "definition": "The quality of having experience, knowledge, and good judgment; the soundness of an action or decision.",
-      "sentence1": "Alte sprichwoerter enthalten oft viel Weisheit. (Old proverbs often contain a lot of wisdom.)",
-      "sentence2": "Die Suche nach Weisheit ist eine lebenslange Aufgabe. (The search for wisdom is a lifelong task.)"
+      "meaning": "A profound feeling of emotional safety, warmth, comfort, and protection.",
+      "sentence1": "In den Armen ihrer Grossmutter empfand das Kind stets eine tiefe Geborgenheit. (In its grandmother's arms, the child always felt a deep sense of security and warmth.)",
+      "sentence2": "Das knisternde Kaminfeuer schuf an diesem sturmischen Abend ein Gefuehl wohliger Geborgenheit. (The crackling fireplace created a feeling of cozy security on that stormy evening.)"
     },
     {
       "language": "Japanese",
-      "word": "Chie",
+      "word": "Setsunasa",
       "type": "Noun",
-      "type_in_language": "meishi",
-      "definition": "Wisdom, intelligence, or resourcefulness.",
-      "sentence1": "Kare wa konnan o norikoeru tame no chie o motte iru. (He possesses the wisdom to overcome difficulties.)",
-      "sentence2": "Senjin no chie wa ima mo ikite iru. (The wisdom of our ancestors is still alive today.)"
+      "type_in_language": "Meishi",
+      "meaning": "A poignant, bittersweet sorrow or heartache mixed with longing.",
+      "sentence1": "Yuuhi o mitsumete iru to, mune no oku ni setsunasa ga hirogatta. (Watching the setting sun, a bittersweet sadness spread deep in my chest.)",
+      "sentence2": "Kono furui uta o kiku tabi ni, natsukashisa to setsunasa ga komiagete kuru. (Every time I hear this old song, feelings of nostalgia and poignant ache surge up.)"
     },
     {
       "language": "Italian",
-      "word": "Sapienza",
+      "word": "Struggimento",
       "type": "Noun",
-      "type_in_language": "sostantivo",
-      "definition": "Wisdom, deep knowledge, or learning.",
-      "sentence1": "La sapienza popolare si tramanda di generazione in generazione. (Popular wisdom is handed down from generation to generation.)",
-      "sentence2": "Ha affrontato il problema con grande sapienza e calma. (He faced the problem with great wisdom and calm.)"
+      "type_in_language": "Sostantivo",
+      "meaning": "An intense, sweet-painful emotional ache, yearning, or consumption of the heart.",
+      "sentence1": "Ascoltare quella melodia le provoco uno struggimento indescrivibile e dolce. (Listening to that melody caused her an indescribable, sweet yearning.)",
+      "sentence2": "C'era un sottile struggimento nei suoi occhi mentre salutava la persona amata. (There was a subtle, poignant heartache in his eyes as he said goodbye to his beloved.)"
     },
     {
       "language": "Chinese",
-      "word": "Zhihui",
+      "word": "Youchou",
       "type": "Noun",
-      "type_in_language": "mingci",
-      "definition": "Wisdom, intelligence, or knowledge.",
-      "sentence1": "Lishi gei women liuxiaole bujin de zhihui. (History has left us with endless wisdom.)",
-      "sentence2": "Wo men xuyao zhihui lai jiejue zhege fuza de wenti. (We need wisdom to solve this complex problem.)"
+      "type_in_language": "Mingci",
+      "meaning": "A gentle state of sorrow, melancholy, or heavy-hearted sadness.",
+      "sentence1": "Tade yanshen zhong toulu chu yisi nan-yi-yan-yu de youchou. (Her eyes revealed a faint touch of unspeakable melancholy.)",
+      "sentence2": "Lianmian de qiuyu zongshi rongyi gouqi renmen xin di de youchou. (The continuous autumn rain always easily stirs up melancholy in people's hearts.)"
     },
     {
       "language": "Korean",
-      "word": "Jiheye",
+      "word": "Seolleim",
       "type": "Noun",
-      "type_in_language": "myeongsa",
-      "definition": "Wisdom, insight, or intelligence.",
-      "sentence1": "Gyeheum eun saram ege jiheye eul julsu isseumnida. (Experience can give a person wisdom.)",
-      "sentence2": "Urineun seonjodeului jiheye eul baewoya hamnida. (We must learn the wisdom of our ancestors.)"
+      "type_in_language": "Myeongsa",
+      "meaning": "A thrilling flutter of the heart, butterflies, or nervous anticipation.",
+      "sentence1": "Geunyeoreul mannareo ganeun gil-eun eonjena gibun joeun seolleim-euro gadeukhaetda. (The path on the way to meet her was always filled with pleasant heart-fluttering excitement.)",
+      "sentence2": "Cheot yeohaeng-eul apdugo maeumsog-e keun seolleim-i pieonassda. (Anticipating the first journey, a great flutter of excitement blossomed in my heart.)"
     },
     {
       "language": "Khmer",
-      "word": "Phaem",
-      "type": "Noun",
-      "type_in_language": "noun",
-      "definition": "Wisdom, intellect, or cleverness.",
-      "sentence1": "Neak prachanh mean phaem chreun knong kar kit. (Wise people have much wisdom in their thinking.)",
-      "sentence2": "Kar saul chea mnus sa-at trov kar phaem. (Living a clean life requires wisdom.)"
+      "word": "Rompheuk",
+      "type": "Adjective",
+      "type_in_language": "Kuna neam",
+      "meaning": "Deeply thrilled, emotionally touched, or excitedly moved.",
+      "sentence1": "Neang mean arom rompheuk chea khlang pel ban chuob koat vinh. (She felt profoundly thrilled and excited when she met him again.)",
+      "sentence2": "Krom karngar teang-os khum chet ning rompheuk cheamuoy choy-chomneas nih. (The whole team felt joyful and thrilled by this victory.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Wysheid",
+      "word": "Verlange",
       "type": "Noun",
-      "type_in_language": "selfstandige naamwoord",
-      "definition": "Wisdom, the quality of having experience and good judgment.",
-      "sentence1": "Ouer lede van die gemeenskap bring groot wysheid. (Older members of the community bring great wisdom.)",
-      "sentence2": "Dit verg wysheid om die regte besluit te neem. (It takes wisdom to make the right decision.)"
+      "type_in_language": "Selfstandige naamwoord",
+      "meaning": "A tender feeling of longing, yearning, or missing someone deeply.",
+      "sentence1": "Hy het 'n diep verlange na sy ou tuiste en familie ervaar. (He experienced a deep longing for his old home and family.)",
+      "sentence2": "Die stilte van die nag het haar soete verlange na vervloe dae laat groei. (The quietness of the night made her sweet yearning for bygone days grow.)"
     }
   ]
 }

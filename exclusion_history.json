@@ -4,69 +4,79 @@
     "Petrichor",
     "Pictolume",
     "Bravascent",
-    "Philosophy"
+    "Philosophy",
+    "Euphoria"
   ],
   "Afrikaans": [
     "Pragtig",
     "Moedskyn",
     "Kunsglans",
     "Moedvonk",
-    "Wysheid"
+    "Wysheid",
+    "Verlange"
   ],
   "Spanish": [
     "Esperanza",
     "Almaslumbrar",
     "Pincelluz",
     "Corazumbre",
-    "Sabiduria"
+    "Sabiduria",
+    "Anhelo"
   ],
   "French": [
     "Magnifique",
     "Audacesprit",
     "Peinturame",
     "Elancour",
-    "Sagesse"
+    "Sagesse",
+    "Frisson"
   ],
   "German": [
     "Wunderbar",
     "Mutschmiede",
     "Kunstleuchten",
     "Kuehnstrebung",
-    "Weisheit"
+    "Weisheit",
+    "Geborgenheit"
   ],
   "Japanese": [
     "Komorebi",
     "Shinbaku",
     "Bigaensho",
     "Yuubirameki",
-    "Chie"
+    "Chie",
+    "Setsunasa"
   ],
   "Italian": [
     "Speranza",
     "Vigorvento",
     "Bellezzarte",
     "Ardispirito",
-    "Sapienza"
+    "Sapienza",
+    "Struggimento"
   ],
   "Chinese": [
     "Xìngfú",
     "Xinxi",
     "Meiyiyun",
     "Yonglizhao",
-    "Zhihui"
+    "Zhihui",
+    "Youchou"
   ],
   "Korean": [
     "Haengbok",
     "Damreum",
     "Mibitgyeol",
     "Yonggitsum",
-    "Jiheye"
+    "Jiheye",
+    "Seolleim"
   ],
   "Khmer": [
     "Sro-noh",
     "Sahasa",
     "Silpaprich",
     "Thleungbandal",
-    "Phaem"
+    "Phaem",
+    "Rompheuk"
   ]
 }
