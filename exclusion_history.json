@@ -5,7 +5,8 @@
     "Pictolume",
     "Bravascent",
     "Philosophy",
-    "Euphoria"
+    "Euphoria",
+    "Nostalgia"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -13,7 +14,8 @@
     "Kunsglans",
     "Moedvonk",
     "Wysheid",
-    "Verlange"
+    "Verlange",
+    "Hartseer"
   ],
   "Spanish": [
     "Esperanza",
@@ -21,7 +23,8 @@
     "Pincelluz",
     "Corazumbre",
     "Sabiduria",
-    "Anhelo"
+    "Anhelo",
+    "Ternura"
   ],
   "French": [
     "Magnifique",
@@ -29,7 +32,8 @@
     "Peinturame",
     "Elancour",
     "Sagesse",
-    "Frisson"
+    "Frisson",
+    "Emerveillement"
   ],
   "German": [
     "Wunderbar",
@@ -37,7 +41,8 @@
     "Kunstleuchten",
     "Kuehnstrebung",
     "Weisheit",
-    "Geborgenheit"
+    "Geborgenheit",
+    "Sehnsucht"
   ],
   "Japanese": [
     "Komorebi",
@@ -45,7 +50,8 @@
     "Bigaensho",
     "Yuubirameki",
     "Chie",
-    "Setsunasa"
+    "Setsunasa",
+    "Kandou"
   ],
   "Italian": [
     "Speranza",
@@ -53,7 +59,8 @@
     "Bellezzarte",
     "Ardispirito",
     "Sapienza",
-    "Struggimento"
+    "Struggimento",
+    "Malinconia"
   ],
   "Chinese": [
     "Xìngfú",
@@ -61,7 +68,8 @@
     "Meiyiyun",
     "Yonglizhao",
     "Zhihui",
-    "Youchou"
+    "Youchou",
+    "Xiyue"
   ],
   "Korean": [
     "Haengbok",
@@ -69,7 +77,8 @@
     "Mibitgyeol",
     "Yonggitsum",
     "Jiheye",
-    "Seolleim"
+    "Seolleim",
+    "Geurium"
   ],
   "Khmer": [
     "Sro-noh",
@@ -77,6 +86,7 @@
     "Silpaprich",
     "Thleungbandal",
     "Phaem",
-    "Rompheuk"
+    "Rompheuk",
+    "Snaeha"
   ]
 }

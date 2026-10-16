@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Euphoria",
+      "word": "Nostalgia",
+      "meaning": "A sentimental longing or wistful affection for the past.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "meaning": "An overwhelming state of intense happiness, elation, and well-being.",
-      "sentence1": "She was filled with an uncontrollable euphoria after crossing the marathon finish line. (She was filled with an uncontrollable euphoria after crossing the marathon finish line.)",
-      "sentence2": "The sudden rush of euphoria left him beaming with joy for hours. (The sudden rush of euphoria left him beaming with joy for hours.)"
+      "sentence1": "Looking through the old family photo album filled him with deep nostalgia. (Looking through the old family photo album filled him with deep nostalgia.)",
+      "sentence2": "The smell of baking bread brought back a sudden wave of childhood nostalgia. (The smell of baking bread brought back a sudden wave of childhood nostalgia.)"
     },
     {
       "language": "Spanish",
-      "word": "Anhelo",
+      "word": "Ternura",
+      "meaning": "A gentle feeling of affection, warmth, or tenderness.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "meaning": "A deep and poignant yearning, desire, or longing.",
-      "sentence1": "Sentia un profundo anhelo de volver a su tierra natal tras tantos anos. (He felt a deep yearning to return to his homeland after so many years.)",
-      "sentence2": "Su mirada silenciosa reflejaba el anhelo de volver a ver a sus viejos amigos. (Her silent gaze reflected the longing to see her old friends again.)"
+      "sentence1": "Sintio una profunda ternura al ver al pequeno cachorro dormir. (He felt a deep tenderness upon seeing the little puppy sleep.)",
+      "sentence2": "Ella recordaba los consejos de su abuela con inmensa ternura. (She remembered her grandmother's advice with immense tenderness.)"
     },
     {
       "language": "French",
-      "word": "Frisson",
+      "word": "Emerveillement",
+      "meaning": "A state of wonder, awe, or being pleasantly captivated.",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "meaning": "A sudden tremor or shiver caused by strong emotion, excitement, or awe.",
-      "sentence1": "Un frisson d'excitation la traversa des les premieres notes de la symphonie. (A shiver of excitement ran through her from the very first notes of the symphony.)",
-      "sentence2": "Il ressentit un leger frisson en entendant cette voix familiere dans l'obscurite. (He felt a slight thrill hearing that familiar voice in the dark.)"
+      "type_in_language": "Nom masculin",
+      "sentence1": "Les yeux des enfants brillaient d'emerveillement devant le ciel etoile. (The children's eyes shone with wonder before the starry sky.)",
+      "sentence2": "Ce voyage a travers les montagnes a suscite un profond emerveillement en elle. (This journey across the mountains sparked a deep wonder within her.)"
     },
     {
       "language": "German",
-      "word": "Geborgenheit",
+      "word": "Sehnsucht",
+      "meaning": "An intense, wistful yearning or deep emotional longing.",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "meaning": "A profound feeling of emotional safety, warmth, comfort, and protection.",
-      "sentence1": "In den Armen ihrer Grossmutter empfand das Kind stets eine tiefe Geborgenheit. (In its grandmother's arms, the child always felt a deep sense of security and warmth.)",
-      "sentence2": "Das knisternde Kaminfeuer schuf an diesem sturmischen Abend ein Gefuehl wohliger Geborgenheit. (The crackling fireplace created a feeling of cozy security on that stormy evening.)"
+      "sentence1": "Eine tiefe Sehnsucht nach seiner Heimat erfuellte sein Herz auf der Reise. (A deep yearning for his homeland filled his heart during the journey.)",
+      "sentence2": "Sie fuehlte eine stille Sehnsucht nach den unbeschwerten Tagen ihrer Kindheit. (She felt a quiet longing for the carefree days of her childhood.)"
     },
     {
       "language": "Japanese",
-      "word": "Setsunasa",
+      "word": "Kandou",
+      "meaning": "Being deeply moved or emotionally touched to the heart.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "meaning": "A poignant, bittersweet sorrow or heartache mixed with longing.",
-      "sentence1": "Yuuhi o mitsumete iru to, mune no oku ni setsunasa ga hirogatta. (Watching the setting sun, a bittersweet sadness spread deep in my chest.)",
-      "sentence2": "Kono furui uta o kiku tabi ni, natsukashisa to setsunasa ga komiagete kuru. (Every time I hear this old song, feelings of nostalgia and poignant ache surge up.)"
+      "sentence1": "Sono utsukushii ensou o kiite kokoro kara kandou shimashita. (Listening to that beautiful musical performance, I was deeply moved from the heart.)",
+      "sentence2": "Kanojo no yuuki aru supichi wa kankyaku ni ookina kandou o ataeta. (Her courageous speech brought great emotional stirring to the audience.)"
     },
     {
       "language": "Italian",
-      "word": "Struggimento",
+      "word": "Malinconia",
+      "meaning": "A pensive, bittersweet feeling of sadness or contemplation.",
       "type": "Noun",
       "type_in_language": "Sostantivo",
-      "meaning": "An intense, sweet-painful emotional ache, yearning, or consumption of the heart.",
-      "sentence1": "Ascoltare quella melodia le provoco uno struggimento indescrivibile e dolce. (Listening to that melody caused her an indescribable, sweet yearning.)",
-      "sentence2": "C'era un sottile struggimento nei suoi occhi mentre salutava la persona amata. (There was a subtle, poignant heartache in his eyes as he said goodbye to his beloved.)"
+      "sentence1": "Una dolce malinconia lo avvolse mentre ascoltava quella vecchia melodia. (A sweet melancholy enveloped him as he listened to that old melody.)",
+      "sentence2": "Il cielo grigio d'autunno portava sempre un senso di malinconia nel borgo. (The gray autumn sky always brought a sense of melancholy to the village.)"
     },
     {
       "language": "Chinese",
-      "word": "Youchou",
+      "word": "Xiyue",
+      "meaning": "A feeling of deep joy, delight, or gladness.",
       "type": "Noun",
       "type_in_language": "Mingci",
-      "meaning": "A gentle state of sorrow, melancholy, or heavy-hearted sadness.",
-      "sentence1": "Tade yanshen zhong toulu chu yisi nan-yi-yan-yu de youchou. (Her eyes revealed a faint touch of unspeakable melancholy.)",
-      "sentence2": "Lianmian de qiuyu zongshi rongyi gouqi renmen xin di de youchou. (The continuous autumn rain always easily stirs up melancholy in people's hearts.)"
+      "sentence1": "Ta de lian shang yangyi zhe shengli hou de xiyue. (His face beamed with joy after the victory.)",
+      "sentence2": "Xinsheng er de daolai gei zhege jiating dailai le wuxian de xiyue. (The arrival of the newborn brought boundless joy to this family.)"
     },
     {
       "language": "Korean",
-      "word": "Seolleim",
+      "word": "Geurium",
+      "meaning": "A heartfelt longing, yearning, or missing of someone or somewhere.",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "meaning": "A thrilling flutter of the heart, butterflies, or nervous anticipation.",
-      "sentence1": "Geunyeoreul mannareo ganeun gil-eun eonjena gibun joeun seolleim-euro gadeukhaetda. (The path on the way to meet her was always filled with pleasant heart-fluttering excitement.)",
-      "sentence2": "Cheot yeohaeng-eul apdugo maeumsog-e keun seolleim-i pieonassda. (Anticipating the first journey, a great flutter of excitement blossomed in my heart.)"
+      "sentence1": "Gohyang e daehan geurium i bammada maeumeul gadeuk chaewotda. (Longing for home filled the heart every night.)",
+      "sentence2": "Geunyeoneun oraejeon tteonan chingu e daehan gipeun geurium eul neukkyeotda. (She felt a deep yearning for a friend who had left long ago.)"
     },
     {
       "language": "Khmer",
-      "word": "Rompheuk",
-      "type": "Adjective",
-      "type_in_language": "Kuna neam",
-      "meaning": "Deeply thrilled, emotionally touched, or excitedly moved.",
-      "sentence1": "Neang mean arom rompheuk chea khlang pel ban chuob koat vinh. (She felt profoundly thrilled and excited when she met him again.)",
-      "sentence2": "Krom karngar teang-os khum chet ning rompheuk cheamuoy choy-chomneas nih. (The whole team felt joyful and thrilled by this victory.)"
+      "word": "Snaeha",
+      "meaning": "Deep romantic love, affection, or emotional passion.",
+      "type": "Noun",
+      "type_in_language": "Neam",
+      "sentence1": "Snaeha roboh puok-ke ban reuk-chamroen tam pel-velea. (Their love grew stronger over time.)",
+      "sentence2": "Neang ban samdaeng snaeha yang chrok-chrou champoh krusa roboh neang. (She expressed deep heartfelt love toward her family.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Verlange",
+      "word": "Hartseer",
+      "meaning": "A feeling of deep sorrow, heartbreak, or grief.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "meaning": "A tender feeling of longing, yearning, or missing someone deeply.",
-      "sentence1": "Hy het 'n diep verlange na sy ou tuiste en familie ervaar. (He experienced a deep longing for his old home and family.)",
-      "sentence2": "Die stilte van die nag het haar soete verlange na vervloe dae laat groei. (The quietness of the night made her sweet yearning for bygone days grow.)"
+      "sentence1": "Daar was groot hartseer in die dorp na die tragiese gebeurtenis. (There was great sorrow in the town after the tragic event.)",
+      "sentence2": "Sy kon die hartseer in haar oe nie langer verberg nie. (She could no longer hide the grief in her eyes.)"
     }
   ]
 }
