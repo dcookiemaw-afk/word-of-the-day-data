@@ -6,7 +6,8 @@
     "Bravascent",
     "Philosophy",
     "Euphoria",
-    "Nostalgia"
+    "Nostalgia",
+    "Elation"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -15,7 +16,8 @@
     "Moedvonk",
     "Wysheid",
     "Verlange",
-    "Hartseer"
+    "Hartseer",
+    "Weemoed"
   ],
   "Spanish": [
     "Esperanza",
@@ -24,7 +26,8 @@
     "Corazumbre",
     "Sabiduria",
     "Anhelo",
-    "Ternura"
+    "Ternura",
+    "Desasosiego"
   ],
   "French": [
     "Magnifique",
@@ -33,7 +36,8 @@
     "Elancour",
     "Sagesse",
     "Frisson",
-    "Emerveillement"
+    "Emerveillement",
+    "Emoi"
   ],
   "German": [
     "Wunderbar",
@@ -42,7 +46,8 @@
     "Kuehnstrebung",
     "Weisheit",
     "Geborgenheit",
-    "Sehnsucht"
+    "Sehnsucht",
+    "Weltschmerz"
   ],
   "Japanese": [
     "Komorebi",
@@ -51,7 +56,8 @@
     "Yuubirameki",
     "Chie",
     "Setsunasa",
-    "Kandou"
+    "Kandou",
+    "Itoshisa"
   ],
   "Italian": [
     "Speranza",
@@ -60,7 +66,8 @@
     "Ardispirito",
     "Sapienza",
     "Struggimento",
-    "Malinconia"
+    "Malinconia",
+    "Turbamento"
   ],
   "Chinese": [
     "Xìngfú",
@@ -69,7 +76,8 @@
     "Yonglizhao",
     "Zhihui",
     "Youchou",
-    "Xiyue"
+    "Xiyue",
+    "Xinsuan"
   ],
   "Korean": [
     "Haengbok",
@@ -78,7 +86,8 @@
     "Yonggitsum",
     "Jiheye",
     "Seolleim",
-    "Geurium"
+    "Geurium",
+    "Hwanhee"
   ],
   "Khmer": [
     "Sro-noh",
@@ -87,6 +96,7 @@
     "Thleungbandal",
     "Phaem",
     "Rompheuk",
-    "Snaeha"
+    "Snaeha",
+    "Rik-reay"
   ]
 }

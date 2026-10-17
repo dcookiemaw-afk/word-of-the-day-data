@@ -2,93 +2,83 @@
   "words": [
     {
       "language": "English",
-      "word": "Nostalgia",
-      "meaning": "A sentimental longing or wistful affection for the past.",
+      "word": "Elation",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "Looking through the old family photo album filled him with deep nostalgia. (Looking through the old family photo album filled him with deep nostalgia.)",
-      "sentence2": "The smell of baking bread brought back a sudden wave of childhood nostalgia. (The smell of baking bread brought back a sudden wave of childhood nostalgia.)"
+      "sentence1": "A sudden surge of elation filled her heart as she crossed the finish line. (A sudden surge of elation filled her heart as she crossed the finish line.)",
+      "sentence2": "His elation was evident from the wide, radiant smile on his face. (His elation was evident from the wide, radiant smile on his face.)"
     },
     {
       "language": "Spanish",
-      "word": "Ternura",
-      "meaning": "A gentle feeling of affection, warmth, or tenderness.",
+      "word": "Desasosiego",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "Sintio una profunda ternura al ver al pequeno cachorro dormir. (He felt a deep tenderness upon seeing the little puppy sleep.)",
-      "sentence2": "Ella recordaba los consejos de su abuela con inmensa ternura. (She remembered her grandmother's advice with immense tenderness.)"
+      "sentence1": "Sintio un extrano desasosiego al entrar en la habitacion vacia. (She felt a strange uneasiness upon entering the empty room.)",
+      "sentence2": "Las noticias recientes solo aumentaron su desasosiego interior. (The recent news only increased his inner restlessness.)"
     },
     {
       "language": "French",
-      "word": "Emerveillement",
-      "meaning": "A state of wonder, awe, or being pleasantly captivated.",
+      "word": "Emoi",
       "type": "Noun",
       "type_in_language": "Nom masculin",
-      "sentence1": "Les yeux des enfants brillaient d'emerveillement devant le ciel etoile. (The children's eyes shone with wonder before the starry sky.)",
-      "sentence2": "Ce voyage a travers les montagnes a suscite un profond emerveillement en elle. (This journey across the mountains sparked a deep wonder within her.)"
+      "sentence1": "Sa declaration inattendue a suscite un vif emoi parmi les invites. (His unexpected declaration caused a lively flutter of emotion among the guests.)",
+      "sentence2": "Elle ne parvint pas a dissimuler son emoi en le revoyant apres tant d'annees. (She could not hide her emotional stir upon seeing him again after so many years.)"
     },
     {
       "language": "German",
-      "word": "Sehnsucht",
-      "meaning": "An intense, wistful yearning or deep emotional longing.",
+      "word": "Weltschmerz",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Eine tiefe Sehnsucht nach seiner Heimat erfuellte sein Herz auf der Reise. (A deep yearning for his homeland filled his heart during the journey.)",
-      "sentence2": "Sie fuehlte eine stille Sehnsucht nach den unbeschwerten Tagen ihrer Kindheit. (She felt a quiet longing for the carefree days of her childhood.)"
+      "sentence1": "In melancholischen Momenten wurde er oft von tiefem Weltschmerz erfasst. (In melancholic moments, he was often seized by deep world-weariness.)",
+      "sentence2": "Die Gedichte der Romantik spiegeln den Weltschmerz jener Epoche wider. (The poems of the Romantic era reflect the world-weariness of that epoch.)"
     },
     {
       "language": "Japanese",
-      "word": "Kandou",
-      "meaning": "Being deeply moved or emotionally touched to the heart.",
+      "word": "Itoshisa",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Sono utsukushii ensou o kiite kokoro kara kandou shimashita. (Listening to that beautiful musical performance, I was deeply moved from the heart.)",
-      "sentence2": "Kanojo no yuuki aru supichi wa kankyaku ni ookina kandou o ataeta. (Her courageous speech brought great emotional stirring to the audience.)"
+      "sentence1": "Kanojo wa waga ko o mitsume nagara, mune no oku ni komiageru itoshisa o kanjita. (Looking at her child, she felt a welling sense of dearest affection deep in her chest.)",
+      "sentence2": "Ano natsukashii egao o omoidasu tabi ni, kienai itoshisa ga yomigaeru. (Every time I recall that fond smile, an undying tenderness is revived.)"
     },
     {
       "language": "Italian",
-      "word": "Malinconia",
-      "meaning": "A pensive, bittersweet feeling of sadness or contemplation.",
+      "word": "Turbamento",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "sentence1": "Una dolce malinconia lo avvolse mentre ascoltava quella vecchia melodia. (A sweet melancholy enveloped him as he listened to that old melody.)",
-      "sentence2": "Il cielo grigio d'autunno portava sempre un senso di malinconia nel borgo. (The gray autumn sky always brought a sense of melancholy to the village.)"
+      "type_in_language": "Sostantivo maschile",
+      "sentence1": "La sua voce tremava leggermente a causa di un improvviso turbamento. (His voice trembled slightly due to sudden emotional agitation.)",
+      "sentence2": "Cercava di celare il proprio turbamento dietro un'espressione impassibile. (She tried to conceal her inner turmoil behind an impassive expression.)"
     },
     {
       "language": "Chinese",
-      "word": "Xiyue",
-      "meaning": "A feeling of deep joy, delight, or gladness.",
+      "word": "Xinsuan",
       "type": "Noun",
       "type_in_language": "Mingci",
-      "sentence1": "Ta de lian shang yangyi zhe shengli hou de xiyue. (His face beamed with joy after the victory.)",
-      "sentence2": "Xinsheng er de daolai gei zhege jiating dailai le wuxian de xiyue. (The arrival of the newborn brought boundless joy to this family.)"
+      "sentence1": "Ting dao ta zai kunjing zhong de zhenzha, wo xinzhong sheng chu yi zhen xinsuan. (Hearing about his struggles during hardship, a pang of heartache arose in my heart.)",
+      "sentence2": "Tade yanshen li yincang zhe suiyue liushi liu xia de xinsuan. (His eyes concealed the sorrow left behind by the passage of time.)"
     },
     {
       "language": "Korean",
-      "word": "Geurium",
-      "meaning": "A heartfelt longing, yearning, or missing of someone or somewhere.",
+      "word": "Hwanhee",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Gohyang e daehan geurium i bammada maeumeul gadeuk chaewotda. (Longing for home filled the heart every night.)",
-      "sentence2": "Geunyeoneun oraejeon tteonan chingu e daehan gipeun geurium eul neukkyeotda. (She felt a deep yearning for a friend who had left long ago.)"
+      "sentence1": "Geudeureun seungniui sungane hwanhee-e chaoreun hamseongeul jilleotda. (At the moment of victory, they let out shouts brimming with ecstasy.)",
+      "sentence2": "Maeumsok gipikaji peojineun hwanhee-reul eokjehal su eopseotda. (She could not suppress the overwhelming joy spreading deep within her heart.)"
     },
     {
       "language": "Khmer",
-      "word": "Snaeha",
-      "meaning": "Deep romantic love, affection, or emotional passion.",
-      "type": "Noun",
-      "type_in_language": "Neam",
-      "sentence1": "Snaeha roboh puok-ke ban reuk-chamroen tam pel-velea. (Their love grew stronger over time.)",
-      "sentence2": "Neang ban samdaeng snaeha yang chrok-chrou champoh krusa roboh neang. (She expressed deep heartfelt love toward her family.)"
+      "word": "Rik-reay",
+      "type": "Adjective",
+      "type_in_language": "Kuna neam",
+      "sentence1": "Knhom mean arom rik-reay chea khlang pel ban chuop krou-sar vinh. (I feel extremely joyful when reuniting with my family.)",
+      "sentence2": "Teuk-mok robos neang phnhak-phnhae daoy pheap rik-reay neng som-nang. (Her face shone brightly with cheerfulness and contentment.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Hartseer",
-      "meaning": "A feeling of deep sorrow, heartbreak, or grief.",
+      "word": "Weemoed",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Daar was groot hartseer in die dorp na die tragiese gebeurtenis. (There was great sorrow in the town after the tragic event.)",
-      "sentence2": "Sy kon die hartseer in haar oe nie langer verberg nie. (She could no longer hide the grief in her eyes.)"
+      "sentence1": "'n Gevoel van stil weemoed het hom oorval toe hy na die verlate plaas kyk. (A feeling of quiet melancholy washed over him as he looked at the abandoned farm.)",
+      "sentence2": "Daar was 'n diep weemoed in haar oe toe sy aan die verlede gedink het. (There was a deep wistfulness in her eyes when she thought about the past.)"
     }
   ]
 }
