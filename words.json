@@ -2,83 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Elation",
+      "word": "Chiaroscuro",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "A sudden surge of elation filled her heart as she crossed the finish line. (A sudden surge of elation filled her heart as she crossed the finish line.)",
-      "sentence2": "His elation was evident from the wide, radiant smile on his face. (His elation was evident from the wide, radiant smile on his face.)"
+      "meaning": "The treatment and interplay of light and shade in drawing, painting, or dramatic artistic composition.",
+      "sentence1": "The painter perfected the use of chiaroscuro to give dramatic depth to the portrait. (The painter perfected the use of chiaroscuro to give dramatic depth to the portrait.)",
+      "sentence2": "In classical cinema, intense chiaroscuro evokes mystery and psychological tension. (In classical cinema, intense chiaroscuro evokes mystery and psychological tension.)"
     },
     {
       "language": "Spanish",
-      "word": "Desasosiego",
+      "word": "Primor",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "Sintio un extrano desasosiego al entrar en la habitacion vacia. (She felt a strange uneasiness upon entering the empty room.)",
-      "sentence2": "Las noticias recientes solo aumentaron su desasosiego interior. (The recent news only increased his inner restlessness.)"
+      "meaning": "Exquisite skill, delicate beauty, or refined craftsmanship in an artistic work.",
+      "sentence1": "El artesano esculpio la figura de madera con absoluto primor. (The artisan carved the wooden figure with absolute delicate craftsmanship.)",
+      "sentence2": "Cada detalle del bordado refleja el primor del diseno tradicional. (Every detail of the embroidery reflects the exquisite beauty of traditional design.)"
     },
     {
       "language": "French",
-      "word": "Emoi",
+      "word": "Chef-d'oeuvre",
       "type": "Noun",
       "type_in_language": "Nom masculin",
-      "sentence1": "Sa declaration inattendue a suscite un vif emoi parmi les invites. (His unexpected declaration caused a lively flutter of emotion among the guests.)",
-      "sentence2": "Elle ne parvint pas a dissimuler son emoi en le revoyant apres tant d'annees. (She could not hide her emotional stir upon seeing him again after so many years.)"
+      "meaning": "A masterpiece; a work of outstanding artistry, technique, and beauty.",
+      "sentence1": "Cette sculpture en marbre est consideree comme un veritables chef-d'oeuvre de la Renaissance. (This marble sculpture is considered a true Renaissance masterpiece.)",
+      "sentence2": "Le musee presente le chef-d'oeuvre le plus celebre du peintre impressionniste. (The museum presents the impressionist painter's most celebrated masterpiece.)"
     },
     {
       "language": "German",
-      "word": "Weltschmerz",
+      "word": "Formvollendung",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "In melancholischen Momenten wurde er oft von tiefem Weltschmerz erfasst. (In melancholic moments, he was often seized by deep world-weariness.)",
-      "sentence2": "Die Gedichte der Romantik spiegeln den Weltschmerz jener Epoche wider. (The poems of the Romantic era reflect the world-weariness of that epoch.)"
+      "meaning": "Perfection of form; consummate aesthetic balance and stylistic mastery.",
+      "sentence1": "Die Symphonie besticht durch ihre auBergewohnliche Formvollendung. (The symphony captivates with its extraordinary perfection of form.)",
+      "sentence2": "In dieser Skulptur verbindet sich reine Harmonie mit vollendeter Formvollendung. (In this sculpture, pure harmony unites with consummate perfection of form.)"
     },
     {
       "language": "Japanese",
-      "word": "Itoshisa",
+      "word": "Miyabi",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Kanojo wa waga ko o mitsume nagara, mune no oku ni komiageru itoshisa o kanjita. (Looking at her child, she felt a welling sense of dearest affection deep in her chest.)",
-      "sentence2": "Ano natsukashii egao o omoidasu tabi ni, kienai itoshisa ga yomigaeru. (Every time I recall that fond smile, an undying tenderness is revived.)"
+      "meaning": "Courtly elegance, refined aesthetic beauty, and graceful artistic charm.",
+      "sentence1": "Koten bungaku no sekai ni wa miyabi ga irozuku. (In the world of classical literature, courtly elegance flourishes.)",
+      "sentence2": "Sono teien wa kodai no miyabi o ima ni tsutaete iru. (That garden conveys the refined elegance of ancient times to the present day.)"
     },
     {
       "language": "Italian",
-      "word": "Turbamento",
+      "word": "Leggiadria",
       "type": "Noun",
-      "type_in_language": "Sostantivo maschile",
-      "sentence1": "La sua voce tremava leggermente a causa di un improvviso turbamento. (His voice trembled slightly due to sudden emotional agitation.)",
-      "sentence2": "Cercava di celare il proprio turbamento dietro un'espressione impassibile. (She tried to conceal her inner turmoil behind an impassive expression.)"
+      "type_in_language": "Sostantivo femminile",
+      "meaning": "Graceful elegance, light and charming physical or artistic beauty.",
+      "sentence1": "I movimenti della ballerina erano colmi di naturale leggiadria. (The dancer's movements were filled with natural graceful elegance.)",
+      "sentence2": "L'affresco ritrae una figura angelica di rara leggiadria. (The fresco depicts an angelic figure of rare, charming beauty.)"
     },
     {
       "language": "Chinese",
-      "word": "Xinsuan",
+      "word": "Yijing",
       "type": "Noun",
       "type_in_language": "Mingci",
-      "sentence1": "Ting dao ta zai kunjing zhong de zhenzha, wo xinzhong sheng chu yi zhen xinsuan. (Hearing about his struggles during hardship, a pang of heartache arose in my heart.)",
-      "sentence2": "Tade yanshen li yincang zhe suiyue liushi liu xia de xinsuan. (His eyes concealed the sorrow left behind by the passage of time.)"
+      "meaning": "Artistic conception; the poetic atmosphere and profound evocative mood of an artwork.",
+      "sentence1": "Zhe fu shanshui hua de yijing feichang shenyuan. (The artistic atmosphere of this landscape painting is profoundly deep.)",
+      "sentence2": "Gudian shici zong shi zhuiqiu du te de yijing. (Classical poetry always pursues a unique artistic conception.)"
     },
     {
       "language": "Korean",
-      "word": "Hwanhee",
+      "word": "Meot",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Geudeureun seungniui sungane hwanhee-e chaoreun hamseongeul jilleotda. (At the moment of victory, they let out shouts brimming with ecstasy.)",
-      "sentence2": "Maeumsok gipikaji peojineun hwanhee-reul eokjehal su eopseotda. (She could not suppress the overwhelming joy spreading deep within her heart.)"
+      "meaning": "Artistic flair, natural charm, tastefulness, and stylish aesthetic grace.",
+      "sentence1": "Hanbok eun teukyu ui gokseon meot eul gajigo itda. (The hanbok possesses the unique aesthetic flair of curved lines.)",
+      "sentence2": "Geu hwarang eun gojeon gwa hyeondae ui meot eul joghwa ropge damatda. (That gallery harmoniously captures both classical and modern artistic charm.)"
     },
     {
       "language": "Khmer",
-      "word": "Rik-reay",
-      "type": "Adjective",
-      "type_in_language": "Kuna neam",
-      "sentence1": "Knhom mean arom rik-reay chea khlang pel ban chuop krou-sar vinh. (I feel extremely joyful when reuniting with my family.)",
-      "sentence2": "Teuk-mok robos neang phnhak-phnhae daoy pheap rik-reay neng som-nang. (Her face shone brightly with cheerfulness and contentment.)"
+      "word": "Sophonpheap",
+      "type": "Noun",
+      "type_in_language": "Neam",
+      "meaning": "Aesthetic beauty, elegance, splendor, and graceful physical or visual charm.",
+      "sentence1": "Prasat Angkor Wat ban bandoch sophonpheap khoh bi kee. (Angkor Wat temple radiates unmatched aesthetic splendor.)",
+      "sentence2": "Komrou neak robam ban banghan sophonpheap nay silapakhar boran. (The dancer's postures displayed the beauty and elegance of traditional art.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Weemoed",
+      "word": "Skoonheid",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "'n Gevoel van stil weemoed het hom oorval toe hy na die verlate plaas kyk. (A feeling of quiet melancholy washed over him as he looked at the abandoned farm.)",
-      "sentence2": "Daar was 'n diep weemoed in haar oe toe sy aan die verlede gedink het. (There was a deep wistfulness in her eyes when she thought about the past.)"
+      "meaning": "Beauty; aesthetic excellence that pleases the senses and elevates the spirit.",
+      "sentence1": "Die kunstenaar vang die tydlose skoonheid van die landskap vas. (The artist captures the timeless beauty of the landscape.)",
+      "sentence2": "Daar is 'n diep skoonheid in die eenvoud van hierdie skildery. (There is a deep beauty in the simplicity of this painting.)"
     }
   ]
 }
