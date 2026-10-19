@@ -2,83 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "solstice",
+      "word": "Verdure",
+      "meaning": "Fresh, rich green vegetation or the lush green condition of growing plants.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "The summer solstice brings the longest period of daylight in the year. (The summer solstice brings the longest period of daylight in the year.)",
-      "sentence2": "Ancient monuments were often aligned to mark the winter solstice. (Ancient monuments were often aligned to mark the winter solstice.)"
+      "sentence1": "The spring downpours restored the dry foothills to their customary verdure. (The spring downpours restored the dry foothills to their customary verdure.)",
+      "sentence2": "Flocks of sheep grazed contentedly amid the lush verdure of the river valley. (Flocks of sheep grazed contentedly amid the lush verdure of the river valley.)"
     },
     {
       "language": "Spanish",
-      "word": "primavera",
+      "word": "Rocio",
+      "meaning": "Dew; moisture condensed from the atmosphere in small drops on cool surfaces at night.",
       "type": "Noun",
-      "type_in_language": "sustantivo",
-      "sentence1": "La primavera llena los campos de flores coloridas. (Spring fills the fields with colorful flowers.)",
-      "sentence2": "En primavera, las temperaturas comienzan a subir agradablemente. (In spring, temperatures begin to rise pleasantly.)"
+      "type_in_language": "Sustantivo masculino",
+      "sentence1": "Las gotas de rocio resplandecian como diamantes sobre los petalos de rosa. (The drops of dew sparkled like diamonds on the rose petals.)",
+      "sentence2": "Caminamos descalzos por la hierba humedecida por el rocio matutino. (We walked barefoot across the grass moistened by the morning dew.)"
     },
     {
       "language": "French",
-      "word": "automne",
+      "word": "Frimas",
+      "meaning": "Hoarfrost, rime, or chilly winter fog that covers nature in cold weather.",
       "type": "Noun",
-      "type_in_language": "nom",
-      "sentence1": "L'automne colore les feuilles des arbres en rouge et en or. (Autumn colors the leaves of the trees in red and gold.)",
-      "sentence2": "Les matins d'automne sont souvent frais et brumeux. (Autumn mornings are often cool and misty.)"
+      "type_in_language": "Nom masculin pluriel",
+      "sentence1": "Les premiers frimas de l'hiver ont blanchi la cime des sapins sauvages. (The first winter frosts whitened the tops of the wild fir trees.)",
+      "sentence2": "La plaine s'etendait silencieuse sous un voile epais de frimas. (The plain stretched silent beneath a thick veil of hoarfrost.)"
     },
     {
       "language": "German",
-      "word": "Gewitter",
+      "word": "Raureif",
+      "meaning": "Hoarfrost or rime; delicate ice crystals formed on outdoor objects during freezing nights.",
       "type": "Noun",
-      "type_in_language": "Nomen",
-      "sentence1": "Ein heftiges Gewitter zog über die Berge auf. (A severe thunderstorm approached over the mountains.)",
-      "sentence2": "Nach dem Gewitter roch die Luft wunderbar frisch. (After the thunderstorm, the air smelled wonderfully fresh.)"
+      "type_in_language": "Substantiv maskulin",
+      "sentence1": "Ein zarter Raureif bedeckte die nackten Aeste der Eichen im Morgengrauen. (A delicate hoarfrost covered the bare branches of the oaks at daybreak.)",
+      "sentence2": "Unter der Wintersonne glitzerten die mit Raureif ueberzogenen Wiesen wie ein Meer aus Kristall. (Under the winter sun, the frost-coated meadows glittered like a sea of crystal.)"
     },
     {
       "language": "Japanese",
-      "word": "tsuyu",
+      "word": "Kogorashi",
+      "meaning": "A chilly wind blowing in late autumn or early winter that strips leaves from trees.",
       "type": "Noun",
-      "type_in_language": "meishi",
-      "sentence1": "Nihon de wa, rokugatsu ni tsuyu ga hairimasu. (In Japan, the rainy season begins in June.)",
-      "sentence2": "Tsuyu no jiki wa mainichi ama ga futte imasu. (During the rainy season, it rains every day.)"
+      "type_in_language": "Meishi",
+      "sentence1": "Kogorashi ga fukiareru to, koen no kigi wa subete no ha o otoshita. (When the cold winter wind blew violently, the park trees dropped all their leaves.)",
+      "sentence2": "Machikado de kogorashi o hada ni kanji, fuyu no otozure o satotta. (Feeling the cold autumn wind on my skin at the street corner, I realized winter had arrived.)"
     },
     {
       "language": "Italian",
-      "word": "tramonto",
+      "word": "Brezza",
+      "meaning": "A light, gentle, and refreshing wind; breeze.",
       "type": "Noun",
-      "type_in_language": "sostantivo",
-      "sentence1": "Il tramonto sul mare è sempre uno spettacolo meraviglioso. (The sunset over the sea is always a wonderful spectacle.)",
-      "sentence2": "Guardavamo il tramonto seduti sulla spiaggia. (We watched the sunset sitting on the beach.)"
+      "type_in_language": "Sostantivo femminile",
+      "sentence1": "Una tiepida brezza primaverile accarezzava i rami fioriti degli aranci. (A mild spring breeze caressed the blossoming branches of the orange trees.)",
+      "sentence2": "Dalla collina scendeva una brezza profumata di pini e terra bagnata. (A breeze scented with pines and wet earth drifted down from the hill.)"
     },
     {
       "language": "Chinese",
-      "word": "fēng",
+      "word": "Bailu",
+      "meaning": "White dew; cool moisture condensed on leaves during autumn, also marking the fifteenth solar term.",
       "type": "Noun",
-      "type_in_language": "míngcí",
-      "sentence1": "Qiūtiān de fēngchuī zài liánshàng hěn liángshuǎng. (The autumn wind blowing on the face is very cool.)",
-      "sentence2": "Tā zài hǎi biān gǎnshòu zhe wǎn fēng. (He is feeling the evening breeze by the sea.)"
+      "type_in_language": "Mingci",
+      "sentence1": "Qingchen de bailu dian zhui zhe yezi, zai zhaoyang xia shan shan fa guang. (The morning white dew dotted the leaves, glittering brightly in the morning sun.)",
+      "sentence2": "Bailu jieqi yi dao, tiandi jian de qiuliang bian riyi nonghou. (Once the White Dew term arrives, the autumn coolness in the world grows deeper each day.)"
     },
     {
       "language": "Korean",
-      "word": "bada",
+      "word": "Danpung",
+      "meaning": "Autumn foliage; the vibrant red and gold turning of leaves in fall.",
       "type": "Noun",
-      "type_in_language": "myeongsa",
-      "sentence1": "Yeoreumenaneun siwonhan bada-ro yeohaeng-eul gapseumnida. (In summer, I travel to the cool sea.)",
-      "sentence2": "Pureun bada-ui mureun neomu malg-go kkaekkeuthamnida. (The water of the blue sea is very clear and clean.)"
+      "type_in_language": "Myeongsa",
+      "sentence1": "Gaeuri gipeogalsurok gubigubi sanjarage danpungi bulgge muldeureotda. (As autumn deepened, the winding mountain slopes were dyed bright red with autumn foliage.)",
+      "sentence2": "Saramdeureun nungil gadeuk pyeolchyeojin danpungeul gamseanghayeo supeul georeotda. (People walked through the woods to admire the autumn leaves spread out before their eyes.)"
     },
     {
       "language": "Khmer",
-      "word": "veal srok",
+      "word": "Rodov vossa",
+      "meaning": "The rainy season or monsoon period, marked by abundant rains that rejuvenate nature.",
       "type": "Noun",
-      "type_in_language": "kanam",
-      "sentence1": "Veal srok pteor pteang tov kae karng. (The countryside fields stretch towards the horizon.)",
-      "sentence2": "Sorsok srab srab knong veal srok mean pracheachon robsa. (Peaceful villages in the countryside have resident people.)"
+      "type_in_language": "Neam",
+      "sentence1": "Nov pel rodov vossa chhoetong chea chroen rik reay doy sa tuk phlieng. (During the rainy season, many plants flourish due to the rainwaters.)",
+      "sentence2": "Karkakor roeng cham rodov vossa daembi thveu srae chamkar oy sross khvei. (Farmers eagerly await the rainy season so their agricultural fields will thrive.)"
     },
     {
       "language": "Afrikaans",
-      "word": "reënboog",
+      "word": "Herfs",
+      "meaning": "Autumn; the transitional season when temperatures cool and foliage changes color.",
       "type": "Noun",
-      "type_in_language": "naamwoord",
-      "sentence1": "Ná die swaar reën verskyn 'n pragtige reënboog aan die hemel. (After the heavy rain, a beautiful rainbow appears in the sky.)",
-      "sentence2": "Kinders kyk altyd met verwondering na 'n reënboog. (Children always look at a rainbow with wonder.)"
+      "type_in_language": "Selfstandige naamwoord",
+      "sentence1": "Gedurende die herfs verander die eikebome se blare na skakerings van goud en roesbruin. (During autumn, the oak trees' leaves change to shades of gold and rust brown.)",
+      "sentence2": "Die koel lug van die herfs kondig die naderende winter aan. (The cool air of autumn announces the approaching winter.)"
     }
   ]
 }

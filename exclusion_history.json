@@ -9,7 +9,8 @@
     "Nostalgia",
     "Elation",
     "Chiaroscuro",
-    "solstice"
+    "solstice",
+    "Verdure"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -21,7 +22,8 @@
     "Hartseer",
     "Weemoed",
     "Skoonheid",
-    "reënboog"
+    "reënboog",
+    "Herfs"
   ],
   "Spanish": [
     "Esperanza",
@@ -33,7 +35,8 @@
     "Ternura",
     "Desasosiego",
     "Primor",
-    "primavera"
+    "primavera",
+    "Rocio"
   ],
   "French": [
     "Magnifique",
@@ -45,7 +48,8 @@
     "Emerveillement",
     "Emoi",
     "Chef-d'oeuvre",
-    "automne"
+    "automne",
+    "Frimas"
   ],
   "German": [
     "Wunderbar",
@@ -57,7 +61,8 @@
     "Sehnsucht",
     "Weltschmerz",
     "Formvollendung",
-    "Gewitter"
+    "Gewitter",
+    "Raureif"
   ],
   "Japanese": [
     "Komorebi",
@@ -69,7 +74,8 @@
     "Kandou",
     "Itoshisa",
     "Miyabi",
-    "tsuyu"
+    "tsuyu",
+    "Kogorashi"
   ],
   "Italian": [
     "Speranza",
@@ -81,7 +87,8 @@
     "Malinconia",
     "Turbamento",
     "Leggiadria",
-    "tramonto"
+    "tramonto",
+    "Brezza"
   ],
   "Chinese": [
     "Xìngfú",
@@ -93,7 +100,8 @@
     "Xiyue",
     "Xinsuan",
     "Yijing",
-    "fēng"
+    "fēng",
+    "Bailu"
   ],
   "Korean": [
     "Haengbok",
@@ -105,7 +113,8 @@
     "Geurium",
     "Hwanhee",
     "Meot",
-    "bada"
+    "bada",
+    "Danpung"
   ],
   "Khmer": [
     "Sro-noh",
@@ -117,6 +126,7 @@
     "Snaeha",
     "Rik-reay",
     "Sophonpheap",
-    "veal srok"
+    "veal srok",
+    "Rodov vossa"
   ]
 }
