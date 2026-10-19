@@ -48,6 +48,7 @@ prompt = (
     f"{exclusion_text}\n"
     f"CRITICAL RULE FOR SCRIPTS & WRITING:\n"
     f"- For ALL languages in the list ({', '.join(languages)}), write 'word', 'sentence1', and 'sentence2' using Latin/English script phonetics (Romanization/transliteration) so an English speaker can easily read and pronounce them.\n"
+    f"- 'meaning': The English definition/meaning of the word\n"
     f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
     f"- 'type_in_language': Part of speech in the target language written in Latin/English script phonetics (e.g., 'byvoeglike naamwoord' for Afrikaans, 'kuna neam' for Khmer, 'adjetivo' for Spanish)\n"
     f"- 'sentence1' & 'sentence2': Interesting example sentences written in English script phonetics showing how the word is used in that language, followed by its English translation in parentheses.\n"
