@@ -8,7 +8,8 @@
     "Euphoria",
     "Nostalgia",
     "Elation",
-    "Chiaroscuro"
+    "Chiaroscuro",
+    "solstice"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -19,7 +20,8 @@
     "Verlange",
     "Hartseer",
     "Weemoed",
-    "Skoonheid"
+    "Skoonheid",
+    "reënboog"
   ],
   "Spanish": [
     "Esperanza",
@@ -30,7 +32,8 @@
     "Anhelo",
     "Ternura",
     "Desasosiego",
-    "Primor"
+    "Primor",
+    "primavera"
   ],
   "French": [
     "Magnifique",
@@ -41,7 +44,8 @@
     "Frisson",
     "Emerveillement",
     "Emoi",
-    "Chef-d'oeuvre"
+    "Chef-d'oeuvre",
+    "automne"
   ],
   "German": [
     "Wunderbar",
@@ -52,7 +56,8 @@
     "Geborgenheit",
     "Sehnsucht",
     "Weltschmerz",
-    "Formvollendung"
+    "Formvollendung",
+    "Gewitter"
   ],
   "Japanese": [
     "Komorebi",
@@ -63,7 +68,8 @@
     "Setsunasa",
     "Kandou",
     "Itoshisa",
-    "Miyabi"
+    "Miyabi",
+    "tsuyu"
   ],
   "Italian": [
     "Speranza",
@@ -74,7 +80,8 @@
     "Struggimento",
     "Malinconia",
     "Turbamento",
-    "Leggiadria"
+    "Leggiadria",
+    "tramonto"
   ],
   "Chinese": [
     "Xìngfú",
@@ -85,7 +92,8 @@
     "Youchou",
     "Xiyue",
     "Xinsuan",
-    "Yijing"
+    "Yijing",
+    "fēng"
   ],
   "Korean": [
     "Haengbok",
@@ -96,7 +104,8 @@
     "Seolleim",
     "Geurium",
     "Hwanhee",
-    "Meot"
+    "Meot",
+    "bada"
   ],
   "Khmer": [
     "Sro-noh",
@@ -107,6 +116,7 @@
     "Rompheuk",
     "Snaeha",
     "Rik-reay",
-    "Sophonpheap"
+    "Sophonpheap",
+    "veal srok"
   ]
 }

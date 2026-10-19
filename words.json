@@ -2,93 +2,83 @@
   "words": [
     {
       "language": "English",
-      "word": "Chiaroscuro",
+      "word": "solstice",
       "type": "Noun",
       "type_in_language": "Noun",
-      "meaning": "The treatment and interplay of light and shade in drawing, painting, or dramatic artistic composition.",
-      "sentence1": "The painter perfected the use of chiaroscuro to give dramatic depth to the portrait. (The painter perfected the use of chiaroscuro to give dramatic depth to the portrait.)",
-      "sentence2": "In classical cinema, intense chiaroscuro evokes mystery and psychological tension. (In classical cinema, intense chiaroscuro evokes mystery and psychological tension.)"
+      "sentence1": "The summer solstice brings the longest period of daylight in the year. (The summer solstice brings the longest period of daylight in the year.)",
+      "sentence2": "Ancient monuments were often aligned to mark the winter solstice. (Ancient monuments were often aligned to mark the winter solstice.)"
     },
     {
       "language": "Spanish",
-      "word": "Primor",
+      "word": "primavera",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "meaning": "Exquisite skill, delicate beauty, or refined craftsmanship in an artistic work.",
-      "sentence1": "El artesano esculpio la figura de madera con absoluto primor. (The artisan carved the wooden figure with absolute delicate craftsmanship.)",
-      "sentence2": "Cada detalle del bordado refleja el primor del diseno tradicional. (Every detail of the embroidery reflects the exquisite beauty of traditional design.)"
+      "type_in_language": "sustantivo",
+      "sentence1": "La primavera llena los campos de flores coloridas. (Spring fills the fields with colorful flowers.)",
+      "sentence2": "En primavera, las temperaturas comienzan a subir agradablemente. (In spring, temperatures begin to rise pleasantly.)"
     },
     {
       "language": "French",
-      "word": "Chef-d'oeuvre",
+      "word": "automne",
       "type": "Noun",
-      "type_in_language": "Nom masculin",
-      "meaning": "A masterpiece; a work of outstanding artistry, technique, and beauty.",
-      "sentence1": "Cette sculpture en marbre est consideree comme un veritables chef-d'oeuvre de la Renaissance. (This marble sculpture is considered a true Renaissance masterpiece.)",
-      "sentence2": "Le musee presente le chef-d'oeuvre le plus celebre du peintre impressionniste. (The museum presents the impressionist painter's most celebrated masterpiece.)"
+      "type_in_language": "nom",
+      "sentence1": "L'automne colore les feuilles des arbres en rouge et en or. (Autumn colors the leaves of the trees in red and gold.)",
+      "sentence2": "Les matins d'automne sont souvent frais et brumeux. (Autumn mornings are often cool and misty.)"
     },
     {
       "language": "German",
-      "word": "Formvollendung",
+      "word": "Gewitter",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "meaning": "Perfection of form; consummate aesthetic balance and stylistic mastery.",
-      "sentence1": "Die Symphonie besticht durch ihre auBergewohnliche Formvollendung. (The symphony captivates with its extraordinary perfection of form.)",
-      "sentence2": "In dieser Skulptur verbindet sich reine Harmonie mit vollendeter Formvollendung. (In this sculpture, pure harmony unites with consummate perfection of form.)"
+      "type_in_language": "Nomen",
+      "sentence1": "Ein heftiges Gewitter zog über die Berge auf. (A severe thunderstorm approached over the mountains.)",
+      "sentence2": "Nach dem Gewitter roch die Luft wunderbar frisch. (After the thunderstorm, the air smelled wonderfully fresh.)"
     },
     {
       "language": "Japanese",
-      "word": "Miyabi",
+      "word": "tsuyu",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "meaning": "Courtly elegance, refined aesthetic beauty, and graceful artistic charm.",
-      "sentence1": "Koten bungaku no sekai ni wa miyabi ga irozuku. (In the world of classical literature, courtly elegance flourishes.)",
-      "sentence2": "Sono teien wa kodai no miyabi o ima ni tsutaete iru. (That garden conveys the refined elegance of ancient times to the present day.)"
+      "type_in_language": "meishi",
+      "sentence1": "Nihon de wa, rokugatsu ni tsuyu ga hairimasu. (In Japan, the rainy season begins in June.)",
+      "sentence2": "Tsuyu no jiki wa mainichi ama ga futte imasu. (During the rainy season, it rains every day.)"
     },
     {
       "language": "Italian",
-      "word": "Leggiadria",
+      "word": "tramonto",
       "type": "Noun",
-      "type_in_language": "Sostantivo femminile",
-      "meaning": "Graceful elegance, light and charming physical or artistic beauty.",
-      "sentence1": "I movimenti della ballerina erano colmi di naturale leggiadria. (The dancer's movements were filled with natural graceful elegance.)",
-      "sentence2": "L'affresco ritrae una figura angelica di rara leggiadria. (The fresco depicts an angelic figure of rare, charming beauty.)"
+      "type_in_language": "sostantivo",
+      "sentence1": "Il tramonto sul mare è sempre uno spettacolo meraviglioso. (The sunset over the sea is always a wonderful spectacle.)",
+      "sentence2": "Guardavamo il tramonto seduti sulla spiaggia. (We watched the sunset sitting on the beach.)"
     },
     {
       "language": "Chinese",
-      "word": "Yijing",
+      "word": "fēng",
       "type": "Noun",
-      "type_in_language": "Mingci",
-      "meaning": "Artistic conception; the poetic atmosphere and profound evocative mood of an artwork.",
-      "sentence1": "Zhe fu shanshui hua de yijing feichang shenyuan. (The artistic atmosphere of this landscape painting is profoundly deep.)",
-      "sentence2": "Gudian shici zong shi zhuiqiu du te de yijing. (Classical poetry always pursues a unique artistic conception.)"
+      "type_in_language": "míngcí",
+      "sentence1": "Qiūtiān de fēngchuī zài liánshàng hěn liángshuǎng. (The autumn wind blowing on the face is very cool.)",
+      "sentence2": "Tā zài hǎi biān gǎnshòu zhe wǎn fēng. (He is feeling the evening breeze by the sea.)"
     },
     {
       "language": "Korean",
-      "word": "Meot",
+      "word": "bada",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "meaning": "Artistic flair, natural charm, tastefulness, and stylish aesthetic grace.",
-      "sentence1": "Hanbok eun teukyu ui gokseon meot eul gajigo itda. (The hanbok possesses the unique aesthetic flair of curved lines.)",
-      "sentence2": "Geu hwarang eun gojeon gwa hyeondae ui meot eul joghwa ropge damatda. (That gallery harmoniously captures both classical and modern artistic charm.)"
+      "type_in_language": "myeongsa",
+      "sentence1": "Yeoreumenaneun siwonhan bada-ro yeohaeng-eul gapseumnida. (In summer, I travel to the cool sea.)",
+      "sentence2": "Pureun bada-ui mureun neomu malg-go kkaekkeuthamnida. (The water of the blue sea is very clear and clean.)"
     },
     {
       "language": "Khmer",
-      "word": "Sophonpheap",
+      "word": "veal srok",
       "type": "Noun",
-      "type_in_language": "Neam",
-      "meaning": "Aesthetic beauty, elegance, splendor, and graceful physical or visual charm.",
-      "sentence1": "Prasat Angkor Wat ban bandoch sophonpheap khoh bi kee. (Angkor Wat temple radiates unmatched aesthetic splendor.)",
-      "sentence2": "Komrou neak robam ban banghan sophonpheap nay silapakhar boran. (The dancer's postures displayed the beauty and elegance of traditional art.)"
+      "type_in_language": "kanam",
+      "sentence1": "Veal srok pteor pteang tov kae karng. (The countryside fields stretch towards the horizon.)",
+      "sentence2": "Sorsok srab srab knong veal srok mean pracheachon robsa. (Peaceful villages in the countryside have resident people.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Skoonheid",
+      "word": "reënboog",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "meaning": "Beauty; aesthetic excellence that pleases the senses and elevates the spirit.",
-      "sentence1": "Die kunstenaar vang die tydlose skoonheid van die landskap vas. (The artist captures the timeless beauty of the landscape.)",
-      "sentence2": "Daar is 'n diep skoonheid in die eenvoud van hierdie skildery. (There is a deep beauty in the simplicity of this painting.)"
+      "type_in_language": "naamwoord",
+      "sentence1": "Ná die swaar reën verskyn 'n pragtige reënboog aan die hemel. (After the heavy rain, a beautiful rainbow appears in the sky.)",
+      "sentence2": "Kinders kyk altyd met verwondering na 'n reënboog. (Children always look at a rainbow with wonder.)"
     }
   ]
 }
