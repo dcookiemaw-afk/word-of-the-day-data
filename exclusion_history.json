@@ -12,7 +12,8 @@
     "solstice",
     "Verdure",
     "Camaraderie",
-    "Bounty"
+    "Bounty",
+    "Aether"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -27,7 +28,8 @@
     "reënboog",
     "Herfs",
     "Vriendskap",
-    "Oesfees"
+    "Oesfees",
+    "Sterrelig"
   ],
   "Spanish": [
     "Esperanza",
@@ -42,7 +44,8 @@
     "primavera",
     "Rocio",
     "Amistad",
-    "Vendimia"
+    "Vendimia",
+    "Ensueño"
   ],
   "French": [
     "Magnifique",
@@ -57,7 +60,8 @@
     "automne",
     "Frimas",
     "Amitie",
-    "Moisson"
+    "Moisson",
+    "Scintillement"
   ],
   "German": [
     "Wunderbar",
@@ -72,7 +76,8 @@
     "Gewitter",
     "Raureif",
     "Verbundenheit",
-    "Erntedank"
+    "Erntedank",
+    "Sternbild"
   ],
   "Japanese": [
     "Komorebi",
@@ -87,7 +92,8 @@
     "tsuyu",
     "Kogorashi",
     "Kizuna",
-    "Housaku"
+    "Housaku",
+    "Maboroshi"
   ],
   "Italian": [
     "Speranza",
@@ -102,7 +108,8 @@
     "tramonto",
     "Brezza",
     "Amicizia",
-    "Vendemmia"
+    "Vendemmia",
+    "Luccichio"
   ],
   "Chinese": [
     "Xìngfú",
@@ -117,7 +124,8 @@
     "fēng",
     "Bailu",
     "Youyi",
-    "Fengshou"
+    "Fengshou",
+    "Xīngguāng"
   ],
   "Korean": [
     "Haengbok",
@@ -132,7 +140,8 @@
     "bada",
     "Danpung",
     "Ujeong",
-    "Pungnyeon"
+    "Pungnyeon",
+    "Byeolbit"
   ],
   "Khmer": [
     "Sro-noh",
@@ -147,6 +156,7 @@
     "veal srok",
     "Rodov vossa",
     "Mittapheap",
-    "Amnor"
+    "Amnor",
+    "Phoeun"
   ]
 }

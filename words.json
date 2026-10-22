@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Bounty",
+      "word": "Aether",
+      "meaning": "The clear sky; the upper regions of space beyond the clouds, often associated with stars and dreams.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "meaning": "An abundance or generous gift, especially of food, crops, or agricultural yield.",
-      "sentence1": "The farmers gathered in town to celebrate the autumn bounty with music and dancing. (The farmers gathered in town to celebrate the autumn bounty with music and dancing.)",
-      "sentence2": "A rich bounty of apples and pumpkins filled the wooden crates at the village market. (A rich bounty of apples and pumpkins filled the wooden crates at the village market.)"
+      "sentence1": "The astronomer gazed up at the aether, wondering about distant galaxies. (The astronomer gazed up at the upper sky, wondering about distant galaxies.)",
+      "sentence2": "In his dreams, he soared through a glowing aether of purple and gold. (In his dreams, he soared through a glowing upper space of purple and gold.)"
     },
     {
       "language": "Spanish",
-      "word": "Vendimia",
+      "word": "Ensueño",
+      "meaning": "A daydream, reverie, or a fantasy that resembles a dream.",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "meaning": "The grape harvest, or the joyful season during which vineyard grapes are gathered.",
-      "sentence1": "Todo el pueblo celebra la vendimia con cantos y bailes tradicionales. (The whole village celebrates the grape harvest with traditional songs and dances.)",
-      "sentence2": "Durante la vendimia, los canastos rebosan de uvas maduras y dulces. (During the grape harvest, the baskets overflow with ripe and sweet grapes.)"
+      "type_in_language": "sustantivo",
+      "sentence1": "Miraba las estrellas en un profundo ensueño. (She looked at the stars in a deep reverie.)",
+      "sentence2": "Su vida parecía un hermoso ensueño bajo el cielo nocturno. (Her life seemed like a beautiful daydream under the night sky.)"
     },
     {
       "language": "French",
-      "word": "Moisson",
+      "word": "Scintillement",
+      "meaning": "A sparkling, twinkling, or glittering light, much like starlight.",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "meaning": "The harvest of cereal crops, or the season and bountiful yield of gathering them.",
-      "sentence1": "Apres des semaines d'effort, la moisson doree a enfin ete rassemblee dans les granges. (After weeks of effort, the golden harvest was finally gathered in the barns.)",
-      "sentence2": "Les villageois celebrent la fin de la moisson avec un grand banquet joyeux. (The villagers celebrate the end of the harvest with a great joyful banquet.)"
+      "type_in_language": "nom",
+      "sentence1": "Le scintillement des étoiles illuminait la nuit claire. (The twinkling of the stars illuminated the clear night.)",
+      "sentence2": "Il aimait observer le scintillement lointain des galaxies. (He loved to observe the distant sparkle of the galaxies.)"
     },
     {
       "language": "German",
-      "word": "Erntedank",
+      "word": "Sternbild",
+      "meaning": "A constellation of stars that forms an imaginative picture in the night sky.",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "meaning": "Harvest thanksgiving; the festive celebration expressing joyful gratitude for a gathered crop.",
-      "sentence1": "Zum Erntedank schmuecken die Menschen die Altare mit frischem Brot und reifen Fruechten. (For harvest thanksgiving, people decorate the altars with fresh bread and ripe fruit.)",
-      "sentence2": "Die frohe Gemeinde feiert den Erntedank mit Musik und einem festlichen Mahl. (The joyful community celebrates the harvest thanksgiving with music and a festive meal.)"
+      "sentence1": "Wir suchten am Nachthimmel nach unserem Lieblingssternbild. (We looked for our favorite constellation in the night sky.)",
+      "sentence2": "Jedes Sternbild erzählt eine alte Geschichte aus grauer Vorzeit. (Every constellation tells an ancient story from the distant past.)"
     },
     {
       "language": "Japanese",
-      "word": "Housaku",
+      "word": "Maboroshi",
+      "meaning": "A phantom, vision, illusion, or something dreamlike that vanishes.",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "meaning": "A bumper crop, bountiful harvest, or abundant agricultural yield.",
-      "sentence1": "Kotoshi wa housaku datta node mura-juu ga yorokobi ni michite iru. (Because this year was a bumper crop, the entire village is filled with joy.)",
-      "sentence2": "Noumin-tachi wa housaku wo iwau matsuri de taiko wo tataita. (The farmers beat drums at the festival celebrating the abundant harvest.)"
+      "type_in_language": "meishi",
+      "sentence1": "Hoshizora no naka de sore wa maboroshi no you ni mieta. (In the starry sky, that looked like a phantom.)",
+      "sentence2": "Utsukushii yume wa asa ni naru to maboroshi ni kawaru. (A beautiful dream turns into an illusion when morning comes.)"
     },
     {
       "language": "Italian",
-      "word": "Vendemmia",
+      "word": "Luccichio",
+      "meaning": "A shimmer, gleam, or glitter of light.",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "meaning": "The grape harvest, marked by community festivity and the beginning of wine-making.",
-      "sentence1": "La vendemmia porta sempre una grande allegria tra i filari della collina. (The grape harvest always brings great cheer among the hillside rows.)",
-      "sentence2": "Tutta la famiglia si riunisce per festeggiare la ricca vendemmia con un bicchiere di vino. (The whole family gathers to celebrate the rich grape harvest with a glass of wine.)"
+      "type_in_language": "sostantivo",
+      "sentence1": "Il luccichio delle stelle guidava i viaggiatori nel buio. (The shimmer of the stars guided the travelers in the dark.)",
+      "sentence2": "C'era un magico luccichio nei suoi occhi quando parlava dei suoi sogni. (There was a magical gleam in her eyes when she spoke of her dreams.)"
     },
     {
       "language": "Chinese",
-      "word": "Fengshou",
+      "word": "Xīngguāng",
+      "meaning": "Starlight; the light emanating from the stars.",
       "type": "Noun",
-      "type_in_language": "Mingci",
-      "meaning": "A bumper harvest; an abundant crop yield that brings prosperity and celebration.",
-      "sentence1": "Nongmin-men gechang fengshou de xiyue, tianye li yipian huanle. (The farmers sang of the joy of a bumper harvest, and the fields were filled with happiness.)",
-      "sentence2": "Jinnian de fengshou rang zhengge cunzhuang dou chenjin zai xiqing zhong. (This year's bumper harvest immersed the entire village in celebration.)"
+      "type_in_language": "mingci",
+      "sentence1": "Tā zài xīngguāng xià jìnlù le zìjǐ de mèngxiǎng. (She confided her dreams under the starlight.)",
+      "sentence2": "Wēnróu de xīngguāng zhào liàng le hēiàn de yèwǎn. (The gentle starlight illuminated the dark night.)"
     },
     {
       "language": "Korean",
-      "word": "Pungnyeon",
+      "word": "Byeolbit",
+      "meaning": "Starlight; the luminescence cast by stars in the night sky.",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "meaning": "A bumper harvest year; a year of abundant, joyful agricultural yield.",
-      "sentence1": "Pungnyeon-eul majeun nongbu-deul-eun noraereul bureumyeo gikkeoi chumeul chwotta. (Welcoming a bumper year, the farmers sang and danced with delight.)",
-      "sentence2": "Hwanggeumbit deulpani pungnyeon-ui gippeum-eul boyeojunda. (The golden field shows the joy of an abundant harvest.)"
+      "type_in_language": "myeongsa",
+      "sentence1": "Bamhaneurui byeolbit-i chorohage bichnago isseotda. (The starlight in the night sky was shining brilliantly.)",
+      "sentence2": "Geuneun byeolbit-eul barabormyeo gipeun kkum-eulkkueotda. (He looked at the starlight and dreamed a deep dream.)"
     },
     {
       "language": "Khmer",
-      "word": "Amnor",
-      "type": "Noun",
-      "type_in_language": "Neam",
-      "meaning": "Joy, gladness, rejoicing, or the festive delight felt during prosperous times.",
-      "sentence1": "Neak srok mean amnor chea khlang now pel chroht srov ban laor. (The villagers have great joy when the rice harvest turns out well.)",
-      "sentence2": "Krom kruosar prum-preang knea daoy amnor knong rodov chroht kat. (The family gathered together with joy during the harvest season.)"
+      "word": "Phoeun",
+      "meaning": "To shine gently, radiate a soft glow, or glisten like distant stars.",
+      "type": "Verb",
+      "type_in_language": "kriya sapt",
+      "sentence1": "Tarika phoeun phorng banluch nyu pka pek nakee. (The stars shined brightly lighting up the dark night.)",
+      "sentence2": "Sopheap chol chet smal tarika phoeun knong kncheak kpeu. (Sopheap loves watching the stars gleam in the sky.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Oesfees",
+      "word": "Sterrelig",
+      "meaning": "Starlight; the light that comes from the stars.",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "meaning": "A harvest festival; a joyous celebration and feast marking the gathering of the crops.",
-      "sentence1": "Die hele gemeenskap kom bymekaar om die jaarlikse oesfees met sang en dans te vier. (The whole community comes together to celebrate the annual harvest festival with song and dance.)",
-      "sentence2": "Tydens die oesfees heers daar groot dankbaarheid en vreugde op die plaas. (During the harvest festival, great gratitude and joy reign on the farm.)"
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Ons het onder die helder sterrelig gesels oor ons drome. (We chatted under the bright starlight about our dreams.)",
+      "sentence2": "Die sterrelig het oor die stille landskap geval. (The starlight fell across the quiet landscape.)"
     }
   ]
 }
