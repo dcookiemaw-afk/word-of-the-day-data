@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Aether",
-      "meaning": "The clear sky; the upper regions of space beyond the clouds, often associated with stars and dreams.",
-      "type": "Noun",
-      "type_in_language": "Noun",
-      "sentence1": "The astronomer gazed up at the aether, wondering about distant galaxies. (The astronomer gazed up at the upper sky, wondering about distant galaxies.)",
-      "sentence2": "In his dreams, he soared through a glowing aether of purple and gold. (In his dreams, he soared through a glowing upper space of purple and gold.)"
+      "word": "Oneiric",
+      "meaning": "Relating to dreams or dreaming; dreamlike.",
+      "type": "Adjective",
+      "type_in_language": "Adjective",
+      "sentence1": "The quiet night had an oneiric quality beneath the glowing firmament. (The quiet night had an oneiric quality beneath the glowing firmament.)",
+      "sentence2": "Her stories blur the line between waking reality and an oneiric world of wonder. (Her stories blur the line between waking reality and an oneiric world of wonder.)"
     },
     {
       "language": "Spanish",
-      "word": "Ensueño",
-      "meaning": "A daydream, reverie, or a fantasy that resembles a dream.",
+      "word": "Lucero",
+      "meaning": "A bright star, especially the morning or evening star (Venus); a beacon of celestial light.",
       "type": "Noun",
-      "type_in_language": "sustantivo",
-      "sentence1": "Miraba las estrellas en un profundo ensueño. (She looked at the stars in a deep reverie.)",
-      "sentence2": "Su vida parecía un hermoso ensueño bajo el cielo nocturno. (Her life seemed like a beautiful daydream under the night sky.)"
+      "type_in_language": "Sustantivo masculino",
+      "sentence1": "El lucero del alba brillaba intensamente antes de que saliera el sol. (The morning star shone brightly before the sun rose.)",
+      "sentence2": "Mirando al cielo despejado, un tenue lucero inspiro sus mas bellos suenos. (Looking at the clear sky, a faint bright star inspired her most beautiful dreams.)"
     },
     {
       "language": "French",
-      "word": "Scintillement",
-      "meaning": "A sparkling, twinkling, or glittering light, much like starlight.",
+      "word": "Reverie",
+      "meaning": "A state of being pleasantly lost in one's thoughts; a daydream or fanciful contemplation.",
       "type": "Noun",
-      "type_in_language": "nom",
-      "sentence1": "Le scintillement des étoiles illuminait la nuit claire. (The twinkling of the stars illuminated the clear night.)",
-      "sentence2": "Il aimait observer le scintillement lointain des galaxies. (He loved to observe the distant sparkle of the galaxies.)"
+      "type_in_language": "Nom feminin",
+      "sentence1": "Elle contemplait la voute etoilee, perdue dans une douce reverie. (She gazed at the starry canopy, lost in a gentle reverie.)",
+      "sentence2": "Le silence de la nuit nocturne plongea le poete dans une profonde reverie. (The silence of the nocturnal night plunged the poet into a profound daydream.)"
     },
     {
       "language": "German",
-      "word": "Sternbild",
-      "meaning": "A constellation of stars that forms an imaginative picture in the night sky.",
+      "word": "Sternschnuppe",
+      "meaning": "A shooting star or meteor, traditionally believed to grant wishes to those who dream upon it.",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Wir suchten am Nachthimmel nach unserem Lieblingssternbild. (We looked for our favorite constellation in the night sky.)",
-      "sentence2": "Jedes Sternbild erzählt eine alte Geschichte aus grauer Vorzeit. (Every constellation tells an ancient story from the distant past.)"
+      "sentence1": "Als er eine helle Sternschnuppe sah, schloss er die Augen und wuenschte sich etwas. (When he saw a bright shooting star, he closed his eyes and made a wish.)",
+      "sentence2": "In der klaren Sommernacht zog eine zarte Sternschnuppe ueber den dunklen Himmel. (On the clear summer night, a delicate shooting star streaked across the dark sky.)"
     },
     {
       "language": "Japanese",
-      "word": "Maboroshi",
-      "meaning": "A phantom, vision, illusion, or something dreamlike that vanishes.",
+      "word": "Hoshikuzu",
+      "meaning": "Stardust; clusters of countless tiny stars illuminating the night sky.",
       "type": "Noun",
-      "type_in_language": "meishi",
-      "sentence1": "Hoshizora no naka de sore wa maboroshi no you ni mieta. (In the starry sky, that looked like a phantom.)",
-      "sentence2": "Utsukushii yume wa asa ni naru to maboroshi ni kawaru. (A beautiful dream turns into an illusion when morning comes.)"
+      "type_in_language": "Meishi",
+      "sentence1": "Yozora ni chirabatta hoshikuzu ga gin'iro ni kagayaite imasu. (The stardust scattered across the night sky is shining in silver.)",
+      "sentence2": "Kanojo wa hoshikuzu o atsumeta you na utsukushii yume o mita. (She had a beautiful dream as if she had gathered stardust.)"
     },
     {
       "language": "Italian",
-      "word": "Luccichio",
-      "meaning": "A shimmer, gleam, or glitter of light.",
-      "type": "Noun",
-      "type_in_language": "sostantivo",
-      "sentence1": "Il luccichio delle stelle guidava i viaggiatori nel buio. (The shimmer of the stars guided the travelers in the dark.)",
-      "sentence2": "C'era un magico luccichio nei suoi occhi quando parlava dei suoi sogni. (There was a magical gleam in her eyes when she spoke of her dreams.)"
+      "word": "Onirico",
+      "meaning": "Dreamlike; suggestive of or relating to dreams and imagination.",
+      "type": "Adjective",
+      "type_in_language": "Aggettivo",
+      "sentence1": "La melodia sussurrata creava un'atmosfera onirica sotto la luce delle stelle. (The whispered melody created a dreamlike atmosphere under the starlight.)",
+      "sentence2": "Il quadro mostrava un paesaggio onirico avvolto nel chiarore notturno. (The painting showed a dreamlike landscape enveloped in nocturnal glow.)"
     },
     {
       "language": "Chinese",
-      "word": "Xīngguāng",
-      "meaning": "Starlight; the light emanating from the stars.",
+      "word": "Mengjing",
+      "meaning": "Dreamland or dreamscape; an ethereal realm of dreams and imagery.",
       "type": "Noun",
-      "type_in_language": "mingci",
-      "sentence1": "Tā zài xīngguāng xià jìnlù le zìjǐ de mèngxiǎng. (She confided her dreams under the starlight.)",
-      "sentence2": "Wēnróu de xīngguāng zhào liàng le hēiàn de yèwǎn. (The gentle starlight illuminated the dark night.)"
+      "type_in_language": "Mingci",
+      "sentence1": "Shenye li, ta fangfu jinru le yige man shi xingguang de mengjing. (In the dead of night, she seemed to enter a dreamland filled with starlight.)",
+      "sentence2": "Zhe pian shanhai de meijing furen ru tong zhishen mengjing. (The beauty of these mountains and seas makes one feel as if they are in a dreamscape.)"
     },
     {
       "language": "Korean",
-      "word": "Byeolbit",
-      "meaning": "Starlight; the luminescence cast by stars in the night sky.",
+      "word": "Eunhasu",
+      "meaning": "The Milky Way galaxy; the luminous river of stars across the heavens.",
       "type": "Noun",
-      "type_in_language": "myeongsa",
-      "sentence1": "Bamhaneurui byeolbit-i chorohage bichnago isseotda. (The starlight in the night sky was shining brilliantly.)",
-      "sentence2": "Geuneun byeolbit-eul barabormyeo gipeun kkum-eulkkueotda. (He looked at the starlight and dreamed a deep dream.)"
+      "type_in_language": "Myeongsa",
+      "sentence1": "Kkaman bamhaneure pyeolchyeojin eunhasuneun kkumcheoreom areumdawotta. (The Milky Way spread across the black night sky was dreamily beautiful.)",
+      "sentence2": "Sonyeoneun eunhasureul barabomyeo sojunghan kkumeul kiwotda. (Looking at the Milky Way, the boy nurtured a precious dream.)"
     },
     {
       "language": "Khmer",
-      "word": "Phoeun",
-      "meaning": "To shine gently, radiate a soft glow, or glisten like distant stars.",
-      "type": "Verb",
-      "type_in_language": "kriya sapt",
-      "sentence1": "Tarika phoeun phorng banluch nyu pka pek nakee. (The stars shined brightly lighting up the dark night.)",
-      "sentence2": "Sopheap chol chet smal tarika phoeun knong kncheak kpeu. (Sopheap loves watching the stars gleam in the sky.)"
+      "word": "Sobin",
+      "meaning": "A dream, reverie, or vision experienced during slumber.",
+      "type": "Noun",
+      "type_in_language": "Neam",
+      "sentence1": "Neang ban kheunh roeng la-or knong sobin robos neang kroum pkay rousneang. (She saw wonderful things in her dream beneath the twinkling stars.)",
+      "sentence2": "Sobin la-or niw pel reatrey thveu oy chet sabay rik-reay. (Good dreams during the night bring peaceful joy to the spirit.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Sterrelig",
-      "meaning": "Starlight; the light that comes from the stars.",
+      "word": "Dagdroom",
+      "meaning": "A daydream, reverie, or visionary contemplation of one's aspirations.",
       "type": "Noun",
-      "type_in_language": "selfstandige naamwoord",
-      "sentence1": "Ons het onder die helder sterrelig gesels oor ons drome. (We chatted under the bright starlight about our dreams.)",
-      "sentence2": "Die sterrelig het oor die stille landskap geval. (The starlight fell across the quiet landscape.)"
+      "type_in_language": "Selfstandige naamwoord",
+      "sentence1": "Hy het in 'n rustige dagdroom verval terwyl hy na die eerste aandster kyk. (He drifted into a peaceful daydream while watching the first evening star.)",
+      "sentence2": "Haar dagdroom oor 'n reis na verre planete het haar verbeelding geprikkel. (Her daydream about a journey to distant planets sparked her imagination.)"
     }
   ]
 }
