@@ -14,7 +14,8 @@
     "Camaraderie",
     "Bounty",
     "Aether",
-    "Oneiric"
+    "Oneiric",
+    "Mellifluous"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -31,7 +32,8 @@
     "Vriendskap",
     "Oesfees",
     "Sterrelig",
-    "Dagdroom"
+    "Dagdroom",
+    "Vreugde"
   ],
   "Spanish": [
     "Esperanza",
@@ -48,7 +50,8 @@
     "Amistad",
     "Vendimia",
     "Ensueño",
-    "Lucero"
+    "Lucero",
+    "Jovialidad"
   ],
   "French": [
     "Magnifique",
@@ -65,7 +68,8 @@
     "Amitie",
     "Moisson",
     "Scintillement",
-    "Reverie"
+    "Reverie",
+    "Allegresse"
   ],
   "German": [
     "Wunderbar",
@@ -82,7 +86,8 @@
     "Verbundenheit",
     "Erntedank",
     "Sternbild",
-    "Sternschnuppe"
+    "Sternschnuppe",
+    "Frohsinn"
   ],
   "Japanese": [
     "Komorebi",
@@ -99,7 +104,8 @@
     "Kizuna",
     "Housaku",
     "Maboroshi",
-    "Hoshikuzu"
+    "Hoshikuzu",
+    "Kanki"
   ],
   "Italian": [
     "Speranza",
@@ -116,7 +122,8 @@
     "Amicizia",
     "Vendemmia",
     "Luccichio",
-    "Onirico"
+    "Onirico",
+    "Esultanza"
   ],
   "Chinese": [
     "Xìngfú",
@@ -133,7 +140,8 @@
     "Youyi",
     "Fengshou",
     "Xīngguāng",
-    "Mengjing"
+    "Mengjing",
+    "Xihuanyue"
   ],
   "Korean": [
     "Haengbok",
@@ -150,7 +158,8 @@
     "Ujeong",
     "Pungnyeon",
     "Byeolbit",
-    "Eunhasu"
+    "Eunhasu",
+    "Hwanhui"
   ],
   "Khmer": [
     "Sro-noh",
@@ -167,6 +176,7 @@
     "Mittapheap",
     "Amnor",
     "Phoeun",
-    "Sobin"
+    "Sobin",
+    "Saboray"
   ]
 }
