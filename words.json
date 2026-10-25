@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Mellifluous",
-      "meaning": "Sweet or musical; pleasant to hear",
-      "type": "Adjective",
-      "type_in_language": "Adjective",
-      "sentence1": "The singer's mellifluous voice filled the autumn hall with warmth. (The singer's sweet voice filled the autumn hall with warmth.)",
-      "sentence2": "We listened to the mellifluous sounds of laughter during the harvest feast. (We listened to the sweet sounds of laughter during the harvest feast.)"
+      "word": "Fruitfulness",
+      "meaning": "The quality of producing much fruit or many results; abundant productivity and success.",
+      "type": "Noun",
+      "type_in_language": "Noun",
+      "sentence1": "The orchard displayed incredible fruitfulness this autumn.",
+      "sentence2": "Their hard work brought great fruitfulness to the community."
     },
     {
       "language": "Spanish",
-      "word": "Jovialidad",
-      "meaning": "Mirthfulness, joviality, or joyousness",
+      "word": "Regocijo",
+      "meaning": "Great joy, delight, or gladness.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "La jovialidad de la gente hizo que la celebracion fuera inolvidable. (The jovialty of the people made the celebration unforgettable.)",
-      "sentence2": "Se podia sentir la jovialidad en el aire mientras recogian los frutos. (You could feel the joyfulness in the air while they gathered the fruits.)"
+      "sentence1": "El pueblo celebró la cosecha con gran regocijo.",
+      "sentence2": "Su rostro se lleno de regocijo al ver el éxito de la fiesta."
     },
     {
       "language": "French",
-      "word": "Allegresse",
-      "meaning": "Joy, jubilation, or cheerfulness",
+      "word": "Jubilation",
+      "meaning": "A feeling of great happiness and triumph.",
       "type": "Noun",
       "type_in_language": "Nom",
-      "sentence1": "Le village a accueilli la recolte avec une grande allegresse. (The village welcomed the harvest with great jubilation.)",
-      "sentence2": "Il y avait de l'allegresse dans chaque regard ce jour-la. (There was cheerfulness in every look that day.)"
+      "sentence1": "Il y avait une immense jubilation dans le village apres la recolte.",
+      "sentence2": "La foule a manifeste sa jubilation avec des chants et des danses."
     },
     {
       "language": "German",
-      "word": "Frohsinn",
-      "meaning": "Cheerfulness, joyfulness, or gaiety",
+      "word": "Erntezeit",
+      "meaning": "The season when crops are gathered from the fields; harvest time.",
       "type": "Noun",
-      "type_in_language": "Nomen",
-      "sentence1": "Der Frohsinn der Familie erhellte den dunklen Herbstabend. (The cheerfulness of the family brightened the dark autumn evening.)",
-      "sentence2": "Sie feierten das Erntefest mit großem Frohsinn und Gesang. (They celebrated the harvest festival with great joyfulness and singing.)"
+      "type_in_language": "Substantiv",
+      "sentence1": "Die Erntezeit ist die geschäftigste Zeit des Jahres für die Bauern.",
+      "sentence2": "Während der Erntezeit feiern wir den Erfolg der Felder."
     },
     {
       "language": "Japanese",
-      "word": "Kanki",
-      "meaning": "Great joy, delight, or jubilation",
+      "word": "Yorokobi",
+      "meaning": "Deep joy, gladness, or delight.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Noumin tachi wa utage de kanki ni michite ita. (The farmers were filled with great joy at the banquet.)",
-      "sentence2": "Housaku no nureta daichi ni kanki no koe ga hibiita. (Voices of delight echoed across the wet earth of the abundant harvest.)"
+      "sentence1": "Shuukaku no kisetsu wa hitobito ni ookina yorokobi o motarasu.",
+      "sentence2": "Kare wa sono nogyo no seika o yorokobi to tomo ni muketa."
     },
     {
       "language": "Italian",
       "word": "Esultanza",
-      "meaning": "Exultation, jubilation, or great joy",
+      "meaning": "Exultation, lively joy, or rejoicing.",
       "type": "Noun",
       "type_in_language": "Sostantivo",
-      "sentence1": "C'era grande esultanza quando i campi diedero i loro frutti. (There was great exultation when the fields yielded their fruits.)",
-      "sentence2": "La loro esultanza era contagiosa durante la festa del raccolto. (Their jubilation was contagious during the harvest festival.)"
+      "sentence1": "C'era grande esultanza tra i contadini per la fine del raccolto.",
+      "sentence2": "La vittoria fu accolta con esultanza da tutta la comunita."
     },
     {
       "language": "Chinese",
-      "word": "Xihuanyue",
-      "meaning": "Joyful and happy, filled with delight",
+      "word": "Xǐyuè",
+      "meaning": "Happy and joyful; jubilation.",
       "type": "Adjective",
-      "type_in_language": "Xingrongci",
-      "sentence1": "Guomin zai shouhuo de jijiang xihuanyue de qingzhu. (The citizens joyfully celebrated the approaching harvest.)",
-      "sentence2": "Tamen de lian shang dao chu shi xihuanyue de biaoqing. (Their faces were filled with joyful expressions everywhere.)"
+      "type_in_language": "Xíngróngcí",
+      "sentence1": "Shōuhè de shíhou, měi gè rén dōu fēicháng xǐyuè.",
+      "sentence2": "Zhè gè xǐyuè de qìfēn ràng dàjiā dōu hěn gāoxìng."
     },
     {
       "language": "Korean",
-      "word": "Hwanhui",
-      "meaning": "Delight, ecstasy, or rapturous joy",
+      "word": "Jeulgeoum",
+      "meaning": "Joy, delight, or pleasure.",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Chusuui gippeumeuro maeumi hwanhuiro gadeuk chaetda. (The heart was filled with rapturous joy from the happiness of autumn harvest.)",
-      "sentence2": "Nongbuui nunbichi hwanhuiro binnago isseotda. (The farmer's eyes were shining with ecstasy.)"
+      "sentence1": "Suhwagiui jeulgeoumi nonbatmada gadeukhaetda.",
+      "sentence2": "Uri gajok eun hamkke moraeseo keun jeulgeoumeul neukkyeotda."
     },
     {
       "language": "Khmer",
-      "word": "Saboray",
-      "meaning": "Happiness, joy, or gladness",
+      "word": "Samrae",
+      "meaning": "Success, achievement, or fruitful outcome.",
       "type": "Noun",
-      "type_in_language": "Kear noun",
-      "sentence1": "Pracheachon mean saboray ying klang knong pelเก็บ kat phle cheu. (The people had great joy during the fruit harvesting time.)",
-      "sentence2": "Samleng nyum jomreang ban banhchenh saboray robos puokke. (The sound of laughter and singing expressed their gladness.)"
+      "type_in_language": "Nam",
+      "sentence1": "Kar srokcham dol mouy samrae la-or.",
+      "sentence2": "PHEAP ryk-reay koeut laeung pi samrae knong kar thveu srae."
     },
     {
       "language": "Afrikaans",
-      "word": "Vreugde",
-      "meaning": "Joy, delight, or gladness",
+      "word": "Vreugdefees",
+      "meaning": "A festival or celebration of joy.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Daar was groot vreugde toe die oes uiteindelik ingesamel is. (There was great joy when the harvest was finally gathered.)",
-      "sentence2": "Sy het haar vreugde gedeel met almal op die plaas. (She shared her delight with everyone on the farm.)"
+      "sentence1": "Die gemeenskap het 'n groot vreugdefees gehou na die suksesvolle oes.",
+      "sentence2": "Daar was sang en dans tydens die vreugdefees."
     }
   ]
 }
