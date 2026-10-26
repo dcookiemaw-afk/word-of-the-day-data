@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Fruitfulness",
-      "meaning": "The quality of producing much fruit or many results; abundant productivity and success.",
+      "word": "Serendipity",
+      "meaning": "The occurrence of events by chance in a happy or beneficial way",
       "type": "Noun",
-      "type_in_language": "Noun",
-      "sentence1": "The orchard displayed incredible fruitfulness this autumn.",
-      "sentence2": "Their hard work brought great fruitfulness to the community."
+      "type_in_language": "noun",
+      "sentence1": "Finding my lost childhood book at the flea market was pure serendipity. (Finding my lost childhood book at the flea market was pure serendipity.)",
+      "sentence2": "A fortunate serendipity led them to meet the renowned artist during their walk. (A fortunate serendipity led them to meet the renowned artist during their walk.)"
     },
     {
       "language": "Spanish",
-      "word": "Regocijo",
-      "meaning": "Great joy, delight, or gladness.",
+      "word": "Sobremesa",
+      "meaning": "The time spent lingering around the table after a meal, conversing",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "sentence1": "El pueblo celebró la cosecha con gran regocijo.",
-      "sentence2": "Su rostro se lleno de regocijo al ver el éxito de la fiesta."
+      "type_in_language": "sustantivo",
+      "sentence1": "Disfrutamos de una larga sobremesa despues del almuerzo familiar. (We enjoyed a long post-meal conversation after the family lunch.)",
+      "sentence2": "La sobremesa es una tradicion hermosa para compartir historias. (The after-meal conversation is a beautiful tradition for sharing stories.)"
     },
     {
       "language": "French",
-      "word": "Jubilation",
-      "meaning": "A feeling of great happiness and triumph.",
+      "word": "Flaneur",
+      "meaning": "A person who saunters around observing society, a wanderer",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "sentence1": "Il y avait une immense jubilation dans le village apres la recolte.",
-      "sentence2": "La foule a manifeste sa jubilation avec des chants et des danses."
+      "type_in_language": "nom",
+      "sentence1": "Il etait un vrai flaneur, observant les details caches de Paris. (He was a true wanderer, observing the hidden details of Paris.)",
+      "sentence2": "Le flaneur profite de l'apres-midi sans se presser dans les rues. (The stroller enjoys the afternoon without rushing through the streets.)"
     },
     {
       "language": "German",
-      "word": "Erntezeit",
-      "meaning": "The season when crops are gathered from the fields; harvest time.",
+      "word": "Gemuetlichkeit",
+      "meaning": "A quality of coziness, friendliness, and belonging",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "sentence1": "Die Erntezeit ist die geschäftigste Zeit des Jahres für die Bauern.",
-      "sentence2": "Während der Erntezeit feiern wir den Erfolg der Felder."
+      "type_in_language": "Nomen",
+      "sentence1": "Die Huettestrahlte eine wundersame Gemuetlichkeit aus. (The cabin radiated a wonderful sense of coziness.)",
+      "sentence2": "Wir genossen die Gemuetlichkeit des warmen Kaminfeuers am Abend. (We enjoyed the coziness of the warm fireplace in the evening.)"
     },
     {
       "language": "Japanese",
-      "word": "Yorokobi",
-      "meaning": "Deep joy, gladness, or delight.",
+      "word": "Yugen",
+      "meaning": "A profound, mysterious sense of the beauty of the universe",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "sentence1": "Shuukaku no kisetsu wa hitobito ni ookina yorokobi o motarasu.",
-      "sentence2": "Kare wa sono nogyo no seika o yorokobi to tomo ni muketa."
+      "type_in_language": "meishi",
+      "sentence1": "Sono yama no keshiki ni fukai yugen o kanjita. (I felt a deep sense of mysterious grace in the mountain landscape.)",
+      "sentence2": "Yugen wa nihon no dento teki na biishiki no hitotsu desu. (Yugen is one of the traditional aesthetic sensibilities of Japan.)"
     },
     {
       "language": "Italian",
-      "word": "Esultanza",
-      "meaning": "Exultation, lively joy, or rejoicing.",
-      "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "sentence1": "C'era grande esultanza tra i contadini per la fine del raccolto.",
-      "sentence2": "La vittoria fu accolta con esultanza da tutta la comunita."
+      "word": "Meriggiare",
+      "meaning": "To rest or spend time in the shade during the heat of midday",
+      "type": "Verb",
+      "type_in_language": "verbo",
+      "sentence1": "Nel pomeriggio amiamo meriggiare sotto i grandi alberi del giardino. (In the afternoon we love to rest in the shade under the big trees in the garden.)",
+      "sentence2": "Il pastore decise di meriggiare vicino alla fonte fresca. (The shepherd decided to rest in the shade near the cool spring.)"
     },
     {
       "language": "Chinese",
-      "word": "Xǐyuè",
-      "meaning": "Happy and joyful; jubilation.",
-      "type": "Adjective",
-      "type_in_language": "Xíngróngcí",
-      "sentence1": "Shōuhè de shíhou, měi gè rén dōu fēicháng xǐyuè.",
-      "sentence2": "Zhè gè xǐyuè de qìfēn ràng dàjiā dōu hěn gāoxìng."
+      "word": "Shanshui",
+      "meaning": "Landscape painting featuring mountains and water, nature's scenery",
+      "type": "Noun",
+      "type_in_language": "mingci",
+      "sentence1": "Ta hen xihuan guanmo guandai de shanshui hua. (He really likes observing traditional landscape paintings.)",
+      "sentence2": "Zhege cunluo de ziran shanshui jingsel feichang zhangli. (The natural mountain and water scenery of this village is very charming.)"
     },
     {
       "language": "Korean",
-      "word": "Jeulgeoum",
-      "meaning": "Joy, delight, or pleasure.",
-      "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "sentence1": "Suhwagiui jeulgeoumi nonbatmada gadeukhaetda.",
-      "sentence2": "Uri gajok eun hamkke moraeseo keun jeulgeoumeul neukkyeotda."
+      "word": "Namdutda",
+      "meaning": "To be warm, cozy, and comforting in atmosphere",
+      "type": "Adjective",
+      "type_in_language": "hyeongyongsa",
+      "sentence1": "Geu bangenun chwiyulhan nalssie cham namdutda. (That room is truly cozy and warm on a chilly day.)",
+      "sentence2": "Eommanuui ttatteutan sonmokkkeseo namdutan gibuni deunda. (A cozy feeling arises from mother's warm touch.)"
     },
     {
       "language": "Khmer",
-      "word": "Samrae",
-      "meaning": "Success, achievement, or fruitful outcome.",
+      "word": "Chompa",
+      "meaning": "Frangipani flower, symbolizing purity and devotion in daily life",
       "type": "Noun",
-      "type_in_language": "Nam",
-      "sentence1": "Kar srokcham dol mouy samrae la-or.",
-      "sentence2": "PHEAP ryk-reay koeut laeung pi samrae knong kar thveu srae."
+      "type_in_language": "kuna neam",
+      "sentence1": "Phka chompa rik krub chork knong chomnern douch. (Frangipani flowers bloom all over the garden.)",
+      "sentence2": "Neak srok thveu mchas phka chompa dael ban chuop chabas. (The villagers cherish the frangipani flowers they encounter.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Vreugdefees",
-      "meaning": "A festival or celebration of joy.",
+      "word": "Geselligheid",
+      "meaning": "Sociability, companionability, and warm-hearted cheerfulness",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Die gemeenskap het 'n groot vreugdefees gehou na die suksesvolle oes.",
-      "sentence2": "Daar was sang en dans tydens die vreugdefees."
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Ons het die geselligheid rondom die vuur baie geniet. (We thoroughly enjoyed the sociability around the fire.)",
+      "sentence2": "Daar was 'n wonderlike atmosfeer van geselligheid by die braai. (There was a wonderful atmosphere of cheerfulness at the barbecue.)"
     }
   ]
 }
