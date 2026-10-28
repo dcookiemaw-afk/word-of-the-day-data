@@ -18,7 +18,8 @@
     "Mellifluous",
     "Fruitfulness",
     "Serendipity",
-    "Epiphany"
+    "Epiphany",
+    "Melancholy"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -39,7 +40,8 @@
     "Vreugde",
     "Vreugdefees",
     "Geselligheid",
-    "Sterrenag"
+    "Sterrenag",
+    "Angs"
   ],
   "Spanish": [
     "Esperanza",
@@ -60,7 +62,8 @@
     "Jovialidad",
     "Regocijo",
     "Sobremesa",
-    "Crespuscular"
+    "Crespuscular",
+    "Zozobra"
   ],
   "French": [
     "Magnifique",
@@ -81,7 +84,8 @@
     "Allegresse",
     "Jubilation",
     "Flaneur",
-    "Flamboyant"
+    "Flamboyant",
+    "Desarroi"
   ],
   "German": [
     "Wunderbar",
@@ -102,7 +106,8 @@
     "Frohsinn",
     "Erntezeit",
     "Gemuetlichkeit",
-    "Wanderlust"
+    "Wanderlust",
+    "Fernweh"
   ],
   "Japanese": [
     "Komorebi",
@@ -123,7 +128,8 @@
     "Kanki",
     "Yorokobi",
     "Yugen",
-    "Yūgure"
+    "Yūgure",
+    "Sabishisa"
   ],
   "Italian": [
     "Speranza",
@@ -143,7 +149,8 @@
     "Onirico",
     "Esultanza",
     "Meriggiare",
-    "Mattino"
+    "Mattino",
+    "Commozione"
   ],
   "Chinese": [
     "Xìngfú",
@@ -164,7 +171,8 @@
     "Xihuanyue",
     "Xǐyuè",
     "Shanshui",
-    "Chéngzhēn"
+    "Chéngzhēn",
+    "Beishang"
   ],
   "Korean": [
     "Haengbok",
@@ -185,7 +193,8 @@
     "Hwanhui",
     "Jeulgeoum",
     "Namdutda",
-    "Noeul"
+    "Noeul",
+    "Seulpeum"
   ],
   "Khmer": [
     "Sro-noh",
@@ -206,6 +215,7 @@
     "Saboray",
     "Samrae",
     "Chompa",
-    "Preah-arthit"
+    "Preah-arthit",
+    "Komheung"
   ]
 }

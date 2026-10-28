@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Epiphany",
-      "meaning": "A moment of sudden revelation or great insight.",
+      "word": "Melancholy",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "She had an epiphany while watching the sunrise over the quiet lake. (She had an epiphany while watching the sunrise over the quiet lake.)",
-      "sentence2": "That sudden epiphany changed her perspective on daily life completely. (That sudden epiphany changed her perspective on daily life completely.)"
+      "meaning": "A feeling of pensive sadness, typically with no obvious cause.",
+      "sentence1": "An inexplicable melancholy descended upon him as autumn stripped the trees of their amber leaves. (An inexplicable melancholy descended upon him as autumn stripped the trees of their amber leaves.)",
+      "sentence2": "Her journal was filled with introspective musings and gentle melancholy. (Her journal was filled with introspective musings and gentle melancholy.)"
     },
     {
       "language": "Spanish",
-      "word": "Crespuscular",
-      "meaning": "Pertaining to twilight or dusk, bringing a sense of quiet wonder.",
-      "type": "Adjective",
-      "type_in_language": "Adjetivo",
-      "sentence1": "El cielo crespuscular ilumina las nubes con tonos dorados. (The twilight sky illuminates the clouds with golden tones.)",
-      "sentence2": "Disfrutamos de un paseo crespuscular por el jardín. (We enjoyed a twilight walk through the garden.)"
+      "word": "Zozobra",
+      "type": "Noun",
+      "type_in_language": "Sustantivo",
+      "meaning": "A state of acute anxiety, unease, or inner turmoil.",
+      "sentence1": "La repentina noticia lleno su pecho de una profunda zozobra. (The sudden news filled his chest with deep anxiety.)",
+      "sentence2": "Esperaron el veredicto medico en medio de una constante zozobra. (They waited for the medical verdict in the midst of constant unease.)"
     },
     {
       "language": "French",
-      "word": "Flamboyant",
-      "meaning": "Bright, colorful, and striking, often describing autumn leaves or vibrant nature.",
-      "type": "Adjective",
-      "type_in_language": "Adjectif",
-      "sentence1": "Les arbres flamboyants brillent sous le soleil d'automne. (The flamboyant trees shine under the autumn sun.)",
-      "sentence2": "Un coucher de soleil flamboyant a clos notre journée. (A flamboyant sunset closed our day.)"
+      "word": "Desarroi",
+      "type": "Noun",
+      "type_in_language": "Nom masculin",
+      "meaning": "A state of helpless confusion, disorientation, or emotional disarray.",
+      "sentence1": "Elle ne put cacher son desarroi face a ce revirement inattendu. (She could not hide her distress in the face of this unexpected turn of events.)",
+      "sentence2": "Un sentiment de desarroi envahit la piece apres l annonce du depart. (A feeling of disarray overwhelmed the room after the departure was announced.)"
     },
     {
       "language": "German",
-      "word": "Wanderlust",
-      "meaning": "A strong desire to travel and explore the world around us.",
+      "word": "Fernweh",
       "type": "Noun",
-      "type_in_language": "Nomen",
-      "sentence1": "Sein Wanderlust führte ihn in die entlegensten Bergdörfer. (His wanderlust led him to the most remote mountain villages.)",
-      "sentence2": "Mit jedem Frühling erwacht ein neuer Wanderlust in ihrer Seele. (With every spring, a new wanderlust awakens in her soul.)"
+      "type_in_language": "Substantiv",
+      "meaning": "An ache or deep longing for distant and unexplored places.",
+      "sentence1": "Beim Betrachten der alten Weltkarte packte ihn plotzlich das Fernweh. (Looking at the old world map, he was suddenly seized by wanderlust and longing for distant lands.)",
+      "sentence2": "Ihr standiges Fernweh trieb sie dazu, jeden Sommer in unbekannte Lander zu reisen. (Her constant longing for distant places drove her to travel to unfamiliar countries every summer.)"
     },
     {
       "language": "Japanese",
-      "word": "Yūgure",
-      "meaning": "Evening twilight or dusk when the day gently transitions into night.",
+      "word": "Sabishisa",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Yūgure no sora wa utsukushii akairo ni somatta. (The evening twilight sky was dyed in a beautiful red color.)",
-      "sentence2": "Watashitachi wa yūgure no machi o aruita. (We walked through the town at evening twilight.)"
+      "meaning": "The feeling of loneliness, solitude, or desolate sorrow.",
+      "sentence1": "Yuuhi ga shizumu toki, mune no oku ni fukai sabishisa o kanjiru. (When the sun sets, I feel a deep loneliness in the depths of my chest.)",
+      "sentence2": "Daremo inai heya ni modotta shunkan, kyuu ni sabishisa ga osotte kita. (The moment I returned to the empty room, loneliness suddenly swept over me.)"
     },
     {
       "language": "Italian",
-      "word": "Mattino",
-      "meaning": "The morning, representing fresh beginnings and the beauty of a new day.",
+      "word": "Commozione",
       "type": "Noun",
-      "type_in_language": "Nome",
-      "sentence1": "Il mattino porta con sé la promessa di nuove meraviglie. (The morning brings with it the promise of new wonders.)",
-      "sentence2": "Amo il silenzio del primo mattino. (I love the silence of the early morning.)"
+      "type_in_language": "Sostantivo",
+      "meaning": "A state of being deeply moved or touched with emotional tenderness.",
+      "sentence1": "Gli occhi del vecchio marinaio brillavano di commozione al ritorno del nipote. (The old sailor's eyes shone with deep emotion upon his grandson's return.)",
+      "sentence2": "La melodia straziante suscito una viva commozione in tutto il pubblico. (The poignant melody stirred profound emotion throughout the entire audience.)"
     },
     {
       "language": "Chinese",
-      "word": "Chéngzhēn",
-      "meaning": "Sincerity and genuineness found in everyday human connection and wonder.",
+      "word": "Beishang",
       "type": "Noun",
-      "type_in_language": "Míngcí",
-      "sentence1": "Tā de chéngzhēn rang měi gè rén dōu gǎndào wēnnuǎn. (His sincerity made everyone feel warm.)",
-      "sentence2": "Zài rìcháng shēnghuó zhōng, chéngzhēn shì zuì bǎoguì de pǐnxíng. (In daily life, sincerity is the most precious character trait.)"
+      "type_in_language": "Mingci",
+      "meaning": "Deep sorrow, grief, or heartbreak.",
+      "sentence1": "Tingdao zhege buxing de xiaoxi, tade xinli chongmanle beishang. (Upon hearing this tragic news, his heart was filled with grief.)",
+      "sentence2": "Suizhe shijian de liushi, nei fen nonglie de beishang zhongyu jianjian pingxi. (With the passage of time, that intense sorrow finally began to subside.)"
     },
     {
       "language": "Korean",
-      "word": "Noeul",
-      "meaning": "Glowing sunset or rosy clouds painted across the evening sky.",
+      "word": "Seulpeum",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Jeonyeok haneureul muldeurin noeuli cham areumdapda. (The glowing sunset staining the evening sky is truly beautiful.)",
-      "sentence2": "Uri neun noeul eul barabomyeo georeotda. (We walked while gazing at the rosy sunset clouds.)"
+      "meaning": "Sadness, sorrow, or grief.",
+      "sentence1": "Geu noraereul deureul ttaemada gamsamhan seulpeumi millyeoondeut haessda. (Every time I listened to that song, a delicate sadness seemed to wash over me.)",
+      "sentence2": "Ibyeorui seulpeumeul igyeonaegi wihae geuneun bappage ire yeoljungbaessda. (To overcome the sorrow of parting, he busied himself by immersing in work.)"
     },
     {
       "language": "Khmer",
-      "word": "Preah-arthit",
-      "meaning": "The sun, symbolizing light, warmth, and the daily wonder of life.",
+      "word": "Komheung",
       "type": "Noun",
-      "type_in_language": "Nouns",
-      "sentence1": "Preah-arthit l-ong lica pi leu knong pnoh. (The sun rises brightly from behind the trees.)",
-      "sentence2": "Phleang preah-arthit chha-laeng ban la-or nas. (The sunlight shines very beautifully.)"
+      "type_in_language": "Neam",
+      "meaning": "Anger, wrath, or indignation.",
+      "sentence1": "Komheung robaoh koat ban thveu aoy koat batbomborng stey. (His anger made him lose his self-control and composure.)",
+      "sentence2": "Neang ban kham somuot komheung knong chet daembei kom aoy mean reung thomm. (She tried hard to suppress the anger in her heart so as not to cause a bigger issue.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Sterrenag",
-      "meaning": "A starry night, evoking wonder at the vast cosmos above.",
+      "word": "Angs",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Ons het lank onder die sterrenag gesels. (We talked for a long time under the starry night.)",
-      "sentence2": "Die stilte van die sterrenag bring rus vir die siel. (The silence of the starry night brings peace to the soul.)"
+      "meaning": "Intense anxiety, dread, or anguish.",
+      "sentence1": "Die skielike geraas in die donker het hom met koue angs vervul. (The sudden noise in the dark filled him with cold dread.)",
+      "sentence2": "Sy het probeer om die knaende angs voor die belangrike eksamen te onderdruk. (She tried to suppress the gnawing anxiety before the important exam.)"
     }
   ]
 }
