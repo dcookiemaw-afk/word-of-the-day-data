@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Melancholy",
+      "word": "zephyr",
+      "meaning": "A soft, gentle breeze.",
       "type": "Noun",
-      "type_in_language": "Noun",
-      "meaning": "A feeling of pensive sadness, typically with no obvious cause.",
-      "sentence1": "An inexplicable melancholy descended upon him as autumn stripped the trees of their amber leaves. (An inexplicable melancholy descended upon him as autumn stripped the trees of their amber leaves.)",
-      "sentence2": "Her journal was filled with introspective musings and gentle melancholy. (Her journal was filled with introspective musings and gentle melancholy.)"
+      "type_in_language": "noun",
+      "sentence1": "A gentle zephyr rustled through the autumn leaves. (A gentle zephyr rustled through the autumn leaves.)",
+      "sentence2": "She felt a cool zephyr on her face as she walked in the garden. (She felt a cool zephyr on her face as she walked in the garden.)"
     },
     {
       "language": "Spanish",
-      "word": "Zozobra",
+      "word": "neblina",
+      "meaning": "A light fog or mist, especially one coming from the sea.",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "meaning": "A state of acute anxiety, unease, or inner turmoil.",
-      "sentence1": "La repentina noticia lleno su pecho de una profunda zozobra. (The sudden news filled his chest with deep anxiety.)",
-      "sentence2": "Esperaron el veredicto medico en medio de una constante zozobra. (They waited for the medical verdict in the midst of constant unease.)"
+      "type_in_language": "sustantivo",
+      "sentence1": "La neblina cubria las montañas al amanecer. (The mist covered the mountains at dawn.)",
+      "sentence2": "Con tanta neblina es difícil ver el camino. (With so much fog it is hard to see the road.)"
     },
     {
       "language": "French",
-      "word": "Desarroi",
+      "word": "bruine",
+      "meaning": "Light rain consisting of tiny drops.",
       "type": "Noun",
-      "type_in_language": "Nom masculin",
-      "meaning": "A state of helpless confusion, disorientation, or emotional disarray.",
-      "sentence1": "Elle ne put cacher son desarroi face a ce revirement inattendu. (She could not hide her distress in the face of this unexpected turn of events.)",
-      "sentence2": "Un sentiment de desarroi envahit la piece apres l annonce du depart. (A feeling of disarray overwhelmed the room after the departure was announced.)"
+      "type_in_language": "nom",
+      "sentence1": "Une fine bruine tombe sur la ville ce matin. (A fine drizzle is falling on the city this morning.)",
+      "sentence2": "Il aime marcher sous la bruine printanière. (He likes walking in the spring drizzle.)"
     },
     {
       "language": "German",
-      "word": "Fernweh",
+      "word": "morgenrot",
+      "meaning": "The red glow of the morning sky before sunrise.",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "meaning": "An ache or deep longing for distant and unexplored places.",
-      "sentence1": "Beim Betrachten der alten Weltkarte packte ihn plotzlich das Fernweh. (Looking at the old world map, he was suddenly seized by wanderlust and longing for distant lands.)",
-      "sentence2": "Ihr standiges Fernweh trieb sie dazu, jeden Sommer in unbekannte Lander zu reisen. (Her constant longing for distant places drove her to travel to unfamiliar countries every summer.)"
+      "type_in_language": "Nomen",
+      "sentence1": "Das prächtige Morgenrot kündigte einen schönen Tag an. (The magnificent morning red announced a fine day.)",
+      "sentence2": "Wir bewunderten das Morgenrot über den Bergen. (We admired the morning glow over the mountains.)"
     },
     {
       "language": "Japanese",
-      "word": "Sabishisa",
+      "word": "shinrin-yoku",
+      "meaning": "Immersing oneself in nature by quietly walking through a forest.",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "meaning": "The feeling of loneliness, solitude, or desolate sorrow.",
-      "sentence1": "Yuuhi ga shizumu toki, mune no oku ni fukai sabishisa o kanjiru. (When the sun sets, I feel a deep loneliness in the depths of my chest.)",
-      "sentence2": "Daremo inai heya ni modotta shunkan, kyuu ni sabishisa ga osotte kita. (The moment I returned to the empty room, loneliness suddenly swept over me.)"
+      "type_in_language": "meishi",
+      "sentence1": "週末に森林浴をしてリフレッシュしました。 (I went shinrin-yoku on the weekend and refreshed myself.)",
+      "sentence2": "森林浴は心身の健康にとても良いです。 (Shinrin-yoku is very good for physical and mental health.)"
     },
     {
       "language": "Italian",
-      "word": "Commozione",
+      "word": "rugiada",
+      "meaning": "Dew, moisture condensed from the air onto cool surfaces.",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "meaning": "A state of being deeply moved or touched with emotional tenderness.",
-      "sentence1": "Gli occhi del vecchio marinaio brillavano di commozione al ritorno del nipote. (The old sailor's eyes shone with deep emotion upon his grandson's return.)",
-      "sentence2": "La melodia straziante suscito una viva commozione in tutto il pubblico. (The poignant melody stirred profound emotion throughout the entire audience.)"
+      "type_in_language": "sostantivo",
+      "sentence1": "L'erba era coperta di rugiada fresca. (The grass was covered with fresh dew.)",
+      "sentence2": "Le gocce di rugiada brillavano al sole del mattino. (The dew drops shone in the morning sun.)"
     },
     {
       "language": "Chinese",
-      "word": "Beishang",
+      "word": "pinyin: chunxiao",
+      "meaning": "Spring morning.",
       "type": "Noun",
-      "type_in_language": "Mingci",
-      "meaning": "Deep sorrow, grief, or heartbreak.",
-      "sentence1": "Tingdao zhege buxing de xiaoxi, tade xinli chongmanle beishang. (Upon hearing this tragic news, his heart was filled with grief.)",
-      "sentence2": "Suizhe shijian de liushi, nei fen nonglie de beishang zhongyu jianjian pingxi. (With the passage of time, that intense sorrow finally began to subside.)"
+      "type_in_language": "mingci",
+      "sentence1": "Chunxiao de niao ming zhen shi yingting. (The bird songs of the spring morning are truly pleasant to hear.)",
+      "sentence2": "Zai zhege meihao de chunxiao, women qu paishan le. (On this beautiful spring morning, we went mountain climbing.)"
     },
     {
       "language": "Korean",
-      "word": "Seulpeum",
+      "word": "nok-eum",
+      "meaning": "Deep green foliage of summer trees.",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "meaning": "Sadness, sorrow, or grief.",
-      "sentence1": "Geu noraereul deureul ttaemada gamsamhan seulpeumi millyeoondeut haessda. (Every time I listened to that song, a delicate sadness seemed to wash over me.)",
-      "sentence2": "Ibyeorui seulpeumeul igyeonaegi wihae geuneun bappage ire yeoljungbaessda. (To overcome the sorrow of parting, he busied himself by immersing in work.)"
+      "type_in_language": "myeongsa",
+      "sentence1": "San-eul deop-eun nok-eum-iyeuro gamtan-i jeolro nanda. (One cannot help but admire the deep green foliage covering the mountain.)",
+      "sentence2": "여름 산의 녹음이 아주 싱그럽다. (Yeoreum san-ui nok-eum-i aju singgeureopda: The green foliage of the summer mountain is very fresh.)"
     },
     {
       "language": "Khmer",
-      "word": "Komheung",
+      "word": "pka",
+      "meaning": "Flower or blossom.",
       "type": "Noun",
-      "type_in_language": "Neam",
-      "meaning": "Anger, wrath, or indignation.",
-      "sentence1": "Komheung robaoh koat ban thveu aoy koat batbomborng stey. (His anger made him lose his self-control and composure.)",
-      "sentence2": "Neang ban kham somuot komheung knong chet daembei kom aoy mean reung thomm. (She tried hard to suppress the anger in her heart so as not to cause a bigger issue.)"
+      "type_in_language": "noun",
+      "sentence1": "Pka nis rik ban l'or nas. (This flower blooms very beautifully.)",
+      "sentence2": "Ko-mun ban ch'hkeanh pka ch'hvar. (Grandmother picked some jasmine flowers.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Angs",
+      "word": "donderweer",
+      "meaning": "Thunder and stormy weather.",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "meaning": "Intense anxiety, dread, or anguish.",
-      "sentence1": "Die skielike geraas in die donker het hom met koue angs vervul. (The sudden noise in the dark filled him with cold dread.)",
-      "sentence2": "Sy het probeer om die knaende angs voor die belangrike eksamen te onderdruk. (She tried to suppress the gnawing anxiety before the important exam.)"
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Die donderweer het gisteraand reg deur die nag aangehou. (The thunder continued right through the night last night.)",
+      "sentence2": "Ons kon die donderweer in die verte hoor dreun. (We could hear the thunder rumble in the distance.)"
     }
   ]
 }
