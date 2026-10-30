@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "zephyr",
-      "meaning": "A soft, gentle breeze.",
-      "type": "Noun",
-      "type_in_language": "noun",
-      "sentence1": "A gentle zephyr rustled through the autumn leaves. (A gentle zephyr rustled through the autumn leaves.)",
-      "sentence2": "She felt a cool zephyr on her face as she walked in the garden. (She felt a cool zephyr on her face as she walked in the garden.)"
+      "word": "Sidereal",
+      "meaning": "Of, relating to, or measured by the stars; astral.",
+      "type": "Adjective",
+      "type_in_language": "Adjective",
+      "sentence1": "Astronomers use sidereal time to track the true rotation of the Earth against distant celestial bodies. (Astronomers use sidereal time to track the true rotation of the Earth against distant celestial bodies.)",
+      "sentence2": "Lying awake beneath the open sky, she felt enveloped by a vast and ancient sidereal majesty. (Lying awake beneath the open sky, she felt enveloped by a vast and ancient sidereal majesty.)"
     },
     {
       "language": "Spanish",
-      "word": "neblina",
-      "meaning": "A light fog or mist, especially one coming from the sea.",
+      "word": "Quimera",
+      "meaning": "An illusion, fantasy, or impossible dream created by the imagination.",
       "type": "Noun",
-      "type_in_language": "sustantivo",
-      "sentence1": "La neblina cubria las montañas al amanecer. (The mist covered the mountains at dawn.)",
-      "sentence2": "Con tanta neblina es difícil ver el camino. (With so much fog it is hard to see the road.)"
+      "type_in_language": "Sustantivo",
+      "sentence1": "Bajo la luz de las estrellas, aquel viejo anhelo parecia menos una quimera y mas un destino posible. (Under the starlight, that old yearning seemed less like an impossible dream and more like a possible destiny.)",
+      "sentence2": "El poeta transformo cada desvelo en una hermosa quimera tejida con destellos celestiales. (The poet transformed each sleepless night into a beautiful fantasy woven with celestial sparkles.)"
     },
     {
       "language": "French",
-      "word": "bruine",
-      "meaning": "Light rain consisting of tiny drops.",
+      "word": "Songe",
+      "meaning": "A dream or visionary reverie occurring during sleep or deep contemplation.",
       "type": "Noun",
-      "type_in_language": "nom",
-      "sentence1": "Une fine bruine tombe sur la ville ce matin. (A fine drizzle is falling on the city this morning.)",
-      "sentence2": "Il aime marcher sous la bruine printanière. (He likes walking in the spring drizzle.)"
+      "type_in_language": "Nom masculin",
+      "sentence1": "Perdu dans un doux songe, il contemplait les constellations scintiller a travers sa fenetre. (Lost in a sweet dream, he watched the constellations sparkle through his window.)",
+      "sentence2": "La nuit etoilee berce l'esprit et donne naissance a un songe enchanteur. (The starry night cradles the spirit and gives birth to an enchanting dream.)"
     },
     {
       "language": "German",
-      "word": "morgenrot",
-      "meaning": "The red glow of the morning sky before sunrise.",
+      "word": "Sternenhimmel",
+      "meaning": "The starry sky or celestial firmament glittering with stars.",
       "type": "Noun",
-      "type_in_language": "Nomen",
-      "sentence1": "Das prächtige Morgenrot kündigte einen schönen Tag an. (The magnificent morning red announced a fine day.)",
-      "sentence2": "Wir bewunderten das Morgenrot über den Bergen. (We admired the morning glow over the mountains.)"
+      "type_in_language": "Substantiv",
+      "sentence1": "In kalten, klaren Winternachten leuchtet der Sternenhimmel mit unvergleichlicher Pracht. (On cold, clear winter nights, the starry sky shines with incomparable splendor.)",
+      "sentence2": "Wir lagen stundenlang im feuchten Gras und trauamten unter dem endlosen Sternenhimmel. (We lay for hours in the damp grass and dreamed beneath the endless starry sky.)"
     },
     {
       "language": "Japanese",
-      "word": "shinrin-yoku",
-      "meaning": "Immersing oneself in nature by quietly walking through a forest.",
+      "word": "Hoshizora",
+      "meaning": "The night sky filled with glowing stars; a starry firmament.",
       "type": "Noun",
-      "type_in_language": "meishi",
-      "sentence1": "週末に森林浴をしてリフレッシュしました。 (I went shinrin-yoku on the weekend and refreshed myself.)",
-      "sentence2": "森林浴は心身の健康にとても良いです。 (Shinrin-yoku is very good for physical and mental health.)"
+      "type_in_language": "Meishi",
+      "sentence1": "Shizuka na yoru ni hoshizora wo miagete, haruka na mirai ni omoi wo haseru. (Looking up at the starry sky on a quiet night, I let my thoughts wander to the distant future.)",
+      "sentence2": "Kousou biru no akari ga kietemo, hoshizora wa yasashiku machi wo terashite iru. (Even when the high-rise lights fade, the starry sky gently illuminates the town.)"
     },
     {
       "language": "Italian",
-      "word": "rugiada",
-      "meaning": "Dew, moisture condensed from the air onto cool surfaces.",
+      "word": "Sogno",
+      "meaning": "A dream, vision of sleep, or treasured aspiration.",
       "type": "Noun",
-      "type_in_language": "sostantivo",
-      "sentence1": "L'erba era coperta di rugiada fresca. (The grass was covered with fresh dew.)",
-      "sentence2": "Le gocce di rugiada brillavano al sole del mattino. (The dew drops shone in the morning sun.)"
+      "type_in_language": "Sostantivo",
+      "sentence1": "Ogni raggio di luna sembrava intrecciare un nuovo sogno nel silenzio della notte. (Every ray of moonlight seemed to weave a new dream into the silence of the night.)",
+      "sentence2": "Guardando il bagliore lontano delle stelle, si lascio cullare da un dolce sogno d'amore. (Gazing at the distant gleam of the stars, he let himself be lulled by a sweet dream of love.)"
     },
     {
       "language": "Chinese",
-      "word": "pinyin: chunxiao",
-      "meaning": "Spring morning.",
+      "word": "Xingkong",
+      "meaning": "The starry night sky or celestial sphere filled with twinkling stars.",
       "type": "Noun",
-      "type_in_language": "mingci",
-      "sentence1": "Chunxiao de niao ming zhen shi yingting. (The bird songs of the spring morning are truly pleasant to hear.)",
-      "sentence2": "Zai zhege meihao de chunxiao, women qu paishan le. (On this beautiful spring morning, we went mountain climbing.)"
+      "type_in_language": "Mingci",
+      "sentence1": "Yuanli chengshi de xuanchao, women yiqi yangwang na pian canlan de xingkong. (Far away from the city's clamor, we looked up together at that radiant starry sky.)",
+      "sentence2": "Haohan de xingkong geile wu shu mengxiangzhe wuxian de qifa yu weiji. (The boundless starry sky has given countless dreamers infinite inspiration and solace.)"
     },
     {
       "language": "Korean",
-      "word": "nok-eum",
-      "meaning": "Deep green foliage of summer trees.",
+      "word": "Monghwan",
+      "meaning": "A dreamlike state, illusion, or enchanting ethereal reverie.",
       "type": "Noun",
-      "type_in_language": "myeongsa",
-      "sentence1": "San-eul deop-eun nok-eum-iyeuro gamtan-i jeolro nanda. (One cannot help but admire the deep green foliage covering the mountain.)",
-      "sentence2": "여름 산의 녹음이 아주 싱그럽다. (Yeoreum san-ui nok-eum-i aju singgeureopda: The green foliage of the summer mountain is very fresh.)"
+      "type_in_language": "Myeongsa",
+      "sentence1": "Bamhaneureul gadeuk chaeun byeoldeuri monghwan jeogin bunwigireul mandeureonaetda. (The stars filling the night sky created a dreamlike and magical atmosphere.)",
+      "sentence2": "Geu pureun bichui haneureun machi kkumgwa gateun monghwan sok euro urireul ikkeuleotda. (That blue-lit sky drew us into an ethereal dreamlike state.)"
     },
     {
       "language": "Khmer",
-      "word": "pka",
-      "meaning": "Flower or blossom.",
-      "type": "Noun",
-      "type_in_language": "noun",
-      "sentence1": "Pka nis rik ban l'or nas. (This flower blooms very beautifully.)",
-      "sentence2": "Ko-mun ban ch'hkeanh pka ch'hvar. (Grandmother picked some jasmine flowers.)"
+      "word": "Sromai",
+      "meaning": "To dream, daydream, envision, or contemplate fancifully.",
+      "type": "Verb",
+      "type_in_language": "Kiriya sap",
+      "sentence1": "Neang cholchet sromai ampi veasna pel merl pkay prap-prip neu reatrey. (She loves to dream about destiny while watching the stars twinkle at night.)",
+      "sentence2": "Khnhom taeng-tae sromai thngai muoy nung ach thveu damnaer tov kan pkay leeu mekh. (I always dream that one day I will be able to travel to the stars in the sky.)"
     },
     {
       "language": "Afrikaans",
-      "word": "donderweer",
-      "meaning": "Thunder and stormy weather.",
+      "word": "Droom",
+      "meaning": "A nocturnal dream, visionary reverie, or deep yearning aspiration.",
       "type": "Noun",
-      "type_in_language": "selfstandige naamwoord",
-      "sentence1": "Die donderweer het gisteraand reg deur die nag aangehou. (The thunder continued right through the night last night.)",
-      "sentence2": "Ons kon die donderweer in die verte hoor dreun. (We could hear the thunder rumble in the distance.)"
+      "type_in_language": "Selfstandige naamwoord",
+      "sentence1": "Die stil nag bring altyd 'n soet droom van hoop en vrede saam. (The quiet night always brings a sweet dream of hope and peace.)",
+      "sentence2": "Terwyl sy na die glinsterende hemel kyk, koester sy elke geheime droom in haar hart. (While she gazes at the glistening sky, she cherishes every secret dream in her heart.)"
     }
   ]
 }
