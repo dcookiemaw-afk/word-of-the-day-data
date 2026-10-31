@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Sidereal",
-      "meaning": "Of, relating to, or measured by the stars; astral.",
-      "type": "Adjective",
-      "type_in_language": "Adjective",
-      "sentence1": "Astronomers use sidereal time to track the true rotation of the Earth against distant celestial bodies. (Astronomers use sidereal time to track the true rotation of the Earth against distant celestial bodies.)",
-      "sentence2": "Lying awake beneath the open sky, she felt enveloped by a vast and ancient sidereal majesty. (Lying awake beneath the open sky, she felt enveloped by a vast and ancient sidereal majesty.)"
+      "word": "Fortitude",
+      "meaning": "Courage in pain or adversity",
+      "type": "Noun",
+      "type_in_language": "noun",
+      "sentence1": "She showed remarkable fortitude during her difficult recovery. (She showed remarkable fortitude during her difficult recovery.)",
+      "sentence2": "His quiet fortitude inspired everyone on the team. (His quiet fortitude inspired everyone on the team.)"
     },
     {
       "language": "Spanish",
-      "word": "Quimera",
-      "meaning": "An illusion, fantasy, or impossible dream created by the imagination.",
+      "word": "Aliento",
+      "meaning": "Breath, encouragement, or inspiration",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "sentence1": "Bajo la luz de las estrellas, aquel viejo anhelo parecia menos una quimera y mas un destino posible. (Under the starlight, that old yearning seemed less like an impossible dream and more like a possible destiny.)",
-      "sentence2": "El poeta transformo cada desvelo en una hermosa quimera tejida con destellos celestiales. (The poet transformed each sleepless night into a beautiful fantasy woven with celestial sparkles.)"
+      "type_in_language": "sustantivo",
+      "sentence1": "Sus palabras fueron de gran aliento para nosotros. (His words were a great encouragement to us.)",
+      "sentence2": "Necesito un poco de aliento antes de la competencia. (I need a little encouragement before the competition.)"
     },
     {
       "language": "French",
-      "word": "Songe",
-      "meaning": "A dream or visionary reverie occurring during sleep or deep contemplation.",
+      "word": "Audace",
+      "meaning": "Boldness or daring, willingness to take bold risks",
       "type": "Noun",
-      "type_in_language": "Nom masculin",
-      "sentence1": "Perdu dans un doux songe, il contemplait les constellations scintiller a travers sa fenetre. (Lost in a sweet dream, he watched the constellations sparkle through his window.)",
-      "sentence2": "La nuit etoilee berce l'esprit et donne naissance a un songe enchanteur. (The starry night cradles the spirit and gives birth to an enchanting dream.)"
+      "type_in_language": "nom",
+      "sentence1": "Il a fallu beaucoup d'audace pour mener à bien ce projet. (It took a lot of boldness to successfully carry out this project.)",
+      "sentence2": "Son audace naturelle le pousse toujours vers de nouveaux défis. (His natural daring always pushes him toward new challenges.)"
     },
     {
       "language": "German",
-      "word": "Sternenhimmel",
-      "meaning": "The starry sky or celestial firmament glittering with stars.",
+      "word": "Zuversicht",
+      "meaning": "Confidence, optimism, and inner inspiration",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "sentence1": "In kalten, klaren Winternachten leuchtet der Sternenhimmel mit unvergleichlicher Pracht. (On cold, clear winter nights, the starry sky shines with incomparable splendor.)",
-      "sentence2": "Wir lagen stundenlang im feuchten Gras und trauamten unter dem endlosen Sternenhimmel. (We lay for hours in the damp grass and dreamed beneath the endless starry sky.)"
+      "type_in_language": "Nomen",
+      "sentence1": "Sie blickt mit großer Zuversicht in die Zukunft. (She looks into the future with great confidence.)",
+      "sentence2": "Seine Worte gaben uns neue Zuversicht. (His words gave us new optimism.)"
     },
     {
       "language": "Japanese",
-      "word": "Hoshizora",
-      "meaning": "The night sky filled with glowing stars; a starry firmament.",
+      "word": "Yūki",
+      "meaning": "Courage or bravery",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "sentence1": "Shizuka na yoru ni hoshizora wo miagete, haruka na mirai ni omoi wo haseru. (Looking up at the starry sky on a quiet night, I let my thoughts wander to the distant future.)",
-      "sentence2": "Kousou biru no akari ga kietemo, hoshizora wa yasashiku machi wo terashite iru. (Even when the high-rise lights fade, the starry sky gently illuminates the town.)"
+      "type_in_language": "meishi",
+      "sentence1": "Kare wa kowai mono shirazu no yūki o motte iru. (He has the courage of someone who knows no fear.)",
+      "sentence2": "Sono shitsumon o suru no ni wa takusan no yūki ga irimashita. (It took a lot of courage to ask that question.)"
     },
     {
       "language": "Italian",
-      "word": "Sogno",
-      "meaning": "A dream, vision of sleep, or treasured aspiration.",
+      "word": "Ardire",
+      "meaning": "Daring, boldness, or the courage to venture",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "sentence1": "Ogni raggio di luna sembrava intrecciare un nuovo sogno nel silenzio della notte. (Every ray of moonlight seemed to weave a new dream into the silence of the night.)",
-      "sentence2": "Guardando il bagliore lontano delle stelle, si lascio cullare da un dolce sogno d'amore. (Gazing at the distant gleam of the stars, he let himself be lulled by a sweet dream of love.)"
+      "type_in_language": "sostantivo",
+      "sentence1": "Ci vuole grande ardire per affrontare simili sfide. (It takes great daring to face such challenges.)",
+      "sentence2": "Il suo ardire ha sorpreso tutti i presenti. (His boldness surprised everyone present.)"
     },
     {
       "language": "Chinese",
-      "word": "Xingkong",
-      "meaning": "The starry night sky or celestial sphere filled with twinkling stars.",
-      "type": "Noun",
-      "type_in_language": "Mingci",
-      "sentence1": "Yuanli chengshi de xuanchao, women yiqi yangwang na pian canlan de xingkong. (Far away from the city's clamor, we looked up together at that radiant starry sky.)",
-      "sentence2": "Haohan de xingkong geile wu shu mengxiangzhe wuxian de qifa yu weiji. (The boundless starry sky has given countless dreamers infinite inspiration and solace.)"
+      "word": "Gǔwǔ",
+      "meaning": "To inspire, encourage, or rouse to action",
+      "type": "Verb",
+      "type_in_language": "dòngcí",
+      "sentence1": "Lǎoshī dehuà gǔwǔ le měi yīge xuéshēng. (The teacher's words inspired every single student.)",
+      "sentence2": "Wǒmen yīnggāi zài kùnnán shí hùxiāng gǔwǔ. (We should encourage each other during difficult times.)"
     },
     {
       "language": "Korean",
-      "word": "Monghwan",
-      "meaning": "A dreamlike state, illusion, or enchanting ethereal reverie.",
+      "word": "Yonggi",
+      "meaning": "Courage or bravery",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "sentence1": "Bamhaneureul gadeuk chaeun byeoldeuri monghwan jeogin bunwigireul mandeureonaetda. (The stars filling the night sky created a dreamlike and magical atmosphere.)",
-      "sentence2": "Geu pureun bichui haneureun machi kkumgwa gateun monghwan sok euro urireul ikkeuleotda. (That blue-lit sky drew us into an ethereal dreamlike state.)"
+      "type_in_language": "myeongsa",
+      "sentence1": "Geuneun jinshilmaleul malhal yonggiga isseotda. (He had the courage to tell the truth.)",
+      "sentence2": "Silpaereul duryeowohaji malgo yonggireul gajeyo. (Don't be afraid of failure, have courage.)"
     },
     {
       "language": "Khmer",
-      "word": "Sromai",
-      "meaning": "To dream, daydream, envision, or contemplate fancifully.",
-      "type": "Verb",
-      "type_in_language": "Kiriya sap",
-      "sentence1": "Neang cholchet sromai ampi veasna pel merl pkay prap-prip neu reatrey. (She loves to dream about destiny while watching the stars twinkle at night.)",
-      "sentence2": "Khnhom taeng-tae sromai thngai muoy nung ach thveu damnaer tov kan pkay leeu mekh. (I always dream that one day I will be able to travel to the stars in the sky.)"
+      "word": "Chำrean",
+      "meaning": "Confidence and inspiration to move forward",
+      "type": "Noun",
+      "type_in_language": "nam",
+      "sentence1": "Ke ban menh chanh kar bhayklach tov kan kar tuts ov. (He gained the inspiration to face his fears.)",
+      "sentence2": "Sarkhloek nis ban dael aoy kar tuts ov pit pracot. (This expression gave true inspiration.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Droom",
-      "meaning": "A nocturnal dream, visionary reverie, or deep yearning aspiration.",
+      "word": "Moed",
+      "meaning": "Courage, bravery, or heart",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Die stil nag bring altyd 'n soet droom van hoop en vrede saam. (The quiet night always brings a sweet dream of hope and peace.)",
-      "sentence2": "Terwyl sy na die glinsterende hemel kyk, koester sy elke geheime droom in haar hart. (While she gazes at the glistening sky, she cherishes every secret dream in her heart.)"
+      "type_in_language": "selfstandige naamwoord",
+      "sentence1": "Jy moet moed hou in moeilike tye. (You must keep your courage up in difficult times.)",
+      "sentence2": "Sy het die moed gehad om die waarheid te praat. (She had the courage to speak the truth.)"
     }
   ]
 }
