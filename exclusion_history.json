@@ -22,7 +22,8 @@
     "Melancholy",
     "zephyr",
     "Sidereal",
-    "Fortitude"
+    "Fortitude",
+    "Fructification"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -47,7 +48,8 @@
     "Angs",
     "donderweer",
     "Droom",
-    "Moed"
+    "Moed",
+    "Vrugbaarheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -72,7 +74,8 @@
     "Zozobra",
     "neblina",
     "Quimera",
-    "Aliento"
+    "Aliento",
+    "Jubileo"
   ],
   "French": [
     "Magnifique",
@@ -97,7 +100,8 @@
     "Desarroi",
     "bruine",
     "Songe",
-    "Audace"
+    "Audace",
+    "Enivrement"
   ],
   "German": [
     "Wunderbar",
@@ -122,7 +126,8 @@
     "Fernweh",
     "morgenrot",
     "Sternenhimmel",
-    "Zuversicht"
+    "Zuversicht",
+    "Erntefreude"
   ],
   "Japanese": [
     "Komorebi",
@@ -147,7 +152,8 @@
     "Sabishisa",
     "shinrin-yoku",
     "Hoshizora",
-    "Yūki"
+    "Yūki",
+    "Houjyou"
   ],
   "Italian": [
     "Speranza",
@@ -196,7 +202,8 @@
     "Beishang",
     "pinyin: chunxiao",
     "Xingkong",
-    "Gǔwǔ"
+    "Gǔwǔ",
+    "Xǐqì"
   ],
   "Korean": [
     "Haengbok",
@@ -221,7 +228,8 @@
     "Seulpeum",
     "nok-eum",
     "Monghwan",
-    "Yonggi"
+    "Yonggi",
+    "Bokchae"
   ],
   "Khmer": [
     "Sro-noh",
@@ -246,6 +254,7 @@
     "Komheung",
     "pka",
     "Sromai",
-    "Chำrean"
+    "Chำrean",
+    "Saksit"
   ]
 }
