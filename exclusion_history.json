@@ -23,7 +23,8 @@
     "zephyr",
     "Sidereal",
     "Fortitude",
-    "Fructification"
+    "Fructification",
+    "Wonderment"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -49,7 +50,8 @@
     "donderweer",
     "Droom",
     "Moed",
-    "Vrugbaarheid"
+    "Vrugbaarheid",
+    "Verwondering"
   ],
   "Spanish": [
     "Esperanza",
@@ -75,7 +77,8 @@
     "neblina",
     "Quimera",
     "Aliento",
-    "Jubileo"
+    "Jubileo",
+    "Asombro"
   ],
   "French": [
     "Magnifique",
@@ -101,7 +104,8 @@
     "bruine",
     "Songe",
     "Audace",
-    "Enivrement"
+    "Enivrement",
+    "Etonnement"
   ],
   "German": [
     "Wunderbar",
@@ -127,7 +131,8 @@
     "morgenrot",
     "Sternenhimmel",
     "Zuversicht",
-    "Erntefreude"
+    "Erntefreude",
+    "Staunen"
   ],
   "Japanese": [
     "Komorebi",
@@ -153,7 +158,8 @@
     "shinrin-yoku",
     "Hoshizora",
     "Yūki",
-    "Houjyou"
+    "Houjyou",
+    "Hidamari"
   ],
   "Italian": [
     "Speranza",
@@ -177,7 +183,8 @@
     "Commozione",
     "rugiada",
     "Sogno",
-    "Ardire"
+    "Ardire",
+    "Stupore"
   ],
   "Chinese": [
     "Xìngfú",
@@ -203,7 +210,8 @@
     "pinyin: chunxiao",
     "Xingkong",
     "Gǔwǔ",
-    "Xǐqì"
+    "Xǐqì",
+    "Jingqi"
   ],
   "Korean": [
     "Haengbok",
@@ -229,7 +237,8 @@
     "nok-eum",
     "Monghwan",
     "Yonggi",
-    "Bokchae"
+    "Bokchae",
+    "Gyeong-i"
   ],
   "Khmer": [
     "Sro-noh",
@@ -255,6 +264,7 @@
     "pka",
     "Sromai",
     "Chำrean",
-    "Saksit"
+    "Saksit",
+    "Aschar"
   ]
 }
