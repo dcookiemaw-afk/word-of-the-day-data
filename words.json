@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Wonderment",
-      "meaning": "A state of awed admiration, curiosity, or surprise sparked by everyday marvels.",
+      "word": "Resilience",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "She looked at the golden morning light filtering through the kitchen window with quiet wonderment. (She looked at the golden morning light filtering through the kitchen window with quiet wonderment.)",
-      "sentence2": "A child can turn an ordinary garden snail into a source of infinite wonderment. (A child can turn an ordinary garden snail into a source of infinite wonderment.)"
+      "meaning": "The capacity to recover quickly from difficulties; toughness.",
+      "sentence1": "Her resilience during the crisis inspired everyone around her.",
+      "sentence2": "True resilience comes from facing challenges head-on with an open heart."
     },
     {
       "language": "Spanish",
-      "word": "Asombro",
-      "meaning": "A feeling of deep wonder, awe, or astonishment at something unexpected.",
+      "word": "Valentía",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "Los ninos contemplaban con asombro como caia la primera nieve en la calle. (The children watched with wonder as the first snow fell on the street.)",
-      "sentence2": "El asombro de las pequenas cosas cotidianas llena el corazon de paz. (The wonder of small everyday things fills the heart with peace.)"
+      "meaning": "The quality of mind or spirit that enables a person to face difficulty, danger, or pain without fear; bravery.",
+      "sentence1": "Su valentía en el escenario fue una verdadera inspiración para los jóvenes artistas. (Her bravery on stage was a true inspiration for the young artists.)",
+      "sentence2": "Se necesita mucha valentía para decir la verdad en momentos difíciles. (It takes a lot of courage to tell the truth in difficult times.)"
     },
     {
       "language": "French",
-      "word": "Etonnement",
-      "meaning": "A sense of astonishment, marvel, or pleasant surprise found in life's occurrences.",
+      "word": "Courage",
       "type": "Noun",
-      "type_in_language": "Nom masculin",
-      "sentence1": "Il regardait les rues humides apres l'orage avec un doux etonnement. (He looked at the damp streets after the storm with a gentle sense of wonder.)",
-      "sentence2": "Retrouver la capacite d'etonnement transforme une journee ordinaire en aventure. (Rediscovering the capacity for wonder transforms an ordinary day into an adventure.)"
+      "type_in_language": "Nom",
+      "meaning": "The ability to do something that frightens one; bravery.",
+      "sentence1": "Il a eu le courage de poursuivre ses rêves malgré les obstacles. (He had the courage to pursue his dreams despite the obstacles.)",
+      "sentence2": "Cette belle histoire m'a redonné le courage d'avancer. (This beautiful story gave me the courage to move forward again.)"
     },
     {
       "language": "German",
-      "word": "Staunen",
-      "meaning": "The act or state of marveling and feeling wonder at the simple reality of life.",
+      "word": "Tapferkeit",
       "type": "Noun",
-      "type_in_language": "Substantiv",
-      "sentence1": "Sie blieb voller Staunen vor dem alten Baum im Stadtpark stehen. (She stopped full of wonder in front of the old tree in the city park.)",
-      "sentence2": "Das tagliche Staunen uber kleine Wunder erhellt die dunklen Tage. (Daily wonder at small miracles brightens dark days.)"
+      "type_in_language": "Nomen",
+      "meaning": "Bravery or valor in the face of adversity.",
+      "sentence1": "Seine Tapferkeit in dieser schweren Zeit diente allen als Inspiration. (His bravery during this difficult time served as an inspiration to everyone.)",
+      "sentence2": "Wir bewundern die Tapferkeit der Freiwilligen. (We admire the courage of the volunteers.)"
     },
     {
       "language": "Japanese",
-      "word": "Hidamari",
-      "meaning": "A sunny spot or sun-warmed pocket, evoking the cozy, quiet wonder of ordinary afternoons.",
+      "word": "Funtou",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Neko ga engawa no hidamari de kimochiyosa sou ni nemutte iru. (The cat is sleeping comfortably in the sunny spot on the veranda.)",
-      "sentence2": "Fuyu no hidamari ni iru to, nichijou no arigatasa o kanjiru. (Being in a winter sun pocket makes one feel the grateful wonder of everyday life.)"
+      "meaning": "Hard struggle, strenuous effort, or fighting spirit.",
+      "sentence1": "Kare no funtou wa watashitachi ni fukai yuuki o ataeta. (His strenuous effort gave us deep courage.)",
+      "sentence2": "Sono funtou ga tsugi no kibo o umidashita. (That hard struggle created the next hope.)"
     },
     {
       "language": "Italian",
-      "word": "Stupore",
-      "meaning": "A feeling of awe, enchantment, or breathless wonder before the beauty of the world.",
+      "word": "Valore",
       "type": "Noun",
-      "type_in_language": "Sostantivo maschile",
-      "sentence1": "Il silenzio della citta all'alba suscita sempre un profondo stupore. (The silence of the city at dawn always awakens deep wonder.)",
-      "sentence2": "Guardava con stupore il vapore che saliva dalla tazza di caffe. (She watched with wonder as steam rose from the cup of coffee.)"
+      "type_in_language": "Nome",
+      "meaning": "Courage, bravery, or moral worth and excellence.",
+      "sentence1": "Il suo alto valore morale è fonte di grande ispirazione. (His high moral courage is a source of great inspiration.)",
+      "sentence2": "Ci vuole molto valore per difendere le proprie idee. (It takes a lot of courage to stand up for one's ideas.)"
     },
     {
       "language": "Chinese",
-      "word": "Jingqi",
-      "meaning": "Wonder, marvel, or pleasant surprise at discovering beauty in the familiar.",
-      "type": "Noun",
-      "type_in_language": "Mingci",
-      "sentence1": "Tade yanjing li shanshuozhe dui zhege shijie de jingqi. (Her eyes sparkled with wonder towards this world.)",
-      "sentence2": "Pingdan de shenghuo li yirang chongman le lingren gandong de jingqi. (Ordinary daily life is still full of touching wonders.)"
+      "word": "Yǒnggǎn",
+      "type": "Adjective",
+      "type_in_language": "Xíngróngcí",
+      "meaning": "Brave, courageous, or fearless.",
+      "sentence1": "Tā yǒnggǎn de xíngwéi gǔwǔ le zài chǎng de měi yí gè rén. (His courageous actions inspired everyone present.)",
+      "sentence2": "Zuò yí gè yǒnggǎn de rén, qù zhuīqiú nǐ de mèngxiǎng. (Be a courageous person and pursue your dreams.)"
     },
     {
       "language": "Korean",
-      "word": "Gyeong-i",
-      "meaning": "Wonder, marvel, or miraculous awe found in existence and surrounding nature.",
+      "word": "Daedamham",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Maeil tteoneun aetchim haessal-eun saeroun gyeong-i-reul seonmulhanda. (The morning sunlight rising every day gifts a fresh sense of wonder.)",
-      "sentence2": "Sosohan ilsang sog-eseo gyeong-i-reul balgyeonhaneun maeum-i sojung-hada. (The heart that discovers wonder in humble daily life is truly precious.)"
+      "meaning": "Boldness, daring, or great courage.",
+      "sentence1": "Geuui daedamham-eun modu-ege kkeunjinhan gamdong-eul ju-eotda. (His boldness gave everyone a deep touching inspiration.)",
+      "sentence2": "Eoryeoun sanghwangeseo dojeonhaneun daedamham-i pillyohada. (Boldness to challenge oneself in a difficult situation is necessary.)"
     },
     {
       "language": "Khmer",
-      "word": "Aschar",
-      "meaning": "Wondrous, marvelous, or astonishing; evoking a sudden sense of admiration.",
-      "type": "Adjective",
-      "type_in_language": "Kuna neam",
-      "sentence1": "Pheap sngop-ngat nei pel preuk ku pit chea aschar nas. (The stillness of the morning is truly wondrous.)",
-      "sentence2": "Kruo-sa neng mitt-pheak thveu aoy chivit thngai nih mian pheap aschar. (Family and friends make life today full of wonder.)"
+      "word": "Visak",
+      "type": "Noun",
+      "type_in_language": "Nam",
+      "meaning": "Energy, vigor, or heroic effort and inspiration.",
+      "sentence1": "Komnot nis ban pleng visak sampeah jivit thmey. (This writing sparked the courage to greet a new life.)",
+      "sentence2": "Tae trev kar visak pel jesprabang kapos. (One needs courage when facing obstacles.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Verwondering",
-      "meaning": "Amazement, awe, or wonder felt when beholding the richness of daily existence.",
+      "word": "Dapperheid",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Hy het met groot verwondering gekyk hoe die blomme in die oggend oopgaan. (He watched with great wonder as the flowers opened in the morning.)",
-      "sentence2": "Om die lewe met verwondering te benader maak elke oomblik kosbaar. (Approaching life with wonder makes every moment precious.)"
+      "meaning": "Bravery, courage, or fearless spirit.",
+      "sentence1": "Sy dapperheid in die aangesig van gevaar het ons almal geïnspireer. (His bravery in the face of danger inspired us all.)",
+      "sentence2": "Met onbeskryflike dapperheid het hy sy doel bereik. (With indescribable courage he reached his goal.)"
     }
   ]
 }
