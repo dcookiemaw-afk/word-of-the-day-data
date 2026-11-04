@@ -25,7 +25,8 @@
     "Fortitude",
     "Fructification",
     "Wonderment",
-    "Resilience"
+    "Resilience",
+    "Veritas"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -53,7 +54,8 @@
     "Moed",
     "Vrugbaarheid",
     "Verwondering",
-    "Dapperheid"
+    "Dapperheid",
+    "Bewussyn"
   ],
   "Spanish": [
     "Esperanza",
@@ -81,7 +83,8 @@
     "Aliento",
     "Jubileo",
     "Asombro",
-    "Valentía"
+    "Valentía",
+    "Entendimiento"
   ],
   "French": [
     "Magnifique",
@@ -109,7 +112,8 @@
     "Audace",
     "Enivrement",
     "Etonnement",
-    "Courage"
+    "Courage",
+    "Conscience"
   ],
   "German": [
     "Wunderbar",
@@ -137,7 +141,8 @@
     "Zuversicht",
     "Erntefreude",
     "Staunen",
-    "Tapferkeit"
+    "Tapferkeit",
+    "Erkenntnis"
   ],
   "Japanese": [
     "Komorebi",
@@ -165,7 +170,8 @@
     "Yūki",
     "Houjyou",
     "Hidamari",
-    "Funtou"
+    "Funtou",
+    "Makoto"
   ],
   "Italian": [
     "Speranza",
@@ -191,7 +197,8 @@
     "Sogno",
     "Ardire",
     "Stupore",
-    "Valore"
+    "Valore",
+    "Discernimento"
   ],
   "Chinese": [
     "Xìngfú",
@@ -219,7 +226,8 @@
     "Gǔwǔ",
     "Xǐqì",
     "Jingqi",
-    "Yǒnggǎn"
+    "Yǒnggǎn",
+    "Zhenyuan"
   ],
   "Korean": [
     "Haengbok",
@@ -247,7 +255,8 @@
     "Yonggi",
     "Bokchae",
     "Gyeong-i",
-    "Daedamham"
+    "Daedamham",
+    "Ichae"
   ],
   "Khmer": [
     "Sro-noh",
@@ -275,6 +284,7 @@
     "Chำrean",
     "Saksit",
     "Aschar",
-    "Visak"
+    "Visak",
+    "Sadhuthea"
   ]
 }

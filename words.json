@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Resilience",
+      "word": "Veritas",
+      "meaning": "Truth, particularly as the fundamental basis for philosophical inquiry and moral integrity.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "meaning": "The capacity to recover quickly from difficulties; toughness.",
-      "sentence1": "Her resilience during the crisis inspired everyone around her.",
-      "sentence2": "True resilience comes from facing challenges head-on with an open heart."
+      "sentence1": "Veritas remains the ultimate pursuit of every dedicated philosopher.",
+      "sentence2": "She dedicated her entire life to uncovering the veritas behind human existence."
     },
     {
       "language": "Spanish",
-      "word": "Valentía",
+      "word": "Entendimiento",
+      "meaning": "Understanding or intellect; the capacity for comprehending deep truths and philosophical concepts.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "meaning": "The quality of mind or spirit that enables a person to face difficulty, danger, or pain without fear; bravery.",
-      "sentence1": "Su valentía en el escenario fue una verdadera inspiración para los jóvenes artistas. (Her bravery on stage was a true inspiration for the young artists.)",
-      "sentence2": "Se necesita mucha valentía para decir la verdad en momentos difíciles. (It takes a lot of courage to tell the truth in difficult times.)"
+      "sentence1": "El entendimiento humano es vasto y lleno de misterios.",
+      "sentence2": "Busca siempre el entendimiento antes de emitir un juicio."
     },
     {
       "language": "French",
-      "word": "Courage",
+      "word": "Conscience",
+      "meaning": "Consciousness or awareness; the state of perceiving one's existence and moral standing.",
       "type": "Noun",
       "type_in_language": "Nom",
-      "meaning": "The ability to do something that frightens one; bravery.",
-      "sentence1": "Il a eu le courage de poursuivre ses rêves malgré les obstacles. (He had the courage to pursue his dreams despite the obstacles.)",
-      "sentence2": "Cette belle histoire m'a redonné le courage d'avancer. (This beautiful story gave me the courage to move forward again.)"
+      "sentence1": "La conscience guide nos choix moraux au quotidien.",
+      "sentence2": "Il a une profonde conscience de la fragilité de la vie."
     },
     {
       "language": "German",
-      "word": "Tapferkeit",
+      "word": "Erkenntnis",
+      "meaning": "Realization, insight, or cognitive cognition resulting from deep contemplation.",
       "type": "Noun",
-      "type_in_language": "Nomen",
-      "meaning": "Bravery or valor in the face of adversity.",
-      "sentence1": "Seine Tapferkeit in dieser schweren Zeit diente allen als Inspiration. (His bravery during this difficult time served as an inspiration to everyone.)",
-      "sentence2": "Wir bewundern die Tapferkeit der Freiwilligen. (We admire the courage of the volunteers.)"
+      "type_in_language": "Substantiv",
+      "sentence1": "Diese Erkenntnis veränderte seine Sicht auf das Leben komplett.",
+      "sentence2": "Wissenschaftliche Erkenntnis erfordert Geduld und harte Arbeit."
     },
     {
       "language": "Japanese",
-      "word": "Funtou",
+      "word": "Makoto",
+      "meaning": "Sincerity, truth, or genuine devotion, reflecting a pure philosophical state of being.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "meaning": "Hard struggle, strenuous effort, or fighting spirit.",
-      "sentence1": "Kare no funtou wa watashitachi ni fukai yuuki o ataeta. (His strenuous effort gave us deep courage.)",
-      "sentence2": "Sono funtou ga tsugi no kibo o umidashita. (That hard struggle created the next hope.)"
+      "sentence1": "Kare no kotoba ni wa makoto ga kanji rareru.",
+      "sentence2": "Makoto o motte hito ni sessuru koto ga taisetsu da."
     },
     {
       "language": "Italian",
-      "word": "Valore",
+      "word": "Discernimento",
+      "meaning": "Discernment; the ability to judge well and perceive underlying philosophical truths.",
       "type": "Noun",
-      "type_in_language": "Nome",
-      "meaning": "Courage, bravery, or moral worth and excellence.",
-      "sentence1": "Il suo alto valore morale è fonte di grande ispirazione. (His high moral courage is a source of great inspiration.)",
-      "sentence2": "Ci vuole molto valore per difendere le proprie idee. (It takes a lot of courage to stand up for one's ideas.)"
+      "type_in_language": "Sostantivo",
+      "sentence1": "Ci vuole grande discernimento per capire la complessità del mondo.",
+      "sentence2": "Il suo discernimento etico ha guidato l'intera comunità."
     },
     {
       "language": "Chinese",
-      "word": "Yǒnggǎn",
-      "type": "Adjective",
-      "type_in_language": "Xíngróngcí",
-      "meaning": "Brave, courageous, or fearless.",
-      "sentence1": "Tā yǒnggǎn de xíngwéi gǔwǔ le zài chǎng de měi yí gè rén. (His courageous actions inspired everyone present.)",
-      "sentence2": "Zuò yí gè yǒnggǎn de rén, qù zhuīqiú nǐ de mèngxiǎng. (Be a courageous person and pursue your dreams.)"
+      "word": "Zhenyuan",
+      "meaning": "Ultimate truth or the profound original principle of the universe in philosophical discourse.",
+      "type": "Noun",
+      "type_in_language": "Mingci",
+      "sentence1": "Zhege zhenyuan shi gudaizhexuejia yizhi zhuiqiu de mubiao.",
+      "sentence2": "womenyaozao zhenyuan zhong xunqiurensheng de jiazhi."
     },
     {
       "language": "Korean",
-      "word": "Daedamham",
+      "word": "Ichae",
+      "meaning": "Reason, logic, or the fundamental truth underlying natural and moral laws.",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "meaning": "Boldness, daring, or great courage.",
-      "sentence1": "Geuui daedamham-eun modu-ege kkeunjinhan gamdong-eul ju-eotda. (His boldness gave everyone a deep touching inspiration.)",
-      "sentence2": "Eoryeoun sanghwangeseo dojeonhaneun daedamham-i pillyohada. (Boldness to challenge oneself in a difficult situation is necessary.)"
+      "sentence1": "Modun hyeonsang-eneun geu maneui ichae-gaonjohanda.",
+      "sentence2": "Ichae-reul al-a-ya se-sang-eul ihaehal su issda."
     },
     {
       "language": "Khmer",
-      "word": "Visak",
+      "word": "Sadhuthea",
+      "meaning": "Righteousness, virtue, and moral excellence.",
       "type": "Noun",
       "type_in_language": "Nam",
-      "meaning": "Energy, vigor, or heroic effort and inspiration.",
-      "sentence1": "Komnot nis ban pleng visak sampeah jivit thmey. (This writing sparked the courage to greet a new life.)",
-      "sentence2": "Tae trev kar visak pel jesprabang kapos. (One needs courage when facing obstacles.)"
+      "sentence1": "Kanleuv chivit trov derh tam plou sadhuthea.",
+      "sentence2": "Sadhuthea nung chuoy karpakar prachasach."
     },
     {
       "language": "Afrikaans",
-      "word": "Dapperheid",
+      "word": "Bewussyn",
+      "meaning": "Consciousness or awareness of reality and existence.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "meaning": "Bravery, courage, or fearless spirit.",
-      "sentence1": "Sy dapperheid in die aangesig van gevaar het ons almal geïnspireer. (His bravery in the face of danger inspired us all.)",
-      "sentence2": "Met onbeskryflike dapperheid het hy sy doel bereik. (With indescribable courage he reached his goal.)"
+      "sentence1": "Die menslike bewussyn is 'n onderwerp van diepe filosofie.",
+      "sentence2": "Sy bewussyn het gegroei deur jare se meditasie."
     }
   ]
 }
