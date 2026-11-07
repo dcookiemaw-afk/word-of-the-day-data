@@ -27,7 +27,8 @@
     "Wonderment",
     "Resilience",
     "Veritas",
-    "Cornucopia"
+    "Cornucopia",
+    "Sublimity"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -57,7 +58,8 @@
     "Verwondering",
     "Dapperheid",
     "Bewussyn",
-    "Oes"
+    "Oes",
+    "Sierlikheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -87,7 +89,8 @@
     "Asombro",
     "Valentía",
     "Entendimiento",
-    "Cosecha"
+    "Cosecha",
+    "Donaire"
   ],
   "French": [
     "Magnifique",
@@ -117,7 +120,8 @@
     "Etonnement",
     "Courage",
     "Conscience",
-    "Recolte"
+    "Recolte",
+    "Raffinement"
   ],
   "German": [
     "Wunderbar",
@@ -147,7 +151,8 @@
     "Staunen",
     "Tapferkeit",
     "Erkenntnis",
-    "Ernte"
+    "Ernte",
+    "Anmut"
   ],
   "Japanese": [
     "Komorebi",
@@ -177,7 +182,8 @@
     "Hidamari",
     "Funtou",
     "Makoto",
-    "Shuukaku"
+    "Shuukaku",
+    "Fuga"
   ],
   "Italian": [
     "Speranza",
@@ -205,7 +211,8 @@
     "Stupore",
     "Valore",
     "Discernimento",
-    "Raccolto"
+    "Raccolto",
+    "Sprezzatura"
   ],
   "Chinese": [
     "Xìngfú",
@@ -235,7 +242,8 @@
     "Jingqi",
     "Yǒnggǎn",
     "Zhenyuan",
-    "Qiushou"
+    "Qiushou",
+    "Shenyun"
   ],
   "Korean": [
     "Haengbok",
@@ -265,7 +273,8 @@
     "Gyeong-i",
     "Daedamham",
     "Ichae",
-    "Chusu"
+    "Chusu",
+    "Pungryu"
   ],
   "Khmer": [
     "Sro-noh",
@@ -295,6 +304,7 @@
     "Aschar",
     "Visak",
     "Sadhuthea",
-    "Chrot-kat"
+    "Chrot-kat",
+    "Rochana"
   ]
 }
