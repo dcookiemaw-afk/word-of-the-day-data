@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Sublimity",
-      "meaning": "The quality of possessing transcendent beauty, grandeur, or exalted artistic excellence that inspires awe.",
+      "word": "Aesthetic",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "The sublimity of the cathedral's vaulted ceiling moved visitors to reverent silence. (The sublimity of the cathedral's vaulted ceiling moved visitors to reverent silence.)",
-      "sentence2": "Romantic painters sought to capture the terrifying sublimity of natural landscapes. (Romantic painters sought to capture the terrifying sublimity of natural landscapes.)"
+      "meaning": "A set of principles underlying and guiding the work of a particular artist or artistic movement, or the appreciation of beauty.",
+      "sentence1": "The minimalist aesthetic of the gallery highlighted the subtle textures of each canvas.",
+      "sentence2": "Her photography captures a haunting aesthetic that blends shadow and golden light."
     },
     {
       "language": "Spanish",
-      "word": "Donaire",
-      "meaning": "Gracefulness, elegance, and natural charm in movement, speech, or artistic presentation.",
+      "word": "Esplendor",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "La bailarina ejecutaba cada paso con un donaire que cautivaba al publico. (The dancer executed every step with a graceful charm that captivated the audience.)",
-      "sentence2": "Las esculturas clasicas destacan por su equilibrio y elegante donaire. (Classical sculptures stand out for their balance and elegant grace.)"
+      "meaning": "Magnificence, brilliance, or supreme beauty and artistic glory.",
+      "sentence1": "El esplendor de los frescos renacentistas dejo sin palabras a los visitantes. (The splendor of the Renaissance frescoes left visitors speechless.)",
+      "sentence2": "Cada pincelada restaurada devolvio el esplendor original al retablo antiguo. (Each restored brushstroke returned the original splendor to the ancient altarpiece.)"
     },
     {
       "language": "French",
-      "word": "Raffinement",
-      "meaning": "The quality of extreme delicacy, elegance, and cultivated taste in artistic expression or design.",
+      "word": "Grace",
       "type": "Noun",
-      "type_in_language": "Nom masculin",
-      "sentence1": "Ce tableau temoigne d'un grand raffinement dans le choix des nuances. (This painting demonstrates great refinement in the choice of shades.)",
-      "sentence2": "L'architecture du palais brille par le raffinement de ses sculptures en marbre. (The palace's architecture shines through the refinement of its marble sculptures.)"
+      "type_in_language": "Nom",
+      "meaning": "Elegance or beauty of form, manner, motion, or artistic expression.",
+      "sentence1": "La danseuse se deplacait avec une telle grace que la scene semblait flotter. (The dancer moved with such grace that the stage seemed to float.)",
+      "sentence2": "Cette sculpture capture la grace naturelle du corps humain avec une grande finesse. (This sculpture captures the natural grace of the human body with great finesse.)"
     },
     {
       "language": "German",
-      "word": "Anmut",
-      "meaning": "Delicate grace, charm, and natural visual or emotional harmony.",
+      "word": "Schoengeist",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Die Skulptur strahlte eine vollkommene Ruhe und Anmut aus. (The sculpture radiated a complete tranquility and grace.)",
-      "sentence2": "Ihre Bewegungen auf der Theaterbuehne waren von seltener Anmut erfuellt. (Her movements on the theatrical stage were filled with rare grace.)"
+      "meaning": "An aesthete or person devoted to the appreciation of art, beauty, and literature.",
+      "sentence1": "Als wahrer Schoengeist verbrachte er seine Wochenenden in Kunstgalerien. (As a true aesthete, he spent his weekends in art galleries.)",
+      "sentence2": "Ihr Wohnzimmer spiegelte den feinen Geschmack eines echten Schoengeistes wider. (Her living room reflected the refined taste of a true aesthete.)"
     },
     {
       "language": "Japanese",
-      "word": "Fuga",
-      "meaning": "Refined elegance, artistic taste, and classical poetic charm.",
+      "word": "Wabi-sabi",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Kare wa fuga na teien o nagamenagara uta o yonda. (He recited poetry while gazing upon the elegantly refined garden.)",
-      "sentence2": "Sono togei sakuhin wa fuga na omomuki o kamoshidashite iru. (That ceramic work evokes a feeling of refined aesthetic grace.)"
+      "meaning": "A traditional Japanese aesthetic concept centered on finding beauty in imperfection, simplicity, and natural transience.",
+      "sentence1": "Kono chawan no hibiware wa wabi-sabi no bi wo arawashite iru. (The cracks in this tea bowl express the beauty of wabi-sabi.)",
+      "sentence2": "Kare wa koten-teki na teien ni yadoru wabi-sabi no kokoro wo e ni egaita. (He depicted the spirit of wabi-sabi dwelling in the classical garden in his painting.)"
     },
     {
       "language": "Italian",
-      "word": "Sprezzatura",
-      "meaning": "A deliberate, studied nonchalance or effortless grace that conceals the immense skill and effort behind a work of art.",
+      "word": "Capolavoro",
       "type": "Noun",
-      "type_in_language": "Sostantivo femminile",
-      "sentence1": "Il maestro dipinse il ritratto con una sprezzatura che nascondeva anni di rigido studio. (The master painted the portrait with an effortless grace that concealed years of rigorous study.)",
-      "sentence2": "La sua esecuzione al pianoforte era permeata di un'elegante sprezzatura. (His piano performance was permeated with an elegant and effortless artistry.)"
+      "type_in_language": "Sostantivo",
+      "meaning": "Masterpiece; an outstanding work of art, craft, or intellect exhibiting consummate skill.",
+      "sentence1": "La statua scolpita nel marmo e considerata un autentico capolavoro della storia dell'arte. (The statue carved in marble is considered an authentic masterpiece of art history.)",
+      "sentence2": "Il pittore dedico molti anni a rifinire quello che sarebbe diventato il suo capolavoro. (The painter dedicated many years to refining what would become his masterpiece.)"
     },
     {
       "language": "Chinese",
-      "word": "Shenyun",
-      "meaning": "Artistic spirit, inner charm, and poetic resonance found in painting, calligraphy, or performance.",
+      "word": "Meigan",
       "type": "Noun",
       "type_in_language": "Mingci",
-      "sentence1": "Zhe fu shuimohua chongman le gudian de shenyun. (This ink wash painting is rich with classical artistic charm.)",
-      "sentence2": "Yishu jia bixia de meiyipi ma dou you zhe du te de shenyun. (Every horse under the artist's brush possesses a unique spirit and vitality.)"
+      "meaning": "Aesthetic perception, aesthetic sense, or the refined appreciation of artistic beauty.",
+      "sentence1": "Zhe fu shanshuihua chongman le gudian de meigan yu ningjing. (This landscape painting is full of classical aesthetic sense and tranquility.)",
+      "sentence2": "Shejishi zai jianzhu zhong ronghe le xiandai meigan yu chuantong yuanlin de jingsui. (The designer integrated modern aesthetics with the essence of traditional gardens in the architecture.)"
     },
     {
       "language": "Korean",
-      "word": "Pungryu",
-      "meaning": "A refined aesthetic sensibility centered on savoring nature, elegance, music, and the poetic arts.",
+      "word": "Areumdaum",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Seonbideureun jeongjaeseo siwa eum-ageul jeulgimyeo pungryureul jeulgida. (Scholars cultivated artistic elegance while enjoying poetry and music in the pavilion.)",
-      "sentence2": "Hanguk jeontong yesureun jayeongwa johwareul iruneun pungryuui moti damgyeoitda. (Traditional Korean art embodies the tasteful aesthetic charm of living in harmony with nature.)"
+      "meaning": "Beauty; aesthetic loveliness, elegance, and visual or spiritual grace.",
+      "sentence1": "Geu misulgwan-eun gojeon hoehwa-ui areumdaum-eul jinjung-hage boyeojunda. (That art museum genuinely demonstrates the beauty of classical painting.)",
+      "sentence2": "Jayeon-ui areumdaum-eun eonjena yesulga-deul-ege gipeun yeong-gam-eul junda. (The beauty of nature always gives artists deep inspiration.)"
     },
     {
       "language": "Khmer",
-      "word": "Rochana",
-      "meaning": "Artistic decoration, ornamentation, or creative aesthetic composition.",
+      "word": "Samross",
       "type": "Noun",
       "type_in_language": "Neam",
-      "sentence1": "Kompheang prasat man rochana knong kbach khmer yaung la-or. (The temple walls feature beautiful artistic designs in the Khmer ornamental style.)",
-      "sentence2": "Ka rochana pka knong banteay nih thveu oy man somphos chea khlang. (The artistic floral arrangement in this room creates immense visual beauty.)"
+      "meaning": "Beauty, loveliness, charm, or aesthetic radiance.",
+      "sentence1": "Samross nai komnor boran nih thveu oy mneak mneak slap smoh. (The beauty of this ancient painting leaves everyone in awe.)",
+      "sentence2": "Silpakor ban phtoch yok samross thommacheat mouk leu phtang komnor. (The artist captured the beauty of nature onto the canvas.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Sierlikheid",
-      "meaning": "Gracefulness, ornamental elegance, and aesthetic beauty in form or design.",
+      "word": "Kunswerk",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Die sierlikheid van die gebou se gewels het dadelik almal se aandag getrek. (The graceful elegance of the building's gables immediately caught everyone's attention.)",
-      "sentence2": "Sy het die fyn patrone met groot sierlikheid en geduld geskilder. (She painted the delicate patterns with great gracefulness and patience.)"
+      "meaning": "A work of art or masterpiece created with artistic skill and aesthetic intent.",
+      "sentence1": "Die pragtige beeldhouwerk word beskou as 'n uitsonderlike kunswerk. (The beautiful sculpture is regarded as an exceptional work of art.)",
+      "sentence2": "Elke kunswerk in die galery vertel 'n unieke visuele verhaal. (Every work of art in the gallery tells a unique visual story.)"
     }
   ]
 }
