@@ -29,7 +29,8 @@
     "Veritas",
     "Cornucopia",
     "Sublimity",
-    "Aesthetic"
+    "Aesthetic",
+    "Trepidation"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -61,7 +62,8 @@
     "Bewussyn",
     "Oes",
     "Sierlikheid",
-    "Kunswerk"
+    "Kunswerk",
+    "Verligting"
   ],
   "Spanish": [
     "Esperanza",
@@ -93,7 +95,8 @@
     "Entendimiento",
     "Cosecha",
     "Donaire",
-    "Esplendor"
+    "Esplendor",
+    "Congoja"
   ],
   "French": [
     "Magnifique",
@@ -125,7 +128,8 @@
     "Conscience",
     "Recolte",
     "Raffinement",
-    "Grace"
+    "Grace",
+    "Ferveur"
   ],
   "German": [
     "Wunderbar",
@@ -157,7 +161,8 @@
     "Erkenntnis",
     "Ernte",
     "Anmut",
-    "Schoengeist"
+    "Schoengeist",
+    "Ehrfurcht"
   ],
   "Japanese": [
     "Komorebi",
@@ -189,7 +194,8 @@
     "Makoto",
     "Shuukaku",
     "Fuga",
-    "Wabi-sabi"
+    "Wabi-sabi",
+    "Natsukashisa"
   ],
   "Italian": [
     "Speranza",
@@ -219,7 +225,8 @@
     "Discernimento",
     "Raccolto",
     "Sprezzatura",
-    "Capolavoro"
+    "Capolavoro",
+    "Sollievo"
   ],
   "Chinese": [
     "Xìngfú",
@@ -251,7 +258,8 @@
     "Zhenyuan",
     "Qiushou",
     "Shenyun",
-    "Meigan"
+    "Meigan",
+    "Shiluo"
   ],
   "Korean": [
     "Haengbok",
@@ -283,7 +291,8 @@
     "Ichae",
     "Chusu",
     "Pungryu",
-    "Areumdaum"
+    "Areumdaum",
+    "Duryeoum"
   ],
   "Khmer": [
     "Sro-noh",
@@ -315,6 +324,7 @@
     "Sadhuthea",
     "Chrot-kat",
     "Rochana",
-    "Samross"
+    "Samross",
+    "Khavol-khvay"
   ]
 }

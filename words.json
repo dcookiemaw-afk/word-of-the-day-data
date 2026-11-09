@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Aesthetic",
+      "word": "Trepidation",
+      "meaning": "A feeling of fear, alarm, or nervous agitation about something that may happen",
       "type": "Noun",
       "type_in_language": "Noun",
-      "meaning": "A set of principles underlying and guiding the work of a particular artist or artistic movement, or the appreciation of beauty.",
-      "sentence1": "The minimalist aesthetic of the gallery highlighted the subtle textures of each canvas.",
-      "sentence2": "Her photography captures a haunting aesthetic that blends shadow and golden light."
+      "sentence1": "She stepped onto the stage with a quiet sense of trepidation, unsure of how the audience would receive her performance. (She stepped onto the stage with a quiet sense of trepidation, unsure of how the audience would receive her performance.)",
+      "sentence2": "Despite his lingering trepidation, he boarded the flight to begin his journey abroad. (Despite his lingering trepidation, he boarded the flight to begin his journey abroad.)"
     },
     {
       "language": "Spanish",
-      "word": "Esplendor",
+      "word": "Congoja",
+      "meaning": "A deep feeling of anguish, heartache, or distressing sorrow",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "meaning": "Magnificence, brilliance, or supreme beauty and artistic glory.",
-      "sentence1": "El esplendor de los frescos renacentistas dejo sin palabras a los visitantes. (The splendor of the Renaissance frescoes left visitors speechless.)",
-      "sentence2": "Cada pincelada restaurada devolvio el esplendor original al retablo antiguo. (Each restored brushstroke returned the original splendor to the ancient altarpiece.)"
+      "type_in_language": "Sustantivo femenino",
+      "sentence1": "Sintio una honda congoja al despedirse de su pueblo natal en el ultimo tren de la noche. (He felt deep heartache upon saying goodbye to his hometown on the last night train.)",
+      "sentence2": "El abrazo calido de su hermana logro calmar la congoja que le oprimia el pecho. (His sister's warm hug managed to soothe the anguish oppressing his chest.)"
     },
     {
       "language": "French",
-      "word": "Grace",
+      "word": "Ferveur",
+      "meaning": "An intense, glowing warmth of feeling, devotion, or enthusiasm",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "meaning": "Elegance or beauty of form, manner, motion, or artistic expression.",
-      "sentence1": "La danseuse se deplacait avec une telle grace que la scene semblait flotter. (The dancer moved with such grace that the stage seemed to float.)",
-      "sentence2": "Cette sculpture capture la grace naturelle du corps humain avec une grande finesse. (This sculpture captures the natural grace of the human body with great finesse.)"
+      "type_in_language": "Nom feminin",
+      "sentence1": "Elle defendit ses idees avec une ferveur sincere qui toucha profondement l'auditoire. (She defended her ideas with a sincere fervor that deeply moved the audience.)",
+      "sentence2": "La chorale chanta avec une telle ferveur que la cathedrale entiere sembla vibrer d'emotion. (The choir sang with such fervor that the entire cathedral seemed to vibrate with emotion.)"
     },
     {
       "language": "German",
-      "word": "Schoengeist",
+      "word": "Ehrfurcht",
+      "meaning": "A profound feeling of reverent awe mixed with humility and deep respect",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "meaning": "An aesthete or person devoted to the appreciation of art, beauty, and literature.",
-      "sentence1": "Als wahrer Schoengeist verbrachte er seine Wochenenden in Kunstgalerien. (As a true aesthete, he spent his weekends in art galleries.)",
-      "sentence2": "Ihr Wohnzimmer spiegelte den feinen Geschmack eines echten Schoengeistes wider. (Her living room reflected the refined taste of a true aesthete.)"
+      "sentence1": "Als er den uralten Wald betrat, erfullte ihn eine lautlose Ehrfurcht vor der Natur. (When he entered the ancient forest, a silent awe before nature filled him.)",
+      "sentence2": "Sie blickte mit tiefer Ehrfurcht auf die jahrhundertealten Handschriften im Archiv. (She looked upon the centuries-old manuscripts in the archive with deep reverence.)"
     },
     {
       "language": "Japanese",
-      "word": "Wabi-sabi",
+      "word": "Natsukashisa",
+      "meaning": "A bittersweet feeling of warm, fond nostalgia brought on by a cherished memory",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "meaning": "A traditional Japanese aesthetic concept centered on finding beauty in imperfection, simplicity, and natural transience.",
-      "sentence1": "Kono chawan no hibiware wa wabi-sabi no bi wo arawashite iru. (The cracks in this tea bowl express the beauty of wabi-sabi.)",
-      "sentence2": "Kare wa koten-teki na teien ni yadoru wabi-sabi no kokoro wo e ni egaita. (He depicted the spirit of wabi-sabi dwelling in the classical garden in his painting.)"
+      "sentence1": "Furui arubamu o mekuru to, kokoro no oku kara natsukashisa ga komiagete kita. (Flipping through the old photo album, a warm nostalgia welled up from deep within my heart.)",
+      "sentence2": "Furusato no umi no nioi wa, itsumo watashi ni yawarakana natsukashisa o hakonde kuremasu. (The scent of the sea from my hometown always brings me a gentle sense of nostalgia.)"
     },
     {
       "language": "Italian",
-      "word": "Capolavoro",
+      "word": "Sollievo",
+      "meaning": "The feeling of comfort and ease that comes after anxiety, pain, or trouble has lifted",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "meaning": "Masterpiece; an outstanding work of art, craft, or intellect exhibiting consummate skill.",
-      "sentence1": "La statua scolpita nel marmo e considerata un autentico capolavoro della storia dell'arte. (The statue carved in marble is considered an authentic masterpiece of art history.)",
-      "sentence2": "Il pittore dedico molti anni a rifinire quello che sarebbe diventato il suo capolavoro. (The painter dedicated many years to refining what would become his masterpiece.)"
+      "type_in_language": "Sostantivo maschile",
+      "sentence1": "Un profondo sospiro di sollievo attraverso la stanza quando giunse la buona notizia. (A deep sigh of relief swept across the room when the good news arrived.)",
+      "sentence2": "Trovo finalmente sollievo dalle sue preoccupazioni passeggiando lungo la riva tranquilla del lago. (He finally found relief from his worries by strolling along the tranquil shore of the lake.)"
     },
     {
       "language": "Chinese",
-      "word": "Meigan",
+      "word": "Shiluo",
+      "meaning": "A disheartened emotional state characterized by a sense of loss, empty disappointment, or abandonment",
       "type": "Noun",
       "type_in_language": "Mingci",
-      "meaning": "Aesthetic perception, aesthetic sense, or the refined appreciation of artistic beauty.",
-      "sentence1": "Zhe fu shanshuihua chongman le gudian de meigan yu ningjing. (This landscape painting is full of classical aesthetic sense and tranquility.)",
-      "sentence2": "Shejishi zai jianzhu zhong ronghe le xiandai meigan yu chuantong yuanlin de jingsui. (The designer integrated modern aesthetics with the essence of traditional gardens in the architecture.)"
+      "sentence1": "Kan dao kong dang dang de zhan tai, ta de xinzhong yong shang le yi gu nan yi yan yu de shiluo. (Seeing the empty train platform, an unspeakable feeling of loss welled up in her heart.)",
+      "sentence2": "Jingli le shibai zhi hou, ta bu jin mei you chenni yu shiluo, fan'er gengjia jianqiang. (After experiencing failure, instead of wallowing in disappointment, he became even stronger.)"
     },
     {
       "language": "Korean",
-      "word": "Areumdaum",
+      "word": "Duryeoum",
+      "meaning": "The emotional sensation of fear, dread, or apprehension regarding the unknown or dangerous",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "meaning": "Beauty; aesthetic loveliness, elegance, and visual or spiritual grace.",
-      "sentence1": "Geu misulgwan-eun gojeon hoehwa-ui areumdaum-eul jinjung-hage boyeojunda. (That art museum genuinely demonstrates the beauty of classical painting.)",
-      "sentence2": "Jayeon-ui areumdaum-eun eonjena yesulga-deul-ege gipeun yeong-gam-eul junda. (The beauty of nature always gives artists deep inspiration.)"
+      "sentence1": "Geuneun duryeoumeul igyeonaego eodun donggureul hyanghae cheot georeumeul naedideotta. (He overcame his fear and took his first step toward the dark cave.)",
+      "sentence2": "Miju-ui saeroun sijageun duryeoumkkwa gidaegeumeul 동시에 angyeo jueotta. (Beginning something unknown brought both dread and anticipation at the same time.)"
     },
     {
       "language": "Khmer",
-      "word": "Samross",
+      "word": "Khavol-khvay",
+      "meaning": "A state of anxiety, persistent worry, or restless mental agitation",
       "type": "Noun",
       "type_in_language": "Neam",
-      "meaning": "Beauty, loveliness, charm, or aesthetic radiance.",
-      "sentence1": "Samross nai komnor boran nih thveu oy mneak mneak slap smoh. (The beauty of this ancient painting leaves everyone in awe.)",
-      "sentence2": "Silpakor ban phtoch yok samross thommacheat mouk leu phtang komnor. (The artist captured the beauty of nature onto the canvas.)"
+      "sentence1": "Khavol-khvay knong chet ban rolay tow pel ban luh somleng mday. (The anxiety in his heart melted away when he heard his mother's voice.)",
+      "sentence2": "Neang mean seychakdei khavol-khvay champoh kar-siksa robos kone. (She felt a persistent worry regarding her child's education.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Kunswerk",
+      "word": "Verligting",
+      "meaning": "The feeling of relief, alleviation, or unburdening after distress or tension",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "meaning": "A work of art or masterpiece created with artistic skill and aesthetic intent.",
-      "sentence1": "Die pragtige beeldhouwerk word beskou as 'n uitsonderlike kunswerk. (The beautiful sculpture is regarded as an exceptional work of art.)",
-      "sentence2": "Elke kunswerk in die galery vertel 'n unieke visuele verhaal. (Every work of art in the gallery tells a unique visual story.)"
+      "sentence1": "Daar was 'n reuse verligting toe die dokter bevestig dat alles reg is. (There was an immense relief when the doctor confirmed that everything was fine.)",
+      "sentence2": "Sy het met groot verligting haar rugsak neergesit na die strawwe bergklimtog. (She set down her backpack with great relief after the arduous mountain climb.)"
     }
   ]
 }
