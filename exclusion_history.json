@@ -31,7 +31,8 @@
     "Sublimity",
     "Aesthetic",
     "Trepidation",
-    "Prudence"
+    "Prudence",
+    "Amity"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -65,7 +66,8 @@
     "Sierlikheid",
     "Kunswerk",
     "Verligting",
-    "Bedagsaamheid"
+    "Bedagsaamheid",
+    "Saamhorigheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -99,7 +101,8 @@
     "Donaire",
     "Esplendor",
     "Congoja",
-    "Sensatez"
+    "Sensatez",
+    "Hermandad"
   ],
   "French": [
     "Magnifique",
@@ -133,7 +136,8 @@
     "Raffinement",
     "Grace",
     "Ferveur",
-    "Clairvoyance"
+    "Clairvoyance",
+    "Convivialite"
   ],
   "German": [
     "Wunderbar",
@@ -167,7 +171,8 @@
     "Anmut",
     "Schoengeist",
     "Ehrfurcht",
-    "Besonnenheit"
+    "Besonnenheit",
+    "Zusammenhalt"
   ],
   "Japanese": [
     "Komorebi",
@@ -201,7 +206,8 @@
     "Fuga",
     "Wabi-sabi",
     "Natsukashisa",
-    "Enryo"
+    "Enryo",
+    "Tsunagari"
   ],
   "Italian": [
     "Speranza",
@@ -233,7 +239,8 @@
     "Sprezzatura",
     "Capolavoro",
     "Sollievo",
-    "Avvedutezza"
+    "Avvedutezza",
+    "Sintonia"
   ],
   "Chinese": [
     "Xìngfú",
@@ -267,7 +274,8 @@
     "Shenyun",
     "Meigan",
     "Shiluo",
-    "Cíxīng"
+    "Cíxīng",
+    "Zhiji"
   ],
   "Korean": [
     "Haengbok",
@@ -301,7 +309,8 @@
     "Pungryu",
     "Areumdaum",
     "Duryeoum",
-    "Hyeolmyeong"
+    "Hyeolmyeong",
+    "Jeong"
   ],
   "Khmer": [
     "Sro-noh",
@@ -335,6 +344,7 @@
     "Rochana",
     "Samross",
     "Khavol-khvay",
-    "Panya"
+    "Panya",
+    "Samakki"
   ]
 }
