@@ -32,7 +32,8 @@
     "Aesthetic",
     "Trepidation",
     "Prudence",
-    "Amity"
+    "Amity",
+    "Stoicism"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -67,7 +68,8 @@
     "Kunswerk",
     "Verligting",
     "Bedagsaamheid",
-    "Saamhorigheid"
+    "Saamhorigheid",
+    "Gelyknat"
   ],
   "Spanish": [
     "Esperanza",
@@ -102,7 +104,8 @@
     "Esplendor",
     "Congoja",
     "Sensatez",
-    "Hermandad"
+    "Hermandad",
+    "Ataraxia"
   ],
   "French": [
     "Magnifique",
@@ -137,7 +140,8 @@
     "Grace",
     "Ferveur",
     "Clairvoyance",
-    "Convivialite"
+    "Convivialite",
+    "Ataraxie"
   ],
   "German": [
     "Wunderbar",
@@ -172,7 +176,8 @@
     "Schoengeist",
     "Ehrfurcht",
     "Besonnenheit",
-    "Zusammenhalt"
+    "Zusammenhalt",
+    "Weltanschauung"
   ],
   "Japanese": [
     "Komorebi",
@@ -207,7 +212,8 @@
     "Wabi-sabi",
     "Natsukashisa",
     "Enryo",
-    "Tsunagari"
+    "Tsunagari",
+    "Shizen"
   ],
   "Italian": [
     "Speranza",
@@ -240,7 +246,8 @@
     "Capolavoro",
     "Sollievo",
     "Avvedutezza",
-    "Sintonia"
+    "Sintonia",
+    "Atarassia"
   ],
   "Chinese": [
     "Xìngfú",
@@ -275,7 +282,8 @@
     "Meigan",
     "Shiluo",
     "Cíxīng",
-    "Zhiji"
+    "Zhiji",
+    "Liangzhi"
   ],
   "Korean": [
     "Haengbok",
@@ -310,7 +318,8 @@
     "Areumdaum",
     "Duryeoum",
     "Hyeolmyeong",
-    "Jeong"
+    "Jeong",
+    "Suna"
   ],
   "Khmer": [
     "Sro-noh",
