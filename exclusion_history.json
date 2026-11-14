@@ -34,7 +34,8 @@
     "Prudence",
     "Amity",
     "Stoicism",
-    "Kinship"
+    "Kinship",
+    "Ecstasy"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -71,7 +72,8 @@
     "Bedagsaamheid",
     "Saamhorigheid",
     "Gelyknat",
-    "Broederskap"
+    "Broederskap",
+    "Saligheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -145,7 +147,8 @@
     "Clairvoyance",
     "Convivialite",
     "Ataraxie",
-    "Accointance"
+    "Accointance",
+    "Bonheur"
   ],
   "German": [
     "Wunderbar",
@@ -182,7 +185,8 @@
     "Besonnenheit",
     "Zusammenhalt",
     "Weltanschauung",
-    "Wahlverwandtschaft"
+    "Wahlverwandtschaft",
+    "Glueckseligkeit"
   ],
   "Japanese": [
     "Komorebi",
@@ -219,7 +223,8 @@
     "Enryo",
     "Tsunagari",
     "Shizen",
-    "Nakama"
+    "Nakama",
+    "Koufuku"
   ],
   "Italian": [
     "Speranza",
@@ -254,7 +259,8 @@
     "Avvedutezza",
     "Sintonia",
     "Atarassia",
-    "Affiatamento"
+    "Affiatamento",
+    "Giubilo"
   ],
   "Chinese": [
     "Xìngfú",
@@ -291,7 +297,8 @@
     "Cíxīng",
     "Zhiji",
     "Liangzhi",
-    "Gānxīn"
+    "Gānxīn",
+    "Kuaile"
   ],
   "Korean": [
     "Haengbok",
@@ -328,7 +335,8 @@
     "Hyeolmyeong",
     "Jeong",
     "Suna",
-    "Dongan"
+    "Dongan",
+    "Gppeum"
   ],
   "Khmer": [
     "Sro-noh",
@@ -364,6 +372,7 @@
     "Khavol-khvay",
     "Panya",
     "Samakki",
-    "Samacheap"
+    "Samacheap",
+    "Sok-sabay"
   ]
 }
