@@ -35,7 +35,8 @@
     "Amity",
     "Stoicism",
     "Kinship",
-    "Ecstasy"
+    "Ecstasy",
+    "Logos"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -73,7 +74,8 @@
     "Saamhorigheid",
     "Gelyknat",
     "Broederskap",
-    "Saligheid"
+    "Saligheid",
+    "Denkbeeld"
   ],
   "Spanish": [
     "Esperanza",
@@ -110,7 +112,8 @@
     "Sensatez",
     "Hermandad",
     "Ataraxia",
-    "Compañerismo"
+    "Compañerismo",
+    "Discernimiento"
   ],
   "French": [
     "Magnifique",
@@ -148,7 +151,8 @@
     "Convivialite",
     "Ataraxie",
     "Accointance",
-    "Bonheur"
+    "Bonheur",
+    "Lucidité"
   ],
   "German": [
     "Wunderbar",
@@ -224,7 +228,8 @@
     "Tsunagari",
     "Shizen",
     "Nakama",
-    "Koufuku"
+    "Koufuku",
+    "Satori"
   ],
   "Italian": [
     "Speranza",
@@ -260,7 +265,8 @@
     "Sintonia",
     "Atarassia",
     "Affiatamento",
-    "Giubilo"
+    "Giubilo",
+    "Contemplazione"
   ],
   "Chinese": [
     "Xìngfú",
@@ -298,7 +304,8 @@
     "Zhiji",
     "Liangzhi",
     "Gānxīn",
-    "Kuaile"
+    "Kuaile",
+    "Zōngzhǐ"
   ],
   "Korean": [
     "Haengbok",
@@ -336,7 +343,8 @@
     "Jeong",
     "Suna",
     "Dongan",
-    "Gppeum"
+    "Gppeum",
+    "Sangsak"
   ],
   "Khmer": [
     "Sro-noh",
@@ -373,6 +381,7 @@
     "Panya",
     "Samakki",
     "Samacheap",
-    "Sok-sabay"
+    "Sok-sabay",
+    "Santiphap"
   ]
 }
