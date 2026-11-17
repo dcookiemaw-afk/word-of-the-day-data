@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Chagrin",
-      "meaning": "A feeling of vexation, distress, or humiliation arising from disappointment or failure",
+      "word": "Gratitude",
+      "meaning": "The quality of being thankful; readiness to show appreciation for and to return kindness.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "Much to her chagrin, the surprise party was revealed before she could arrange the final decorations. (Much to her chagrin, the surprise party was revealed before she could arrange the final decorations.)",
-      "sentence2": "He swallowed his chagrin and politely applauded his rival's unexpected victory. (He swallowed his chagrin and politely applauded his rival's unexpected victory.)"
+      "sentence1": "She expressed deep gratitude for all the help she received during her recovery (She expressed deep gratitude for all the help she received during her recovery).",
+      "sentence2": "A sense of gratitude filled his heart as he looked at his supportive family (A sense of gratitude filled his heart as he looked at his supportive family)."
     },
     {
       "language": "Spanish",
-      "word": "Ilusion",
-      "meaning": "A feeling of joyful hope, enthusiasm, or eager anticipation for the future",
+      "word": "Entusiasmo",
+      "meaning": "Intense and eager enjoyment, interest, or approval.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "Ella preparo el viaje con muchisima ilusion y entusiasmo. (She prepared the journey with immense eager anticipation and enthusiasm.)",
-      "sentence2": "Ver a su familia reunida le devolvio la ilusion de seguir adelante. (Seeing his family reunited brought back his hopeful enthusiasm to carry on.)"
+      "sentence1": "El nino recibio el regalo con mucho entusiasmo (The boy received the gift with much enthusiasm).",
+      "sentence2": "Su entusiasmo por el nuevo proyecto contagio a todo el equipo (His enthusiasm for the new project infected the whole team)."
     },
     {
       "language": "French",
-      "word": "Plenitude",
-      "meaning": "A profound feeling of complete emotional fulfillment, inner peace, and wholeness",
+      "word": "Tendresse",
+      "meaning": "Gentle affection and warmth.",
       "type": "Noun",
-      "type_in_language": "Nom feminin",
-      "sentence1": "Assise au sommet de la colline, elle ressentit une profonde sensation de plenitude. (Sitting atop the hill, she felt a profound feeling of complete fulfillment.)",
-      "sentence2": "Ce moment de calme absolu a apporte une plenitude inattendue a son esprit fatigue. (This moment of absolute calm brought an unexpected wholeness to his tired mind.)"
+      "type_in_language": "Nom",
+      "sentence1": "Il regardait sa fille avec beaucoup de tendresse (He looked at his daughter with a lot of tenderness).",
+      "sentence2": "Ce geste plein de tendresse toucha profondement son coeur (This gesture full of tenderness deeply touched her heart)."
     },
     {
       "language": "German",
-      "word": "Ergriffenheit",
-      "meaning": "A deep state of emotional being-moved, solemn awe, or stirring reverence",
+      "word": "Zufriedenheit",
+      "meaning": "A state of happiness and satisfaction.",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Nach dem emotionalen Klavierkonzert herrschte im Saal eine tiefe Ergriffenheit. (After the emotional piano concert, a deep solemn awe prevailed throughout the hall.)",
-      "sentence2": "Die Zuhoerer lauschten der Rede seiner Mutter mit stiller Ergriffenheit. (The listeners paid attention to his mother's speech with quiet emotional reverence.)"
+      "sentence1": "Er blickte mit tiefem Gefühl der Zufriedenheit auf seine geleistete Arbeit zurück (He looked back at his accomplished work with a deep feeling of satisfaction).",
+      "sentence2": "Innere Zufriedenheit ist oft wichtiger als Reichtum (Inner contentment is often more important than wealth)."
     },
     {
       "language": "Japanese",
-      "word": "Yasuragi",
-      "meaning": "A deep sense of peace of mind, soothing comfort, and inner tranquility",
+      "word": "Kansha",
+      "meaning": "Appreciation, gratitude, or thanks.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Atatakai cha o nomi nagara, kokoro no yasuragi o kanjimashita. (While drinking warm tea, I felt a soothing peace of mind.)",
-      "sentence2": "Kare no yasashii koe wa fuan na kanojo ni yasuragi o ataemashita. (His gentle voice provided tranquility to her anxious heart.)"
+      "sentence1": "Kare wa shien-sha-tachi ni fukai kansha o hyōshita (He expressed deep gratitude to the supporters).",
+      "sentence2": "Mainichi no kurashi ni kansha suru koto ga taisetsu da (It is important to be grateful for everyday life)."
     },
     {
       "language": "Italian",
-      "word": "Tenerezza",
-      "meaning": "An emotional sensation of deep affection, gentleness, and warm fondness",
+      "word": "Gratitudine",
+      "meaning": "The feeling of being grateful or thankful.",
       "type": "Noun",
       "type_in_language": "Sostantivo",
-      "sentence1": "Guardare quel cucciolo che dormiva le ha riempito il cuore di tenerezza. (Looking at that sleeping puppy filled her heart with tenderness.)",
-      "sentence2": "Le sue parole piene di tenerezza hanno confortato il caro amico in lutto. (His words filled with tenderness comforted his dear mourning friend.)"
+      "sentence1": "Provai un senso di profonda gratitudine per il suo aiuto inaspettato (I felt a sense of profound gratitude for his unexpected help).",
+      "sentence2": "Le sue parole esprimevano sincera gratitudine (His words expressed sincere gratitude)."
     },
     {
       "language": "Chinese",
-      "word": "Chongjing",
-      "meaning": "A state of longing, eager yearning, or visionary aspiration filled with affection",
-      "type": "Noun",
-      "type_in_language": "Mingci",
-      "sentence1": "Shaonian de xinzhong chongmanle dui weilai meihao shenghuo de chongjing. (The youth's heart was filled with yearning and aspiration for a beautiful future life.)",
-      "sentence2": "Tamen huai zhe dui yuanfang de chongjing tashangle xin de zhengcheng. (Holding a romantic longing for distant lands, they set off on a new journey.)"
+      "word": "Gǎn'ēn",
+      "meaning": "To feel grateful; thankfulness.",
+      "type": "Verb",
+      "type_in_language": "Dòngcí",
+      "sentence1": "Wǒmen yīnggāi duì shēnghuó zhōng de měi yí gè bāngzhù wǒmen de rén gǎn'ēn (We should be grateful to everyone in life who helps us).",
+      "sentence2": "Tā hěn gǎn'ēn neng yǒu zhèyī cì jīhuì (He is very grateful to have this opportunity)."
     },
     {
       "language": "Korean",
-      "word": "Yeonmin",
-      "meaning": "A deep feeling of tender sympathy, sorrowful empathy, and compassionate love",
+      "word": "Gamsa",
+      "meaning": "Appreciation or gratitude.",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Geuneun gyeongjejeog-eulo eolyeoun ius-ege gipeun yeonmin-eul neukkyeossda. (He felt deep compassion and empathy toward his financially struggling neighbors.)",
-      "sentence2": "Seoro-reul hyanghan yeonmin-ui maeum-i geudeul-ui sangcheo-reul chiyuhayeossda. (Their mutual feeling of tender compassion healed their emotional wounds.)"
+      "sentence1": "Doeji anneun doum-e daehae jinshim-euro gamsa-reul deurimnida (I sincerely express my gratitude for your invaluable help).",
+      "sentence2": "Geunyeo-neun maseissneun eumshik-e gamsa-haessda (She was thankful for the delicious food)."
     },
     {
       "language": "Khmer",
-      "word": "Karuna",
-      "meaning": "A state of profound compassion, merciful kindness, and heartfelt empathy toward others",
+      "word": "Kusala",
+      "meaning": "A sense of inner merit, wholesome emotion, or spiritual gladness.",
       "type": "Noun",
-      "type_in_language": "Neam",
-      "sentence1": "Neak mean chet karuna taeng-te chuoy-os-pi-chet dol monus del kran-kro. (A person with compassionate kindness always helps impoverished people from the heart.)",
-      "sentence2": "Krom-kru-pet ban samdaeng karuna yang chrov-chrov champo neak-chmheu. (The medical staff expressed profound compassionate empathy toward the patients.)"
+      "type_in_language": "Kan noun",
+      "sentence1": "Neak mean chet kusala knong kar chuoy sa-sach (He has a wholesome and compassionate heart in helping others).",
+      "sentence2": "Kar thveu ampeal la-or nam নিয়ে mok nuv chet kusala (Doing good deeds brings inner spiritual gladness)."
     },
     {
       "language": "Afrikaans",
-      "word": "Deernis",
-      "meaning": "A deep, warm feeling of heartfelt compassion, pity, and tender empathy",
+      "word": "Dankbaarheid",
+      "meaning": "The quality of being thankful; readiness to show appreciation.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Sy het met opregte deernis na die hartseer verhaal van die vlugteling geluister. (She listened with genuine compassion to the refugee's heartbreaking story.)",
-      "sentence2": "Die verpleegster se deernis het dadelik troos gebring aan die eensame pasiënt. (The nurse's tender empathy immediately brought comfort to the lonely patient.)"
+      "sentence1": "Sy het haar dankbaarheid uitgedruk vir al die ondersteuning (She expressed her gratitude for all the support).",
+      "sentence2": "Met diep dankbaarheid in sy hart het hy die geskenk ontvang (With deep gratitude in his heart he received the gift)."
     }
   ]
 }

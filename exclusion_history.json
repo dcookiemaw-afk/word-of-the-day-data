@@ -37,7 +37,8 @@
     "Kinship",
     "Ecstasy",
     "Logos",
-    "Chagrin"
+    "Chagrin",
+    "Gratitude"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -77,7 +78,8 @@
     "Broederskap",
     "Saligheid",
     "Denkbeeld",
-    "Deernis"
+    "Deernis",
+    "Dankbaarheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -116,7 +118,8 @@
     "Ataraxia",
     "Compañerismo",
     "Discernimiento",
-    "Ilusion"
+    "Ilusion",
+    "Entusiasmo"
   ],
   "French": [
     "Magnifique",
@@ -156,7 +159,8 @@
     "Accointance",
     "Bonheur",
     "Lucidité",
-    "Plenitude"
+    "Plenitude",
+    "Tendresse"
   ],
   "German": [
     "Wunderbar",
@@ -195,7 +199,8 @@
     "Weltanschauung",
     "Wahlverwandtschaft",
     "Glueckseligkeit",
-    "Ergriffenheit"
+    "Ergriffenheit",
+    "Zufriedenheit"
   ],
   "Japanese": [
     "Komorebi",
@@ -235,7 +240,8 @@
     "Nakama",
     "Koufuku",
     "Satori",
-    "Yasuragi"
+    "Yasuragi",
+    "Kansha"
   ],
   "Italian": [
     "Speranza",
@@ -273,7 +279,8 @@
     "Affiatamento",
     "Giubilo",
     "Contemplazione",
-    "Tenerezza"
+    "Tenerezza",
+    "Gratitudine"
   ],
   "Chinese": [
     "Xìngfú",
@@ -313,7 +320,8 @@
     "Gānxīn",
     "Kuaile",
     "Zōngzhǐ",
-    "Chongjing"
+    "Chongjing",
+    "Gǎn'ēn"
   ],
   "Korean": [
     "Haengbok",
@@ -353,7 +361,8 @@
     "Dongan",
     "Gppeum",
     "Sangsak",
-    "Yeonmin"
+    "Yeonmin",
+    "Gamsa"
   ],
   "Khmer": [
     "Sro-noh",
@@ -392,6 +401,7 @@
     "Samacheap",
     "Sok-sabay",
     "Santiphap",
-    "Karuna"
+    "Karuna",
+    "Kusala"
   ]
 }
