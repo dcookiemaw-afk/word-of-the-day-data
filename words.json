@@ -2,93 +2,93 @@
   "words": [
     {
       "language": "English",
-      "word": "Gratitude",
-      "meaning": "The quality of being thankful; readiness to show appreciation for and to return kindness.",
+      "word": "Fellowship",
+      "meaning": "Friendly association, companionship, and a sense of shared community or mutual interests.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "She expressed deep gratitude for all the help she received during her recovery (She expressed deep gratitude for all the help she received during her recovery).",
-      "sentence2": "A sense of gratitude filled his heart as he looked at his supportive family (A sense of gratitude filled his heart as he looked at his supportive family)."
+      "sentence1": "The evening was filled with hearty laughter and warm fellowship around the roaring hearth. (The evening was filled with hearty laughter and warm fellowship around the roaring hearth.)",
+      "sentence2": "Through shared hardships, they developed a lasting fellowship that spanned decades. (Through shared hardships, they developed a lasting fellowship that spanned decades.)"
     },
     {
       "language": "Spanish",
-      "word": "Entusiasmo",
-      "meaning": "Intense and eager enjoyment, interest, or approval.",
+      "word": "Afinidad",
+      "meaning": "A natural liking, closeness, or harmony that creates a strong mutual connection between people.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "El nino recibio el regalo con mucho entusiasmo (The boy received the gift with much enthusiasm).",
-      "sentence2": "Su entusiasmo por el nuevo proyecto contagio a todo el equipo (His enthusiasm for the new project infected the whole team)."
+      "sentence1": "Desde el primer momento sentimos una profunda afinidad que unio nuestras vidas. (From the first moment, we felt a deep affinity that united our lives.)",
+      "sentence2": "Compartir pasiones comunes creo una afinidad indestructible entre los dos companeros. (Sharing common passions created an unbreakable affinity between the two companions.)"
     },
     {
       "language": "French",
-      "word": "Tendresse",
-      "meaning": "Gentle affection and warmth.",
+      "word": "Complicite",
+      "meaning": "A close understanding, unspoken bond, or shared warmth between friends.",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "sentence1": "Il regardait sa fille avec beaucoup de tendresse (He looked at his daughter with a lot of tenderness).",
-      "sentence2": "Ce geste plein de tendresse toucha profondement son coeur (This gesture full of tenderness deeply touched her heart)."
+      "type_in_language": "Nom feminin",
+      "sentence1": "Leur complicite etait manifeste des qu'ils echangeaient un simple regard. (Their unspoken closeness was evident the moment they exchanged a simple glance.)",
+      "sentence2": "Des annees d'aventures partagees ont forge entre eux une belle complicite. (Years of shared adventures forged a beautiful bond of closeness between them.)"
     },
     {
       "language": "German",
-      "word": "Zufriedenheit",
-      "meaning": "A state of happiness and satisfaction.",
+      "word": "Freundschaft",
+      "meaning": "The state of mutual affection, trust, and intimate connection between friends.",
       "type": "Noun",
       "type_in_language": "Substantiv",
-      "sentence1": "Er blickte mit tiefem Gefühl der Zufriedenheit auf seine geleistete Arbeit zurück (He looked back at his accomplished work with a deep feeling of satisfaction).",
-      "sentence2": "Innere Zufriedenheit ist oft wichtiger als Reichtum (Inner contentment is often more important than wealth)."
+      "sentence1": "Ihre treue Freundschaft uberstand jede Herausforderung des langen Lebens. (Their faithful friendship weathered every challenge of their long lives.)",
+      "sentence2": "Wahre Freundschaft zeigt sich darin, dass man sich ohne Worte vollkommen versteht. (True friendship shows itself when people understand each other completely without words.)"
     },
     {
       "language": "Japanese",
-      "word": "Kansha",
-      "meaning": "Appreciation, gratitude, or thanks.",
+      "word": "Yuujou",
+      "meaning": "Friendship; the warm emotional bond, trust, and fellowship uniting people.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Kare wa shien-sha-tachi ni fukai kansha o hyōshita (He expressed deep gratitude to the supporters).",
-      "sentence2": "Mainichi no kurashi ni kansha suru koto ga taisetsu da (It is important to be grateful for everyday life)."
+      "sentence1": "Karera no yuujou wa jikan ga tatte mo kesshite kawaranakatta. (Their friendship never changed even as time passed.)",
+      "sentence2": "Konnan na toki koso shinsetsu na yuujou ga kokoro o tsuyoku sasaete kureru. (It is precisely during difficult times that genuine friendship strongly supports the heart.)"
     },
     {
       "language": "Italian",
-      "word": "Gratitudine",
-      "meaning": "The feeling of being grateful or thankful.",
+      "word": "Fratellanza",
+      "meaning": "Brotherhood; a deep, unifying bond of fellowship, mutual support, and affection.",
       "type": "Noun",
       "type_in_language": "Sostantivo",
-      "sentence1": "Provai un senso di profonda gratitudine per il suo aiuto inaspettato (I felt a sense of profound gratitude for his unexpected help).",
-      "sentence2": "Le sue parole esprimevano sincera gratitudine (His words expressed sincere gratitude)."
+      "sentence1": "I due compagni condividevano un senso di fratellanza che superava ogni ostacolo. (The two companions shared a sense of brotherhood that overcame every obstacle.)",
+      "sentence2": "Quell'esperienza intensa fece nascere una sincera fratellanza tra tutti noi. (That intense experience gave rise to a sincere brotherhood among all of us.)"
     },
     {
       "language": "Chinese",
-      "word": "Gǎn'ēn",
-      "meaning": "To feel grateful; thankfulness.",
-      "type": "Verb",
-      "type_in_language": "Dòngcí",
-      "sentence1": "Wǒmen yīnggāi duì shēnghuó zhōng de měi yí gè bāngzhù wǒmen de rén gǎn'ēn (We should be grateful to everyone in life who helps us).",
-      "sentence2": "Tā hěn gǎn'ēn neng yǒu zhèyī cì jīhuì (He is very grateful to have this opportunity)."
+      "word": "Qingyi",
+      "meaning": "Warm fellowship, deep emotional attachment, and affectionate bond between friends.",
+      "type": "Noun",
+      "type_in_language": "Mingci",
+      "sentence1": "Suiran duo nian bu jian, dan tamen zhijian de qingyi congwei jianruo. (Although they had not met for many years, the affectionate bond between them never weakened.)",
+      "sentence2": "Pengyou zhi jian de zhenzhi qingyi shi rensheng zui baogui de caifu. (The sincere fellowship between friends is life's most precious treasure.)"
     },
     {
       "language": "Korean",
-      "word": "Gamsa",
-      "meaning": "Appreciation or gratitude.",
+      "word": "Yudae",
+      "meaning": "A bond, tie, or close sense of interpersonal connection and solidarity.",
       "type": "Noun",
       "type_in_language": "Myeongsa",
-      "sentence1": "Doeji anneun doum-e daehae jinshim-euro gamsa-reul deurimnida (I sincerely express my gratitude for your invaluable help).",
-      "sentence2": "Geunyeo-neun maseissneun eumshik-e gamsa-haessda (She was thankful for the delicious food)."
+      "sentence1": "Hamkke eoryeoum-eul igyeonaemyeonseo geudeul sa-i-ui yudae-ga deouk gip-eojyeotda. (As they overcame difficulties together, the bond between them grew even deeper.)",
+      "sentence2": "Ttatteut-han daehwa-neun saramdeul sa-i-e dandanhan yudae-reul hyeongseonghanda. (Warm conversation forms a solid connection among people.)"
     },
     {
       "language": "Khmer",
-      "word": "Kusala",
-      "meaning": "A sense of inner merit, wholesome emotion, or spiritual gladness.",
+      "word": "Tumnak-tumnong",
+      "meaning": "Connection, relationship, or mutual link between individuals.",
       "type": "Noun",
-      "type_in_language": "Kan noun",
-      "sentence1": "Neak mean chet kusala knong kar chuoy sa-sach (He has a wholesome and compassionate heart in helping others).",
-      "sentence2": "Kar thveu ampeal la-or nam নিয়ে mok nuv chet kusala (Doing good deeds brings inner spiritual gladness)."
+      "type_in_language": "Neam",
+      "sentence1": "Tumnak-tumnong laor roveang puok-ke thveu oy kar-reab-an kan-tae rinoem. (The good connection between them makes their companionship grow even stronger.)",
+      "sentence2": "Kar-chol-ruom knong kyech-kar thveu oy tumnak-tumnong roveang srok kan-tae chet-snith. (Participating in community activities makes the bond between neighbors much closer.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Dankbaarheid",
-      "meaning": "The quality of being thankful; readiness to show appreciation.",
+      "word": "Kameraadskap",
+      "meaning": "Comradeship; a spirit of mutual trust, companionship, and shared loyalty.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Sy het haar dankbaarheid uitgedruk vir al die ondersteuning (She expressed her gratitude for all the support).",
-      "sentence2": "Met diep dankbaarheid in sy hart het hy die geskenk ontvang (With deep gratitude in his heart he received the gift)."
+      "sentence1": "Hulle jarelange kameraadskap het 'n onbreekbare band tussen die twee gevorm. (Their years of comradeship formed an unbreakable bond between the two.)",
+      "sentence2": "Tydens die moeilike reis was die opregte kameraadskap van die groep 'n groot vertroosting. (During the difficult journey, the sincere comradeship of the group was a great comfort.)"
     }
   ]
 }
