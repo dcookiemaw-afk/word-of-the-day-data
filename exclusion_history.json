@@ -40,7 +40,8 @@
     "Chagrin",
     "Gratitude",
     "Fellowship",
-    "Avalanche"
+    "Avalanche",
+    "Rapport"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -83,7 +84,8 @@
     "Deernis",
     "Dankbaarheid",
     "Kameraadskap",
-    "Sterrewag"
+    "Sterrewag",
+    "Verbondenheid"
   ],
   "Spanish": [
     "Esperanza",
@@ -125,7 +127,8 @@
     "Ilusion",
     "Entusiasmo",
     "Afinidad",
-    "Cascada"
+    "Cascada",
+    "Concordia"
   ],
   "French": [
     "Magnifique",
@@ -168,7 +171,8 @@
     "Plenitude",
     "Tendresse",
     "Complicite",
-    "Canicule"
+    "Canicule",
+    "Entente"
   ],
   "German": [
     "Wunderbar",
@@ -210,7 +214,8 @@
     "Ergriffenheit",
     "Zufriedenheit",
     "Freundschaft",
-    "Sonnenschein"
+    "Sonnenschein",
+    "Vertrautheit"
   ],
   "Japanese": [
     "Komorebi",
@@ -253,7 +258,8 @@
     "Yasuragi",
     "Kansha",
     "Yuujou",
-    "Yuki"
+    "Yuki",
+    "Shinboku"
   ],
   "Italian": [
     "Speranza",
@@ -294,7 +300,8 @@
     "Tenerezza",
     "Gratitudine",
     "Fratellanza",
-    "Ghiacciaio"
+    "Ghiacciaio",
+    "Legame"
   ],
   "Chinese": [
     "Xìngfú",
@@ -337,7 +344,8 @@
     "Chongjing",
     "Gǎn'ēn",
     "Qingyi",
-    "Hǎian"
+    "Hǎian",
+    "Moqi"
   ],
   "Korean": [
     "Haengbok",
@@ -380,7 +388,8 @@
     "Yeonmin",
     "Gamsa",
     "Yudae",
-    "Pulkcot"
+    "Pulkcot",
+    "Inyeon"
   ],
   "Khmer": [
     "Sro-noh",
@@ -422,6 +431,7 @@
     "Karuna",
     "Kusala",
     "Tumnak-tumnong",
-    "Tonsay"
+    "Tonsay",
+    "Sompanthapheap"
   ]
 }
