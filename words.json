@@ -2,93 +2,103 @@
   "words": [
     {
       "language": "English",
-      "word": "Companionship",
-      "meaning": "The relationship between companions; a feeling of fellowship or friendship.",
+      "word": "Supernova",
+      "meaning": "A powerful and luminous stellar explosion",
       "type": "Noun",
       "type_in_language": "Noun",
-      "sentence1": "Their quiet companionship helped them weather the difficult winter together (Their quiet companionship helped them weather the difficult winter together).",
-      "sentence2": "She found great companionship in her rescue dog during the long evenings (She found great companionship in her rescue dog during the long evenings)."
+      "phonetic": "[ˌsuːpəˈnəʊvə]",
+      "sentence1": "The astronomers observed a distant supernova shining brightly in the galaxy. (The astronomers observed a distant supernova shining brightly in the galaxy.)",
+      "sentence2": "A supernova can outshine an entire galaxy for a brief period. (A supernova can outshine an entire galaxy for a brief period.)"
     },
     {
       "language": "Spanish",
-      "word": "Solidaridad",
-      "meaning": "Unity or agreement of feeling or action, especially among individuals with a common interest; mutual support within a group.",
+      "word": "Galaxia",
+      "meaning": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "sentence1": "La solidaridad entre los vecinos fue fundamental para reconstruir el barrio (The solidarity among the neighbors was fundamental to rebuild the neighborhood).",
-      "sentence2": "Mostraron gran solidaridad con las familias afectadas por la tormenta (They showed great solidarity with the families affected by the storm)."
+      "phonetic": "[ɡaˈlak.sja]",
+      "sentence1": "Nuestra galaxia se llama la Vía Láctea. (Our galaxy is called the Milky Way.)",
+      "sentence2": "Existen miles de millones de galaxias en el universo observable. (There are billions of galaxies in the observable universe.)"
     },
     {
       "language": "French",
-      "word": "Fraternité",
-      "meaning": "The relationship between brothers or people with a shared interest or common purpose; brotherhood.",
+      "word": "Cosmos",
+      "meaning": "The universe seen as a well-ordered whole",
       "type": "Noun",
       "type_in_language": "Nom",
-      "sentence1": "La fraternité qui unissait ces artistes a duré toute leur vie (The fraternity that united these artists lasted their entire lives).",
-      "sentence2": "Cet événement célèbre les valeurs de liberté, d'égalité et de fraternité (This event celebrates the values of freedom, equality, and brotherhood)."
+      "phonetic": "[kɔs.mos]",
+      "sentence1": "Le mystère du cosmos fascine l'humanité depuis la nuit des temps. (The mystery of the cosmos has fascinated humanity since the dawn of time.)",
+      "sentence2": "Nous explorons les confins du cosmos avec de grands télescopes. (We explore the edges of the cosmos with large telescopes.)"
     },
     {
       "language": "German",
-      "word": "Wohlwollen",
-      "meaning": "Benevolence, goodwill, or a kind and friendly disposition towards others.",
+      "word": "Gravitation",
+      "meaning": "The force of attraction between all masses in the universe",
       "type": "Noun",
       "type_in_language": "Nomen",
-      "sentence1": "Er begegnete den neuen Kollegen stets mit offenem Wohlwollen (He always met the new colleagues with open goodwill).",
-      "sentence2": "Ihr stetes Wohlwollen hat mir in dieser schwierigen Zeit sehr geholfen (Her constant goodwill helped me a lot during this difficult time)."
+      "phonetic": "[ɡʁaviotaˈtsjoːn]",
+      "sentence1": "Die Gravitation hält die Planeten auf ihren Bahnen um die Sonne. (Gravity keeps the planets in their orbits around the sun.)",
+      "sentence2": "Ohne Gravitation würde das Leben im Weltraum nicht funktionieren. (Without gravitation, life in space would not function.)"
     },
     {
       "language": "Japanese",
-      "word": "Fureai",
-      "meaning": "Emotional contact, close communication, or a feeling of warmth through mutual connection.",
+      "word": "Wakusei",
+      "meaning": "Planet",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "sentence1": "Chiiki no hito-tachi to no fureai ga watashi no kokoro o iyasu (The warm connection with the local people heals my heart).",
-      "sentence2": "Dobutsu to no fureai wa kodomotachi ni totte taisetsu na keiken desu (Contact and connection with animals is an important experience for children)."
+      "phonetic": "[waku.se̞ː]",
+      "sentence1": "Chikyuu wa taiyou o mawaru wakusei desu. (Earth is a planet that revolves around the sun.)",
+      "sentence2": "Ano akai wakusei wa Kasei to yobaremasu. (That red planet is called Mars.)"
     },
     {
       "language": "Italian",
-      "word": "Solidarietà",
-      "meaning": "Mutual support and a sense of shared responsibility among members of a group or community.",
+      "word": "Nebulosa",
+      "meaning": "A cloud of gas and dust in outer space",
       "type": "Noun",
-      "type_in_language": "Nome",
-      "sentence1": "La solidarietà dimostrata dai cittadini ha superato ogni aspettativa (The solidarity shown by the citizens exceeded all expectations).",
-      "sentence2": "In quel momento difficile, ho capito il vero valore della solidarietà (In that difficult moment, I understood the true value of solidarity)."
+      "type_in_language": "Sostantivo",
+      "phonetic": "[nebuˈloːza]",
+      "sentence1": "La nebulosa di Orione è visibile anche con piccoli telescopi. (The Orion Nebula is visible even with small telescopes.)",
+      "sentence2": "Nuove stelle nascono all'interno di questa magnifica nebulosa. (New stars are born inside this magnificent nebula.)"
     },
     {
       "language": "Chinese",
-      "word": "Gānyǔgòngkǔ",
-      "meaning": "To share weal and woe together; to stick together through thick and thin in a deep bond.",
-      "type": "Idiom",
-      "type_in_language": "Chéngyǔ",
-      "sentence1": "Tāmen shì gānyǔgòngkǔ de hǎo péngyǒu (They are good friends who share weal and woe together).",
-      "sentence2": "Zài chuàngyè de jiānxīn rìzi li, dàjiā shǐzhōng gānyǔgòngkǔ (During the hard days of starting a business, everyone always stuck together through thick and thin)."
+      "word": "Tàikōng",
+      "meaning": "Outer space",
+      "type": "Noun",
+      "type_in_language": "Míngcí",
+      "phonetic": "[tʰaɪ̯˥ tʰʊŋ˥]",
+      "sentence1": "Rénlèi duì tàikōng de tànsuǒ cóng wèi tíngzhǐ. (Humanity's exploration of outer space has never stopped.)",
+      "sentence2": "Yuhangyuan zai taikongzhong feiching chuanyue. (The astronaut flew across outer space.)"
     },
     {
       "language": "Korean",
-      "word": "Hwabae",
-      "meaning": "Harmony, peace, and concord among people living or working together.",
-      "type": "Noun",
+      "word": "Uju",
+      "meaning": "Universe / Cosmos",
       "type_in_language": "Myeongsa",
-      "sentence1": "Daehwaui cheotgeoreumeun seororeul injeonghaneun hwabae e itda (The first step of dialogue lies in harmony that acknowledges one another).",
-      "sentence2": "Uri maegeun ooraejeonbuteo hwabaereul jungshihaewatda (Our village has valued harmony and concord since long ago)."
+      "type": "Noun",
+      "phonetic": "[u.dʑu]",
+      "sentence1": "Ujuenun sumaneun byeoldulgwa eunhasuga isseoyo. (There are countless stars and galaxies in the universe.)",
+      "sentence2": "Inganun eonjena ujuui bimireul algo sipeohabnida. (Humans always want to know the secrets of the universe.)"
     },
     {
       "language": "Khmer",
-      "word": "Samakkethorm",
-      "meaning": "The virtue of solidarity, unity, and harmonious coexistence among community members.",
+      "word": "A-ka-kas",
+      "meaning": "Atmosphere / Space",
       "type": "Noun",
-      "type_in_language": "Nam",
-      "sentence1": "Kar rkosa samakkethorm knong krousa chea kear samkhan nas (Maintaining unity and harmony within the family is very important).",
-      "sentence2": "Puokkea ban banghien samakkethorm vea laor nas del phdl phlnh chaoy knea (They showed wonderful solidarity by helping each other)."
+      "type_in_language": "Nam-reas",
+      "phonetic": "[ʔɑːkaːkaːh]",
+      "sentence1": "Neak-vi-chhea-sastr siks-sa pi a-ka-kas. (Scientists study about space.)",
+      "sentence2": "Meas pka-chanh chhnanh thla-thlok knong a-ka-kas. (The golden flower floats in the atmosphere.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Saamhorigheid",
-      "meaning": "A sense of togetherness, solidarity, and mutual belonging among people.",
+      "word": "Heelal",
+      "meaning": "The universe",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "sentence1": "Die gemeenskap het ’n sterk gevoel van saamhorigheid tydens die krisis getoon (The community showed a strong sense of togetherness during the crisis).",
-      "sentence2": "Daardie naweekkamp het ’n wonderlike gevoel van saamhorigheid onder die vriende gebring (That weekend camp brought a wonderful sense of togetherness among the friends)."
+      "phonetic": "[ˈɦɪəlal]",
+      "sentence1": "Die heelal is uiters groot en geheimsinnig. (The universe is extremely large and mysterious.)",
+      "sentence2": "Wetenskaplikes probeer om die oorsprong van die heelal te verstaan. (Scientists try to understand the origin of the universe.)"
     }
   ]
 }
