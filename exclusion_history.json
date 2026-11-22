@@ -41,7 +41,8 @@
     "Gratitude",
     "Fellowship",
     "Avalanche",
-    "Rapport"
+    "Rapport",
+    "Companionship"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -128,7 +129,8 @@
     "Entusiasmo",
     "Afinidad",
     "Cascada",
-    "Concordia"
+    "Concordia",
+    "Solidaridad"
   ],
   "French": [
     "Magnifique",
@@ -172,7 +174,8 @@
     "Tendresse",
     "Complicite",
     "Canicule",
-    "Entente"
+    "Entente",
+    "Fraternité"
   ],
   "German": [
     "Wunderbar",
@@ -215,7 +218,8 @@
     "Zufriedenheit",
     "Freundschaft",
     "Sonnenschein",
-    "Vertrautheit"
+    "Vertrautheit",
+    "Wohlwollen"
   ],
   "Japanese": [
     "Komorebi",
@@ -259,7 +263,8 @@
     "Kansha",
     "Yuujou",
     "Yuki",
-    "Shinboku"
+    "Shinboku",
+    "Fureai"
   ],
   "Italian": [
     "Speranza",
@@ -301,7 +306,8 @@
     "Gratitudine",
     "Fratellanza",
     "Ghiacciaio",
-    "Legame"
+    "Legame",
+    "Solidarietà"
   ],
   "Chinese": [
     "Xìngfú",
@@ -345,7 +351,8 @@
     "Gǎn'ēn",
     "Qingyi",
     "Hǎian",
-    "Moqi"
+    "Moqi",
+    "Gānyǔgòngkǔ"
   ],
   "Korean": [
     "Haengbok",
@@ -389,7 +396,8 @@
     "Gamsa",
     "Yudae",
     "Pulkcot",
-    "Inyeon"
+    "Inyeon",
+    "Hwabae"
   ],
   "Khmer": [
     "Sro-noh",
@@ -432,6 +440,7 @@
     "Kusala",
     "Tumnak-tumnong",
     "Tonsay",
-    "Sompanthapheap"
+    "Sompanthapheap",
+    "Samakkethorm"
   ]
 }
