@@ -1,0 +1,135 @@
+import os
+import json
+import requests
+import datetime
+import random
+import time
+
+api_key = os.environ.get("GEMINI_API_KEY_WORD_OF_THE_DAY")
+
+if not api_key:
+    print("Error: GEMINI_API_KEY_WORD_OF_THE_DAY environment variable is empty or missing.", flush=True)
+    exit(1)
+
+languages = [
+    "English", "Spanish", "French", "German", "Japanese", 
+    "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
+]
+
+history_file = 'exclusion_history.json'
+exclusions_by_lang = {}
+
+# Read 100% from exclusion_history.json
+if os.path.exists(history_file):
+    try:
+        with open(history_file, 'r', encoding='utf-8') as f:
+            exclusions_by_lang = json.load(f)
+    except Exception as e:
+        print(f"Notice: Loading existing exclusion history: {e}", flush=True)
+
+# Build language-specific exclusion prompt section
+exclusion_prompt_lines = []
+for lang in languages:
+    excluded_words = exclusions_by_lang.get(lang, [])
+    if excluded_words:
+        exclusion_prompt_lines.append(f"- {lang}: DO NOT use {', '.join(excluded_words[-50:])}")
+
+exclusion_text = "\n".join(exclusion_prompt_lines)
+
+today_str = datetime.date.today().strftime("%B %d, %Y")
+topics = ["nature & seasons", "emotions & feelings", "art & beauty", "wisdom & philosophy", "daily life & wonder", "courage & inspiration", "friendship & connection", "space & universe", "starlight & dreams", "harvest & joy"]
+today_topic = random.choice(topics)
+
+prompt = (
+    f"Today is {today_str}. Generate a JSON object with a key 'words' containing a list of objects. "
+    f"Provide a REAL, AUTHENTIC, EXISTING dictionary word inspired by '{today_topic}' for each of these exact languages: {', '.join(languages)}. "
+    f"CRITICAL: Do NOT invent, make up, or portmanteau words. Every word must be a genuine, recognized term found in standard dictionaries for that language.\n"
+    f"STRICT PER-LANGUAGE EXCLUSION RULES (DO NOT REPEAT ANY OF THESE WORDS):\n"
+    f"{exclusion_text}\n"
+    f"CRITICAL RULE FOR SCRIPTS & WRITING:\n"
+    f"- For ALL languages in the list ({', '.join(languages)}), write 'word', 'sentence1', and 'sentence2' using Latin/English script phonetics (Romanization/transliteration) so an English speaker can easily read and pronounce them.\n"
+    f"- 'meaning': The English definition/meaning of the word\n"
+    f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
+    f"- 'type_in_language': Part of speech in the target language written in Latin/English script phonetics (e.g., 'byvoeglike naamwoord' for Afrikaans, 'kuna neam' for Khmer, 'adjetivo' for Spanish)\n"
+    f"- 'sentence1' & 'sentence2': Interesting example sentences written in English script phonetics showing how the word is used in that language, followed by its English translation in parentheses.\n"
+    f"Return ONLY raw JSON text matching this schema. Do not wrap in markdown code blocks."
+)
+
+models_to_try = [
+    "models/gemini-3.8-flash",
+    "models/gemini-3.5-flash-lite"
+]
+
+def generate():
+    for clean_model in models_to_try:
+        url = f"https://generativelanguage.googleapis.com/v1/{clean_model}:generateContent?key={api_key}"
+        payload = {
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "responseMimeType": "application/json",
+                "temperature": 0.95
+            }
+        }
+        
+        # Try each model up to 3 times to prevent timeouts
+        for attempt in range(1, 4):
+            print(f"Attempting generation for {today_str} (Topic: {today_topic}) with model: {clean_model} (Attempt {attempt}/3)...", flush=True)
+            try:
+                response = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=90)
+                if response.status_code == 200:
+                    response_json = response.json()
+                    raw_text = response_json['candidates'][0]['content']['parts'][0]['text'].strip()
+                    
+                    # Remove markdown wrappers if model added them
+                    if raw_text.startswith("```"):
+                        raw_text = raw_text.split("```")[1]
+                        if raw_text.startswith("json"):
+                            raw_text = raw_text[4:].strip()
+                        raw_text = raw_text.strip("`").strip()
+
+                    # FIX: Safely handle both JSON object and JSON list responses
+                    parsed_data = json.loads(raw_text)
+                    if isinstance(parsed_data, list):
+                        data = {"words": parsed_data}
+                        new_words_list = parsed_data
+                    elif isinstance(parsed_data, dict):
+                        data = parsed_data
+                        new_words_list = data.get('words', [])
+                    else:
+                        raise ValueError("Parsed JSON is neither a list nor a dictionary.")
+                    
+                    # Save words.json
+                    with open('words.json', 'w', encoding='utf-8') as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                    
+                    # Update exclusion_history.json automatically
+                    for item in new_words_list:
+                        l = item.get('lang') or item.get('language')
+                        wt = item.get('word') or item.get('text')
+                        if l and wt:
+                            if l not in exclusions_by_lang:
+                                exclusions_by_lang[l] = []
+                            if wt not in exclusions_by_lang[l]:
+                                exclusions_by_lang[l].append(wt)
+                            
+                    with open(history_file, 'w', encoding='utf-8') as f:
+                        json.dump(exclusions_by_lang, f, ensure_ascii=False, indent=2)
+
+                    print(f"Success! Generated fresh words.json using model: {clean_model}", flush=True)
+                    return True
+                else:
+                    print(f"Model {clean_model} returned code {response.status_code}: {response.text}", flush=True)
+                    break # Don't retry auth/client errors (like 400/403)
+            except Exception as err:
+                print(f"Skipping attempt {attempt} for model {clean_model} due to error: {err}", flush=True)
+                if attempt < 3:
+                    time.sleep(10 * attempt) # Backoff delay before retry
+            
+    return False
+
+if __name__ == "__main__":
+    if generate():
+        print("Workflow completed successfully!", flush=True)
+    else:
+        print("CRITICAL: All available Gemini endpoints failed.", flush=True)
+        exit(1)
