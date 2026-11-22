@@ -12,7 +12,7 @@ if not api_key:
     exit(1)
 
 languages = [
-    "English", "Spanish", "French", "German", "Japanese", 
+    "English", "Spanish", "French", "German", "Japanese",
     "Italian", "Chinese", "Korean", "Khmer", "Afrikaans"
 ]
 
@@ -51,6 +51,7 @@ prompt = (
     f"- 'meaning': The English definition/meaning of the word\n"
     f"- 'type': Part of speech in English (e.g., Noun, Verb, Adjective)\n"
     f"- 'type_in_language': Part of speech in the target language written in Latin/English script phonetics (e.g., 'byvoeglike naamwoord' for Afrikaans, 'kuna neam' for Khmer, 'adjetivo' for Spanish)\n"
+    f"- 'phonetic': International Phonetic Alphabet (IPA) pronunciation string in brackets (e.g., '[ˈɛpɪfrɒn]')\n"
     f"- 'sentence1' & 'sentence2': Interesting example sentences written in English script phonetics showing how the word is used in that language, followed by its English translation in parentheses.\n"
     f"Return ONLY raw JSON text matching this schema. Do not wrap in markdown code blocks."
 )
@@ -70,7 +71,7 @@ def generate():
                 "temperature": 0.95
             }
         }
-        
+
         # Try each model up to 3 times to prevent timeouts
         for attempt in range(1, 4):
             print(f"Attempting generation for {today_str} (Topic: {today_topic}) with model: {clean_model} (Attempt {attempt}/3)...", flush=True)
@@ -79,7 +80,7 @@ def generate():
                 if response.status_code == 200:
                     response_json = response.json()
                     raw_text = response_json['candidates'][0]['content']['parts'][0]['text'].strip()
-                    
+
                     # Remove markdown wrappers if model added them
                     if raw_text.startswith("```"):
                         raw_text = raw_text.split("```")[1]
@@ -97,11 +98,11 @@ def generate():
                         new_words_list = data.get('words', [])
                     else:
                         raise ValueError("Parsed JSON is neither a list nor a dictionary.")
-                    
+
                     # Save words.json
                     with open('words.json', 'w', encoding='utf-8') as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
-                    
+
                     # Update exclusion_history.json automatically
                     for item in new_words_list:
                         l = item.get('lang') or item.get('language')
@@ -111,7 +112,7 @@ def generate():
                                 exclusions_by_lang[l] = []
                             if wt not in exclusions_by_lang[l]:
                                 exclusions_by_lang[l].append(wt)
-                            
+
                     with open(history_file, 'w', encoding='utf-8') as f:
                         json.dump(exclusions_by_lang, f, ensure_ascii=False, indent=2)
 
@@ -124,7 +125,7 @@ def generate():
                 print(f"Skipping attempt {attempt} for model {clean_model} due to error: {err}", flush=True)
                 if attempt < 3:
                     time.sleep(10 * attempt) # Backoff delay before retry
-            
+
     return False
 
 if __name__ == "__main__":
