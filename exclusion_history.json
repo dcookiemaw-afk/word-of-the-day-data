@@ -43,7 +43,8 @@
     "Avalanche",
     "Rapport",
     "Companionship",
-    "Supernova"
+    "Supernova",
+    "Orbit"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -88,7 +89,8 @@
     "Kameraadskap",
     "Sterrewag",
     "Verbondenheid",
-    "Heelal"
+    "Heelal",
+    "Komeet"
   ],
   "Spanish": [
     "Esperanza",
@@ -133,7 +135,8 @@
     "Cascada",
     "Concordia",
     "Solidaridad",
-    "Galaxia"
+    "Galaxia",
+    "Eclipse"
   ],
   "French": [
     "Magnifique",
@@ -179,7 +182,8 @@
     "Canicule",
     "Entente",
     "Fraternité",
-    "Cosmos"
+    "Cosmos",
+    "Nebuleuse"
   ],
   "German": [
     "Wunderbar",
@@ -224,7 +228,8 @@
     "Sonnenschein",
     "Vertrautheit",
     "Wohlwollen",
-    "Gravitation"
+    "Gravitation",
+    "Galaxie"
   ],
   "Japanese": [
     "Komorebi",
@@ -270,7 +275,8 @@
     "Yuki",
     "Shinboku",
     "Fureai",
-    "Wakusei"
+    "Wakusei",
+    "Ryusei"
   ],
   "Italian": [
     "Speranza",
@@ -314,7 +320,8 @@
     "Ghiacciaio",
     "Legame",
     "Solidarietà",
-    "Nebulosa"
+    "Nebulosa",
+    "Costellazione"
   ],
   "Chinese": [
     "Xìngfú",
@@ -360,7 +367,8 @@
     "Hǎian",
     "Moqi",
     "Gānyǔgòngkǔ",
-    "Tàikōng"
+    "Tàikōng",
+    "Xīngchén"
   ],
   "Korean": [
     "Haengbok",
@@ -406,7 +414,8 @@
     "Pulkcot",
     "Inyeon",
     "Hwabae",
-    "Uju"
+    "Uju",
+    "Yuseong"
   ],
   "Khmer": [
     "Sro-noh",
@@ -451,6 +460,7 @@
     "Tonsay",
     "Sompanthapheap",
     "Samakkethorm",
-    "A-ka-kas"
+    "A-ka-kas",
+    "Tarakar"
   ]
 }

@@ -2,103 +2,103 @@
   "words": [
     {
       "language": "English",
-      "word": "Supernova",
-      "meaning": "A powerful and luminous stellar explosion",
+      "word": "Orbit",
+      "meaning": "The curved path of a celestial object or spacecraft round a star, planet, or moon.",
       "type": "Noun",
       "type_in_language": "Noun",
-      "phonetic": "[ˌsuːpəˈnəʊvə]",
-      "sentence1": "The astronomers observed a distant supernova shining brightly in the galaxy. (The astronomers observed a distant supernova shining brightly in the galaxy.)",
-      "sentence2": "A supernova can outshine an entire galaxy for a brief period. (A supernova can outshine an entire galaxy for a brief period.)"
+      "phonetic": "[ˈɔːrbɪt]",
+      "sentence1": "The satellite successfully entered a stable orbit around the Earth. (The satellite successfully entered a stable orbit around the Earth.)",
+      "sentence2": "Scientists calculated the exact orbit of the distant comet. (Scientists calculated the exact orbit of the distant comet.)"
     },
     {
       "language": "Spanish",
-      "word": "Galaxia",
-      "meaning": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction",
+      "word": "Eclipse",
+      "meaning": "An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source.",
       "type": "Noun",
       "type_in_language": "Sustantivo",
-      "phonetic": "[ɡaˈlak.sja]",
-      "sentence1": "Nuestra galaxia se llama la Vía Láctea. (Our galaxy is called the Milky Way.)",
-      "sentence2": "Existen miles de millones de galaxias en el universo observable. (There are billions of galaxies in the observable universe.)"
+      "phonetic": "[eˈklipse]",
+      "sentence1": "El eclipse solar fascinó a millones de personas en todo el mundo. (The solar eclipse fascinated millions of people around the world.)",
+      "sentence2": "Esperamos ansiosos el próximo eclipse lunar para usar nuestros telescopios. (We eagerly await the next lunar eclipse to use our telescopes.)"
     },
     {
       "language": "French",
-      "word": "Cosmos",
-      "meaning": "The universe seen as a well-ordered whole",
+      "word": "Nebuleuse",
+      "meaning": "A cloud of gas and dust in outer space, visible in the night sky either as an indistinct bright patch or as a dark silhouette.",
       "type": "Noun",
       "type_in_language": "Nom",
-      "phonetic": "[kɔs.mos]",
-      "sentence1": "Le mystère du cosmos fascine l'humanité depuis la nuit des temps. (The mystery of the cosmos has fascinated humanity since the dawn of time.)",
-      "sentence2": "Nous explorons les confins du cosmos avec de grands télescopes. (We explore the edges of the cosmos with large telescopes.)"
+      "phonetic": "[ne.by.lødʒ]",
+      "sentence1": "Cette belle nebuleuse est situee a des annees-lumiere de notre systeme solaire. (This beautiful nebula is located light-years away from our solar system.)",
+      "sentence2": "L'astronome a capture l'image d'une jeune nebuleuse avec son puissant telescope. (The astronomer captured the image of a young nebula with his powerful telescope.)"
     },
     {
       "language": "German",
-      "word": "Gravitation",
-      "meaning": "The force of attraction between all masses in the universe",
+      "word": "Galaxie",
+      "meaning": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
       "type": "Noun",
       "type_in_language": "Nomen",
-      "phonetic": "[ɡʁaviotaˈtsjoːn]",
-      "sentence1": "Die Gravitation hält die Planeten auf ihren Bahnen um die Sonne. (Gravity keeps the planets in their orbits around the sun.)",
-      "sentence2": "Ohne Gravitation würde das Leben im Weltraum nicht funktionieren. (Without gravitation, life in space would not function.)"
+      "phonetic": "[ɡalaˈksiː]",
+      "sentence1": "Unsere Milchstrasse ist nur eine von Milliarden Galaxien im Universum. (Our Milky Way is just one of billions of galaxies in the universe.)",
+      "sentence2": "Mit dem neuen Weltraumteleskop konnten Astronomen eine sehr alte Galaxie entdecken. (With the new space telescope, astronomers were able to discover a very old galaxy.)"
     },
     {
       "language": "Japanese",
-      "word": "Wakusei",
-      "meaning": "Planet",
+      "word": "Ryusei",
+      "meaning": "A shooting star or meteor passing through the atmosphere.",
       "type": "Noun",
       "type_in_language": "Meishi",
-      "phonetic": "[waku.se̞ː]",
-      "sentence1": "Chikyuu wa taiyou o mawaru wakusei desu. (Earth is a planet that revolves around the sun.)",
-      "sentence2": "Ano akai wakusei wa Kasei to yobaremasu. (That red planet is called Mars.)"
+      "phonetic": "[ɾʲɯːse̞ː]",
+      "sentence1": "Yozora o miageta toki, kireina ryusei ga nagareta. (When I looked up at the night sky, a beautiful shooting star streaked across.)",
+      "sentence2": "Kondo no yoru wa ryusei-gun o kansoku suru yotei desu. (We plan to observe the meteor shower on the upcoming night.)"
     },
     {
       "language": "Italian",
-      "word": "Nebulosa",
-      "meaning": "A cloud of gas and dust in outer space",
+      "word": "Costellazione",
+      "meaning": "A group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure.",
       "type": "Noun",
-      "type_in_language": "Sostantivo",
-      "phonetic": "[nebuˈloːza]",
-      "sentence1": "La nebulosa di Orione è visibile anche con piccoli telescopi. (The Orion Nebula is visible even with small telescopes.)",
-      "sentence2": "Nuove stelle nascono all'interno di questa magnifica nebulosa. (New stars are born inside this magnificent nebula.)"
+      "type_in_language": "Nome",
+      "phonetic": "[kostellatˈtsjoːne]",
+      "sentence1": "Orione e una delle costellazioni piu facili da riconoscere nel cielo notturno. (Orion is one of the easiest constellations to recognize in the night sky.)",
+      "sentence2": "Gli antichi marinai usavano la costellazione dell'Orsa Maggiore per orientarsi in mare. (Ancient sailors used the constellation of the Great Bear to navigate at sea.)"
     },
     {
       "language": "Chinese",
-      "word": "Tàikōng",
-      "meaning": "Outer space",
+      "word": "Xīngchén",
+      "meaning": "Stars in the night sky, heavenly bodies.",
       "type": "Noun",
       "type_in_language": "Míngcí",
-      "phonetic": "[tʰaɪ̯˥ tʰʊŋ˥]",
-      "sentence1": "Rénlèi duì tàikōng de tànsuǒ cóng wèi tíngzhǐ. (Humanity's exploration of outer space has never stopped.)",
-      "sentence2": "Yuhangyuan zai taikongzhong feiching chuanyue. (The astronaut flew across outer space.)"
+      "phonetic": "[ɕíŋ.ʈʂʰěn]",
+      "sentence1": "Wǎnshàng de xīngchén zài yèkōng zhōng shǎnyào. (The stars are sparkling in the night sky.)",
+      "sentence2": "Tā yǎngwàng zhè piàn chōngmǎn xīngchén de yǔzhòu. (He looks up at this universe full of stars.)"
     },
     {
       "language": "Korean",
-      "word": "Uju",
-      "meaning": "Universe / Cosmos",
-      "type_in_language": "Myeongsa",
+      "word": "Yuseong",
+      "meaning": "A shooting star or meteor burning brightly in the night sky.",
       "type": "Noun",
-      "phonetic": "[u.dʑu]",
-      "sentence1": "Ujuenun sumaneun byeoldulgwa eunhasuga isseoyo. (There are countless stars and galaxies in the universe.)",
-      "sentence2": "Inganun eonjena ujuui bimireul algo sipeohabnida. (Humans always want to know the secrets of the universe.)"
+      "type_in_language": "Myeongsa",
+      "phonetic": "[ju.sʰʌŋ]",
+      "sentence1": "Bame haneuleseo binnaneun yuseongeul bomyeo sowoneul bielda. (I made a wish while watching a shooting star shining in the night sky.)",
+      "sentence2": "Ibeon jumareun yuseongugeul gwancheokhagi joheun nalsida. (This weekend is great weather for observing a meteor shower.)"
     },
     {
       "language": "Khmer",
-      "word": "A-ka-kas",
-      "meaning": "Atmosphere / Space",
+      "word": "Tarakar",
+      "meaning": "Star or heavenly body in the expanse of the cosmos.",
       "type": "Noun",
-      "type_in_language": "Nam-reas",
-      "phonetic": "[ʔɑːkaːkaːh]",
-      "sentence1": "Neak-vi-chhea-sastr siks-sa pi a-ka-kas. (Scientists study about space.)",
-      "sentence2": "Meas pka-chanh chhnanh thla-thlok knong a-ka-kas. (The golden flower floats in the atmosphere.)"
+      "type_in_language": "Nam",
+      "phonetic": "[ta.ra.ka]",
+      "sentence1": "Tarakar chorsal chenh cheun kampong cherng phnom yub nih. (The stars are shining brightly at the foot of the mountain tonight.)",
+      "sentence2": "Kneat khernh tarakar mouy tol thleakh chus mk kraom. (He saw a star falling down towards the ground.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Heelal",
-      "meaning": "The universe",
+      "word": "Komeet",
+      "meaning": "A celestial body moving about the sun, consisting of a central nucleus surrounded by a nebulous envelope and usually having a tail.",
       "type": "Noun",
       "type_in_language": "Selfstandige naamwoord",
-      "phonetic": "[ˈɦɪəlal]",
-      "sentence1": "Die heelal is uiters groot en geheimsinnig. (The universe is extremely large and mysterious.)",
-      "sentence2": "Wetenskaplikes probeer om die oorsprong van die heelal te verstaan. (Scientists try to understand the origin of the universe.)"
+      "phonetic": "[koˈmeːt]",
+      "sentence1": "Die helder komeet was vir 'n paar weke lank met die blote oog sigbaar. (The bright comet was visible to the naked eye for a few weeks.)",
+      "sentence2": "Wetenskaplikes bestudeer die samestelling van die komeet se stert. (Scientists are studying the composition of the comet's tail.)"
     }
   ]
 }
