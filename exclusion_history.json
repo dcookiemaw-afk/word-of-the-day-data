@@ -45,7 +45,8 @@
     "Companionship",
     "Supernova",
     "Orbit",
-    "jubilancy"
+    "jubilancy",
+    "Plenitude"
   ],
   "Afrikaans": [
     "Pragtig",
@@ -93,7 +94,8 @@
     "Heelal",
     "Komeet",
     "jubel",
-    "Gemoedsrus"
+    "Gemoedsrus",
+    "Oorvloed"
   ],
   "Spanish": [
     "Esperanza",
@@ -141,7 +143,8 @@
     "Galaxia",
     "Eclipse",
     "jovialidad",
-    "Sosiego"
+    "Sosiego",
+    "Abundancia"
   ],
   "French": [
     "Magnifique",
@@ -190,7 +193,8 @@
     "Cosmos",
     "Nebuleuse",
     "allégresse",
-    "Apaisement"
+    "Apaisement",
+    "Abondance"
   ],
   "German": [
     "Wunderbar",
@@ -238,7 +242,8 @@
     "Gravitation",
     "Galaxie",
     "jubel",
-    "Innigkeit"
+    "Innigkeit",
+    "Fuelle"
   ],
   "Japanese": [
     "Komorebi",
@@ -287,7 +292,8 @@
     "Wakusei",
     "Ryusei",
     "shukufuku",
-    "Natsukashii"
+    "Natsukashii",
+    "Yutaka"
   ],
   "Italian": [
     "Speranza",
@@ -334,7 +340,8 @@
     "Nebulosa",
     "Costellazione",
     "esultanza",
-    "Quiete"
+    "Quiete",
+    "Abbondanza"
   ],
   "Chinese": [
     "Xìngfú",
@@ -383,7 +390,8 @@
     "Tàikōng",
     "Xīngchén",
     "huanle",
-    "Ānníng"
+    "Ānníng",
+    "Róngrùn"
   ],
   "Korean": [
     "Haengbok",
@@ -432,7 +440,8 @@
     "Uju",
     "Yuseong",
     "hwanhui",
-    "Pyeongon"
+    "Pyeongon",
+    "Pungseong"
   ],
   "Khmer": [
     "Sro-noh",
@@ -480,6 +489,7 @@
     "A-ka-kas",
     "Tarakar",
     "amnou",
-    "Sangkroas"
+    "Sangkroas",
+    "Pok-peun"
   ]
 }
