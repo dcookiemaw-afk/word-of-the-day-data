@@ -1,4 +1,4 @@
-name: Daily Word Generator
+name: Daily Word & Nuances Generator
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-words:
+  update-words-and-nuances:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,14 +25,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Generate words.json using Gemini
+      - name: Generate main words.json using Gemini
         env:
           GEMINI_API_KEY_WORD_OF_THE_DAY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }}
         run: python generate_words.py
 
-      - name: Commit and push updated words.json and exclusion_history.json
+      - name: Generate separate words_nuances.json using Gemini
+        env:
+          GEMINI_API_KEY_WORD_OF_THE_DAY: ${{ secrets.GEMINI_API_KEY_WORD_OF_THE_DAY }}
+        run: python generate_words_nuances.py
+
+      - name: Commit and push updated JSON and exclusion files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add words.json exclusion_history.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update daily words list" && git push)
+          git add words.json words_nuances.json exclusion_history.json exclusion_history_nuances.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update daily words & nuances lists" && git push)
