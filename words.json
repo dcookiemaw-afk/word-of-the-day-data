@@ -2,103 +2,103 @@
   "words": [
     {
       "language": "English",
-      "word": "Petrichor",
-      "meaning": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather",
+      "word": "amity",
+      "meaning": "a friendly relationship",
       "type": "Noun",
-      "type_in_language": "Noun",
-      "phonetic": "[ˈpɛtrɪkɔːr]",
-      "sentence1": "The sudden summer storm brought a refreshing petrichor to the dry earth. (The sudden summer storm brought a refreshing earthy scent to the dry ground.)",
-      "sentence2": "She closed her eyes and deeply inhaled the rich petrichor rising from the pavement. (She closed her eyes and deeply inhaled the rich earthy scent rising from the pavement.)"
+      "type_in_language": "noun",
+      "phonetic": "[ˈæmɪti]",
+      "sentence1": "Their nations lived in amity for centuries. (Their nations lived in friendly relationship for centuries.)",
+      "sentence2": "The treaty was signed in an atmosphere of mutual amity. (The treaty was signed in an atmosphere of mutual friendly relationship.)"
     },
     {
       "language": "Spanish",
-      "word": "Madrugada",
-      "meaning": "The early morning hours, dawn, or daybreak",
+      "word": "camaraderia",
+      "meaning": "mutual trust and friendship among people who spend a lot of time together",
       "type": "Noun",
-      "type_in_language": "Sustantivo",
-      "phonetic": "[ma.ðɾuˈɣa.ða]",
-      "sentence1": "Salimos de viaje en plena madrugada para evitar el trafico. (We left on our trip in the dead of the early morning to avoid the traffic.)",
-      "sentence2": "El canto de los pajaros comienza en la madrugada. (The singing of the birds begins at dawn.)"
+      "type_in_language": "sustantivo",
+      "phonetic": "[ka.ma.ɾa.ðeˈɾi.a]",
+      "sentence1": "Hay mucha camaraderia entre los miembros del equipo. (There is a lot of camaraderie among the team members.)",
+      "sentence2": "La camaraderia del grupo hizo que el viaje fuera inolvidable. (The camaraderie of the group made the trip unforgettable.)"
     },
     {
       "language": "French",
-      "word": "Bruine",
-      "meaning": "Light rain consisting of tiny droplets; drizzle",
+      "word": "camaraderie",
+      "meaning": "good fellowship and loyalty",
       "type": "Noun",
-      "type_in_language": "Nom",
-      "phonetic": "[bʁɥin]",
-      "sentence1": "Une fine bruine enveloppait la foret endormie. (A fine drizzle enveloped the sleeping forest.)",
-      "sentence2": "Il prefere marcher sous la bruine automnale sans parapluie. (He prefers to walk in the autumn drizzle without an umbrella.)"
+      "type_in_language": "nom",
+      "phonetic": "[ka.ma.ʁad.ʁi]",
+      "sentence1": "J'aime la camaraderie qui règne dans ce club de sport. (I love the camaraderie that reigns in this sports club.)",
+      "sentence2": "Cette belle amitié est née d'une sincère camaraderie. (This beautiful friendship was born from a sincere camaraderie.)"
     },
     {
       "language": "German",
-      "word": "Nebel",
-      "meaning": "A cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface; fog",
+      "word": "verbundenheit",
+      "meaning": "a feeling of closeness, attachment, or solidarity with others",
       "type": "Noun",
       "type_in_language": "Nomen",
-      "phonetic": "[ˈneːbl̩]",
-      "sentence1": "Der dichte Nebel ver barg die herbstlichen baeume. (The dense fog hid the autumn trees.)",
-      "sentence2": "Am morgen lichtete sich der Nebel langsam ueber dem See. (In the morning the fog slowly cleared over the lake.)"
+      "phonetic": "[fɛɐ̯ˈbʊndn̩haɪ̯t]",
+      "sentence1": "Sie spürten eine tiefe Verbundenheit zueinander. (They felt a deep sense of connection to each other.)",
+      "sentence2": "Die Musik schuf eine starke Verbundenheit unter den Zuhörern. (The music created a strong bond among the listeners.)"
     },
     {
       "language": "Japanese",
-      "word": "Kogarashi",
-      "meaning": "The cold wind that announces the arrival of winter",
+      "word": "kizuna",
+      "meaning": "bonds or emotional ties between people",
       "type": "Noun",
-      "type_in_language": "Meishi",
-      "phonetic": "[koɡaɾaɕi]",
-      "sentence1": "Kogarashi ga fuku to kisetsu wa fuyu ni kawaru. (When the cold winter wind blows, the season changes to winter.)",
-      "sentence2": "Kogarashi no oto ga mado o yurasu yoru datta. (It was a night when the sound of the cold winter wind shook the window.)"
+      "type_in_language": "meishi",
+      "phonetic": "[kʲizuna]",
+      "sentence1": "Kazoku no kizuna wa totemo taisetsu desu. (The bonds of family are very important.)",
+      "sentence2": "Kare-ra wa fukai kizuna de musubarete iru. (They are bound by a deep connection.)"
     },
     {
       "language": "Italian",
-      "word": "Scirocco",
-      "meaning": "A hot, dust-laden Mediterranean wind coming from the Sahara",
+      "word": "affinita",
+      "meaning": "natural liking, rapport, or close relationship based on similar interests",
       "type": "Noun",
-      "type_in_language": "Nome",
-      "phonetic": "[ʃiˈrɔk.ko]",
-      "sentence1": "Lo scirocco porta sabbia rossa dal deserto africano. (The sirocco brings red sand from the African desert.)",
-      "sentence2": "Durante lo scirocco l'aria diventa umida e pesante. (During the sirocco the air becomes humid and heavy.)"
+      "type_in_language": "sostantivo",
+      "phonetic": "[af.fi.niˈta]",
+      "sentence1": "Tra di loro c'è una grande affinita elettiva. (Between them there is a great elective affinity.)",
+      "sentence2": "La loro affinita di idee li ha resi inseparabili. (Their similarity of ideas made them inseparable.)"
     },
     {
       "language": "Chinese",
-      "word": "Mulan",
-      "meaning": "Magnolia flower, blooming in spring",
+      "word": "ganqing",
+      "meaning": "feelings of affection, emotional connection, or friendly relations between people",
       "type": "Noun",
-      "type_in_language": "Mingci",
-      "phonetic": "[mǔ lán]",
-      "sentence1": "Chuntian de shihou, yuanzi li de mulanhua zhengkai le. (In springtime, the magnolia flowers in the courtyard have bloomed.)",
-      "sentence2": "Mulan de xiangwei zai chunfeng zhong piao dong. (The fragrance of the magnolia drifts in the spring breeze.)"
+      "type_in_language": "mingci",
+      "phonetic": "[ɡan tɕʰiŋ]",
+      "sentence1": "Tamen de ganqing hen hao. (Their relationship and mutual affection are very good.)",
+      "sentence2": "Zhege tuandui de ganqing zai rijian jiaqiang. (The connection and rapport within this team are strengthening day by day.)"
     },
     {
       "language": "Korean",
-      "word": "Noraeul",
-      "meaning": "An afterglow or sunset glow in the sky",
+      "word": "jeong",
+      "meaning": "a deep feeling of loyalty, emotional attachment, and affection toward someone",
       "type": "Noun",
-      "type_in_language": "Myeongsa",
-      "phonetic": "[no.ɾa.ul]",
-      "sentence1": "Jeonyeok noraeul-i haneul-eul붉ge muldeuligo issda. (The evening afterglow is coloring the sky red.)",
-      "sentence2": "Bada wi-ro pyeolchyeojin noraeul-i cham areumdapda. (The afterglow spreading over the sea is truly beautiful.)"
+      "type_in_language": "myeongsa",
+      "phonetic": "[tɕʌŋ]",
+      "sentence1": "Hanguk saramdeureun jeongi manha. (Korean people have a lot of warm emotional attachment and heart.)",
+      "sentence2": "oraen sigan dong-an jeongi deul-eotda. (We have developed a deep emotional bond over a long time.)"
     },
     {
       "language": "Khmer",
-      "word": "Vreak",
-      "meaning": "Rain or rainfall, especially during the monsoon season",
+      "word": "santifap",
+      "meaning": "peaceful and friendly relations, harmony",
       "type": "Noun",
-      "type_in_language": "Nam noun",
-      "phonetic": "[vriək]",
-      "sentence1": "Phleang vreak nih chuoy daoy chraen samrab srov knong srae. (This monsoon rain helps a lot for the rice in the fields.)",
-      "sentence2": "Procheaschon niyeay tha rogvak vreak pteab ptean chuoy pka chhouk. (People say that the steady seasonal rain nurtures the lotus flowers.)"
+      "type_in_language": "kanam",
+      "phonetic": "[sɑn.ti.fɑp]",
+      "sentence1": "Puok ke roluo nou khet sra-laenhchea santifap. (They live in the province with friendly harmony.)",
+      "sentence2": "Santifap knong kromruos kuo ot chnam. (Harmony within the family is invaluable.)"
     },
     {
       "language": "Afrikaans",
-      "word": "Donderstorm",
-      "meaning": "A storm characterized by the presence of lightning and thunder, common in summer",
+      "word": "saamhorigheid",
+      "meaning": "solidarity, togetherness, and community spirit",
       "type": "Noun",
-      "type_in_language": "Selfstandige naamwoord",
-      "phonetic": "[ˈdɔndəʁstɔʁm]",
-      "sentence1": "'n Somerse donderstorm het skielik oor die vlaktes losgebreek. (A summer thunderstorm suddenly broke out over the plains.)",
-      "sentence2": "Die weerligstrale tydens die donderstorm was asemrowend mooi. (The lightning bolts during the thunderstorm were breathtakingly beautiful.)"
+      "type_in_language": "naamwoord",
+      "phonetic": "[sɑːmˈɦɔːrəçɦəit]",
+      "sentence1": "Daar was 'n groot gevoel van saamhorigheid onder die inwoners. (There was a great feeling of togetherness among the residents.)",
+      "sentence2": "Saamhorigheid is belangrik in moeilike tye. (Togetherness is important in difficult times.)"
     }
   ]
 }
