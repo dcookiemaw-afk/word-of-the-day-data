@@ -2,73 +2,11 @@
   "nuances": [
     {
       "language": "English",
-      "phrase": "Keeping up appearances",
-      "literal_meaning": "Maintaining external visual standards or facade",
-      "nuance_explanation": "Reflects the deep social pressure within middle-class British and Anglo culture to hide financial difficulty, family turmoil, or personal struggles to avoid social judgment.",
-      "example_usage": "Even though they were going bankrupt, they threw a lavish dinner party every month just for the sake of keeping up appearances."
-    },
-    {
-      "language": "Spanish",
-      "phrase": "Sobremesa",
-      "literal_meaning": "Over the table",
-      "nuance_explanation": "Captures the cultural custom of lingering around the dining table long after the meal has finished, engaged in leisurely conversation, bonding, and digestion.",
-      "example_usage": "Our Sunday family lunch featured a wonderful two-hour sobremesa filled with laughter and political debate."
-    },
-    {
-      "language": "French",
-      "phrase": "L'esprit de l'escalier",
-      "literal_meaning": "The spirit of the staircase",
-      "nuance_explanation": "Describes the frustrating social phenomenon of thinking of the perfect witty comeback or clever reply only after you have left the conversation and are walking down the stairs.",
-      "example_usage": "I suffered a terrible case of l'esprit de l'escalier when I thought of the exact right response to my boss's criticism hours later."
-    },
-    {
-      "language": "German",
-      "phrase": "Fremdschämen",
-      "literal_meaning": "Foreign shame",
-      "nuance_explanation": "Describes the profound, empathetic embarrassment you feel on behalf of another person who is completely oblivious to how socially awkward or humiliating their own behavior is.",
-      "example_usage": "I experienced intense fremdschämen when the contestant on the game show completely misunderstood a very basic question."
-    },
-    {
-      "language": "Japanese",
-      "phrase": "Ma",
-      "literal_meaning": "Negative space or pause",
-      "nuance_explanation": "Represents the culturally vital appreciation for strategic silence, empty space, and pauses in communication, recognizing that what is unsaid holds as much social weight as words.",
-      "example_usage": "The traditional tea master used deliberate ma to let the guests fully absorb the serenity of the moment."
-    },
-    {
-      "language": "Italian",
-      "phrase": "Gattopardismo",
-      "literal_meaning": "Leopard-ism (from the novel The Leopard)",
-      "nuance_explanation": "Describes a deep-seated political and social cynicism where superficial changes are made so that fundamentally everything remains exactly the same.",
-      "example_usage": "The corporate restructuring was a classic case of gattopardismo; the bosses changed titles, but the toxic culture persisted."
-    },
-    {
-      "language": "Chinese",
-      "phrase": "Guanxi",
-      "literal_meaning": "Connections or relationships",
-      "nuance_explanation": "Reflects the intricate social currency of interpersonal networks and mutual obligations that form the bedrock of both personal favors and business dealings in Chinese society.",
-      "example_usage": "Securing the regulatory permit without delay required leveraging years of careful guanxi building."
-    },
-    {
-      "language": "Korean",
-      "phrase": "Jeong",
-      "literal_meaning": "Affection, attachment, or feeling",
-      "nuance_explanation": "Denotes a deep, binding emotional bond and empathetic connection that develops between people over time, transcending simple affection to encompass loyalty and shared destiny.",
-      "example_usage": "Even though they argued constantly, decades of working together had forged an unbreakable jeong between the neighbors."
-    },
-    {
-      "language": "Khmer",
-      "phrase": "Bong Srey",
-      "literal_meaning": "Older brother, younger sister (used as romantic or affectionate terms)",
-      "nuance_explanation": "Demonstrates the cultural custom of framing romantic relationships through familiar kinship terminology, establishing a protective, respectful, and familial dynamic between partners.",
-      "example_usage": "He affectionately called his fiancée 'bong srey' while gently reminding her to wear a jacket in the evening breeze."
-    },
-    {
-      "language": "Afrikaans",
-      "phrase": "Gesellig",
-      "literal_meaning": "Sociable, cozy, or convivial",
-      "nuance_explanation": "Encapsulates the warm, inclusive cultural atmosphere of gathering with friends and family around a braai or hearth, characterized by shared happiness, good food, and belonging.",
-      "example_usage": "With the fire crackling and everyone telling stories, the evening on the veranda became wonderfully gesellig."
+      "title": "Bemused vs Amused",
+      "type": "Word Comparison",
+      "meaning": "Bemused means puzzled, bewildered, or confused, while amused means finding something funny or entertaining.",
+      "nuance_explanation": "Although 'bemused' is frequently used to mean slightly entertained or amused because of its phonetic similarity, it actually denotes a state of bemusement or mild confusion. True bemusedness carries a sense of being lost in thought or perplexed.",
+      "example_usage": "She looked at the complex modern art installation with a bemused expression, unable to decide whether it was brilliant or absolute nonsense."
     }
   ]
 }
