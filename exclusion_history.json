@@ -92,7 +92,8 @@
     "Verbondenheid",
     "Heelal",
     "Komeet",
-    "jubel"
+    "jubel",
+    "Gemoedsrus"
   ],
   "Spanish": [
     "Esperanza",
@@ -139,7 +140,8 @@
     "Solidaridad",
     "Galaxia",
     "Eclipse",
-    "jovialidad"
+    "jovialidad",
+    "Sosiego"
   ],
   "French": [
     "Magnifique",
@@ -187,7 +189,8 @@
     "Fraternité",
     "Cosmos",
     "Nebuleuse",
-    "allégresse"
+    "allégresse",
+    "Apaisement"
   ],
   "German": [
     "Wunderbar",
@@ -234,7 +237,8 @@
     "Wohlwollen",
     "Gravitation",
     "Galaxie",
-    "jubel"
+    "jubel",
+    "Innigkeit"
   ],
   "Japanese": [
     "Komorebi",
@@ -282,7 +286,8 @@
     "Fureai",
     "Wakusei",
     "Ryusei",
-    "shukufuku"
+    "shukufuku",
+    "Natsukashii"
   ],
   "Italian": [
     "Speranza",
@@ -328,7 +333,8 @@
     "Solidarietà",
     "Nebulosa",
     "Costellazione",
-    "esultanza"
+    "esultanza",
+    "Quiete"
   ],
   "Chinese": [
     "Xìngfú",
@@ -376,7 +382,8 @@
     "Gānyǔgòngkǔ",
     "Tàikōng",
     "Xīngchén",
-    "huanle"
+    "huanle",
+    "Ānníng"
   ],
   "Korean": [
     "Haengbok",
@@ -424,7 +431,8 @@
     "Hwabae",
     "Uju",
     "Yuseong",
-    "hwanhui"
+    "hwanhui",
+    "Pyeongon"
   ],
   "Khmer": [
     "Sro-noh",
@@ -471,6 +479,7 @@
     "Samakkethorm",
     "A-ka-kas",
     "Tarakar",
-    "amnou"
+    "amnou",
+    "Sangkroas"
   ]
 }
