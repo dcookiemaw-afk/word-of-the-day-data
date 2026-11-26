@@ -1,32 +1,42 @@
 {
   "English": [
-    "amity"
+    "amity",
+    "jubilation"
   ],
   "Spanish": [
-    "camaraderia"
+    "camaraderia",
+    "regocijo"
   ],
   "French": [
-    "camaraderie"
+    "camaraderie",
+    "allégresse"
   ],
   "German": [
-    "verbundenheit"
+    "verbundenheit",
+    "Erntefreude"
   ],
   "Japanese": [
-    "kizuna"
+    "kizuna",
+    "hōnen"
   ],
   "Italian": [
-    "affinita"
+    "affinita",
+    "esultanza"
   ],
   "Chinese": [
-    "ganqing"
+    "ganqing",
+    "fengshou"
   ],
   "Korean": [
-    "jeong"
+    "jeong",
+    "pungsong"
   ],
   "Khmer": [
-    "santifap"
+    "santifap",
+    "borabor"
   ],
   "Afrikaans": [
-    "saamhorigheid"
+    "saamhorigheid",
+    "oesvreugde"
   ]
 }

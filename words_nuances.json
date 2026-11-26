@@ -2,11 +2,11 @@
   "nuances": [
     {
       "language": "English",
-      "title": "Bemused vs Amused",
+      "title": "Nauseous vs Nauseated",
       "type": "Word Comparison",
-      "meaning": "Bemused means puzzled, bewildered, or confused, while amused means finding something funny or entertaining.",
-      "nuance_explanation": "Although 'bemused' is frequently used to mean slightly entertained or amused due to its phonetic similarity, it actually denotes a state of being mentally puzzled or lost in thought.",
-      "example_usage": "The professor looked at the bizarre physics theory with a bemused expression, trying to figure out how the student arrived at such a conclusion."
+      "meaning": "Feeling sick to one's stomach, with a subtle technical distinction between causing and experiencing the sickness.",
+      "nuance_explanation": "While 'nauseated' strictly means feeling sick, 'nauseous' historically means causing sickness to others (like a nauseous smell). Though common usage has blurred the line, traditional grammar dictates you feel nauseated by the boat ride, while the smell of the bilge water is nauseous.",
+      "example_usage": "After eating the questionable seafood, Mark felt intensely nauseated."
     }
   ]
 }
