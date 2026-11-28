@@ -2,103 +2,103 @@
   "words": [
     {
       "language": "English",
-      "word": "phronesis",
-      "meaning": "Practical wisdom or intelligence, especially in the context of moral virtue.",
+      "word": "melancholy",
+      "meaning": "A deep, pensive, and long-lasting sadness",
       "type": "Noun",
       "type_in_language": "noun",
-      "phonetic": "[frəˈniːsɪs]",
-      "sentence1": "His leadership required not just technical knowledge, but deep phronesis to navigate the ethical dilemma. (His leadership required not just technical knowledge, but deep practical wisdom to navigate the ethical dilemma.)",
-      "sentence2": "Ancient Greek philosophers considered phronesis to be the most vital virtue for a good ruler. (Ancient Greek philosophers considered practical wisdom to be the most vital virtue for a good ruler.)"
+      "phonetic": "[ˈmɛlənˌkɒli]",
+      "sentence1": "She felt a quiet melancholy as the autumn leaves began to fall (She felt a quiet melancholy as the autumn leaves began to fall).",
+      "sentence2": "The old photograph filled him with a sweet melancholy (The old photograph filled him with a sweet melancholy)."
     },
     {
       "language": "Spanish",
-      "word": "mesura",
-      "meaning": "Moderation, restraint, and prudence in actions or speech.",
+      "word": "nostalgia",
+      "meaning": "A sentimental longing or affectionate yearning for the past",
       "type": "Noun",
       "type_in_language": "sustantivo",
-      "phonetic": "[meˈsu.ɾa]",
-      "sentence1": "El sabio aconsejó actuar con mesura frente a las provocaciones. (The wise person advised acting with moderation in the face of provocations.)",
-      "sentence2": "Su discurso demostró gran mesura y madurez intelectual. (His speech demonstrated great restraint and intellectual maturity.)"
+      "phonetic": "[nosˈtal.xja]",
+      "sentence1": "Escuchar esa canción vieja me trajo mucha nostalgia (Listening to that old song brought me a lot of nostalgia).",
+      "sentence2": "Había una nota de nostalgia en su voz al recordar su infancia (There was a note of nostalgia in his voice when remembering his childhood)."
     },
     {
       "language": "French",
-      "word": "discernement",
-      "meaning": "The ability to judge well; perception and philosophical insight.",
+      "word": "attendrissement",
+      "meaning": "A feeling of tenderness or being touched emotionally",
       "type": "Noun",
       "type_in_language": "nom",
-      "phonetic": "[di.sɛʁ.nə.mɑ̃]",
-      "sentence1": "Il faut beaucoup de discernement pour distinguer l'illusion de la vérité. (It takes a lot of discernment to distinguish illusion from truth.)",
-      "sentence2": "Le philosophe a analysé la situation avec un grand discernement. (The philosopher analyzed the situation with great insight.)"
+      "phonetic": "[atɑ̃dʁismɑ̃]",
+      "sentence1": "Un sentiment d'attendrissement l'envahit en voyant le petit chaton (A feeling of tenderness overcame him upon seeing the little kitten).",
+      "sentence2": "Elle regardait son grand-père avec un sourire d'attendrissement (She looked at her grandfather with a smile of tenderness)."
     },
     {
       "language": "German",
-      "word": "Weltanschauung",
-      "meaning": "A particular philosophy or view of life; a world view.",
+      "word": "sehnsucht",
+      "meaning": "An intense longing or yearning for a person, place, or feeling",
       "type": "Noun",
       "type_in_language": "Nomen",
-      "phonetic": "[ˈvɛltˌʔanʃaʊʊŋ]",
-      "sentence1": "Seine philosophische Weltanschauung wurde von Immanuel Kant geprägt. (His philosophical worldview was shaped by Immanuel Kant.)",
-      "sentence2": "Jede Kultur entwickelt im Laufe der Zeit ihre eigene Weltanschauung. (Every culture develops its own worldview over the course of time.)"
+      "phonetic": "[ˈzeːnˌzʊxt]",
+      "sentence1": "Er spürte eine tiefe Sehnsucht nach seiner Heimat (He felt a deep yearning for his homeland).",
+      "sentence2": "Ihre Augen waren voller Sehnsucht, als sie in die Ferne blickte (Her eyes were full of longing as she looked into the distance)."
     },
     {
       "language": "Japanese",
-      "word": "eichi",
-      "meaning": "Deep wisdom, supreme intelligence, or divine intellect.",
+      "word": "setsunasa",
+      "meaning": "A poignant, bittersweet sadness or painful yearning in the heart",
       "type": "Noun",
       "type_in_language": "meishi",
-      "phonetic": "[eitɕi]",
-      "sentence1": "Jinrui wa sono eichi o kashite konnan o norikoeta. (Humanity used its deep wisdom to overcome the difficulty.)",
-      "sentence2": "Kodai no tetsugakusha-tachi wa fukai eichi o motteita. (The ancient philosophers possessed profound wisdom.)"
+      "phonetic": "[se̞tsu̥na̠sa̠]",
+      "sentence1": "Kono uta wa mune ni setsunasa o kanji saseru (This song makes one feel a poignant sadness in the chest).",
+      "sentence2": "Kare no kōkai no naka ni setsunasa ga atta (There was a bittersweet yearning amidst his regret)."
     },
     {
       "language": "Italian",
-      "word": "giudizio",
-      "meaning": "Sound judgment, discretion, and philosophical discernment.",
+      "word": "commozione",
+      "meaning": "A deep emotional stirring, moving emotion, or touch of sentiment",
       "type": "Noun",
       "type_in_language": "sostantivo",
-      "phonetic": "[dʒuˈdi.t͡sjo]",
-      "sentence1": "Ci vuole grande giudizio per comprendere la natura umana. (It takes great sound judgment to understand human nature.)",
-      "sentence2": "Le sue parole riflettevano il giudizio di un vecchio saggio. (His words reflected the judgment of an old wise man.)"
+      "phonetic": "[kommoˈtsjoːne]",
+      "sentence1": "Gli occhi le si inumidirono per la commozione (Her eyes watered with emotion).",
+      "sentence2": "Il suo discorso ha suscitato grande commozione tra il pubblico (His speech stirred great emotion among the audience)."
     },
     {
       "language": "Chinese",
-      "word": "zheshi",
-      "meaning": "Philosophy, or the study of fundamental truths about knowledge and existence.",
-      "type": "Noun",
-      "type_in_language": "mingci",
-      "phonetic": "[ʈʂɤ̌ ʂɻ̩̂]",
-      "sentence1": "Dongfang zheshi zaiyu xunhuan he ziran de hexie. (Eastern philosophy lies in the harmony between cycles and nature.)",
-      "sentence2": "Ta yi sheng de jingli yanjiu gudaide zheshi. (He spent his life studying ancient philosophy.)"
+      "word": "gandong",
+      "meaning": "Deeply moved, touched, or emotionally stirred",
+      "type": "Adjective",
+      "type_in_language": "xingrongci",
+      "phonetic": "[ɡàn.dóŋ]",
+      "sentence1": "Ta de hua rang wo hen gandong (What she said made me very moved).",
+      "sentence2": "Zhege gushi jianzhi ling ren gandong (This story is simply touching)."
     },
     {
       "language": "Korean",
-      "word": "cheolhak",
-      "meaning": "Philosophy, the pursuit of wisdom.",
+      "word": "seorseorham",
+      "meaning": "A feeling of slight disappointment, emotional coldness, or emptiness",
       "type": "Noun",
       "type_in_language": "myeongsa",
-      "phonetic": "[tɕʰʌl.ɦak̚]",
-      "sentence1": "Socrateseun seyang cheolhakui giyoseowotda. (Socrates was the foundation of Western philosophy.)",
-      "sentence2": "Insaengui uimireul chatneun geotcheoreom cheolhakeun jungyohada. (Just like finding the meaning of life, philosophy is important.)"
+      "phonetic": "[sʌ̹sʌ̹u̯lɦa̠m]",
+      "sentence1": "Chinguga nae illak-eul sibeochaeseo seorseorham-i deul-eotda (I felt a bit hurt and disappointed when my friend ignored my message).",
+      "sentence2": "Geu mal-eun naege keun seorseorham-eul namgillaeji anhassda (Those words left a subtle sting of disappointment in me)."
     },
     {
       "language": "Khmer",
-      "word": "phea-sa-vada",
-      "meaning": "Philosophy, or deep intellectual doctrine and wisdom.",
+      "word": "sok_sacheat",
+      "meaning": "A state of emotional grief, sorrow, or heavy-hearted sadness",
       "type": "Noun",
-      "type_in_language": "noun",
-      "phonetic": "[pʰea sa va da]",
-      "sentence1": "Korsphea-sa-vada chea kruosrea samkhan knongkar kit. (Studying philosophy is important for thinking.)",
-      "sentence2": "Avey del anak ningkitchea roop-bap phea-sa-vada? (What you are thinking is a philosophical form?)"
+      "type_in_language": "kanam",
+      "phonetic": "[sok saˈciət]",
+      "sentence1": "Koan-neak ban chol-job knong kar sok_sacheat yureuy (She experienced deep sorrow for a long time).",
+      "sentence2": "Kbar-chnanh robos koan-neak ban banh-jenh ampi sok_sacheat (His facial expression revealed a deep heartache)."
     },
     {
       "language": "Afrikaans",
-      "word": "wysbegeerte",
-      "meaning": "Philosophy; the love and pursuit of wisdom.",
+      "word": "angs",
+      "meaning": "Anxiety, fear, or profound uneasy dread",
       "type": "Noun",
       "type_in_language": "selfstandige naamwoord",
-      "phonetic": "[ˈvəisbəˌxɪərtə]",
-      "sentence1": "Die antieke Grieke het die fondamente van die wysbegeerte gelê. (The ancient Greeks laid the foundations of philosophy.)",
-      "sentence2": "Wysbegeerte help ons om krities oor die lewe na te dink. (Philosophy helps us to think critically about life.)"
+      "phonetic": "[aŋs]",
+      "sentence1": "Sy het 'n gevoel van diep angs voor die eksamen gehad (She felt a sense of deep anxiety before the exam).",
+      "sentence2": "Die donker storm het by hom groot angs veroorsaak (The dark storm caused great anxiety within him)."
     }
   ]
 }

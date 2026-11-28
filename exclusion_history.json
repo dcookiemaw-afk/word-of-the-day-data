@@ -2,51 +2,61 @@
   "English": [
     "amity",
     "jubilation",
-    "phronesis"
+    "phronesis",
+    "melancholy"
   ],
   "Spanish": [
     "camaraderia",
     "regocijo",
-    "mesura"
+    "mesura",
+    "nostalgia"
   ],
   "French": [
     "camaraderie",
     "allégresse",
-    "discernement"
+    "discernement",
+    "attendrissement"
   ],
   "German": [
     "verbundenheit",
     "Erntefreude",
-    "Weltanschauung"
+    "Weltanschauung",
+    "sehnsucht"
   ],
   "Japanese": [
     "kizuna",
     "hōnen",
-    "eichi"
+    "eichi",
+    "setsunasa"
   ],
   "Italian": [
     "affinita",
     "esultanza",
-    "giudizio"
+    "giudizio",
+    "commozione"
   ],
   "Chinese": [
     "ganqing",
     "fengshou",
-    "zheshi"
+    "zheshi",
+    "gandong"
   ],
   "Korean": [
     "jeong",
     "pungsong",
-    "cheolhak"
+    "cheolhak",
+    "seorseorham"
   ],
   "Khmer": [
     "santifap",
     "borabor",
-    "phea-sa-vada"
+    "phea-sa-vada",
+    "sok_sacheat"
   ],
   "Afrikaans": [
     "saamhorigheid",
     "oesvreugde",
-    "wysbegeerte"
+    "wysbegeerte",
+    "angs"
   ]
 }
